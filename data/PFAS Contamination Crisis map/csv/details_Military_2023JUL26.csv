@@ -1,0 +1,457 @@
+tmp,ewg_id,name,state,population_served
+,7,Eielson Air Force Base,"Eielson, Alaska",Firefighting foam
+,13,Joint Base Cape Cod,"Barnstable County, Massachusetts",Firefighting foam
+,16,Wurtsmith Air Force Base,"Iosco County, Michigan",Firefighting foam
+,23,Pease Air Force Base,"Rockingham County, New Hampshire",Firefighting foam
+,24,Naval Weaspons Station Earle,"Colts Neck, New Jersey",Firefighting foam
+,35,Chittenden County,"Chittenden County, Vermont",Firefighting foam
+,38,Naval Auxiliary Landing Field  Fentress,"Chesapeake, Virginia",Firefighting foam
+,42,New Castle Airport,"New Castle County, Delaware",Firefighting foam
+,43,Dover Air Force Base,"Dover, Delaware",Firefighting foam
+,44,Barnes Municipal Airport,"Westfield, Massachusetts",Firefighting foam
+,46,Joint Base McGuire-Dix-Lakehurst - McGuire,"McGuire, New Jersey",Firefighting foam
+,47,Fairchild Air Force Base,"Fairchild, Washington",Firefighting foam
+,49,Camp Grayling,"Crawford County, Michigan",Firefighting foam
+,50,Plattsburgh Air Force Base,"Plattsburgh, New York",Firefighting foam
+,57,Brunswick Naval Air Station,"Brunswick, Maine",Firefighting foam
+,67,MCOLF Atlantic,"Atlantic, North Carolina",Firefighting foam
+,68,Fort McCoy,"Fort McCoy, Wisconsin",Firefighting foam
+,76,Naval Outlying Field Coupeville,"Coupeville, Washington",Firefighting foam
+,77,Naval Air Station Oceana,"Virginia Beach, Virginia",Firefighting foam
+,85,Selfridge Air National Guard Base,"Mt. Clemens, Michigan",Firefighting foam
+,97,Fort Hunter Liggett,"Monterey County, California",Firefighting foam
+,98,Fort Ord,"Monterey Bay, California",Firefighting foam
+,99,NSA Monterey,"Dixon, California",Firefighting foam
+,102,Marine Corps Logistics Base Barstow,"Barstow, California",Firefighting foam
+,103,Naval Air Station Alameda,"Alameda, California",Firefighting foam
+,104,Naval Air Weapons Station  China Lake,"Kern, San Bernardino and Inyo Counties, California",Firefighting foam
+,105,Naval Construction Battalion Center  Port Hueneme,"Port Hueneme, California",Firefighting foam
+,106,Naval Station Treasure Island,"Treasure Island, California",Firefighting foam
+,107,El Toro Marine Corps Air Station,"Orange County, California",Firefighting foam
+,108,Marine Corps Air Station Tustin,"Tustin, California",Firefighting foam
+,109,Twentynine Palms Strategic Expeditionary Landing Field,"Twentynine Palms, San Bernardino County, California",Firefighting foam
+,110,March Air Force Base,"March ARB, California",Firefighting foam
+,111,Mather Air Force Base,"Mather, California",Firefighting foam
+,112,Beale Air Force Base,"Beale, California",Firefighting foam
+,113,Travis Air Force Base,"Fairfield, California",Firefighting foam
+,114,Castle Air Force Base,"Atwater, California",Firefighting foam
+,115,George Air Force Base,"Victorville, California",Firefighting foam
+,116,McClellan Air Force Base,"Sacramento County, California",Firefighting foam
+,117,Point Barrow Long Range Radar Site,"Barrow, Alaska",Firefighting foam
+,118,Amchitka Air Force Base,"Amchitka, Alaska",Firefighting foam
+,119,Galena Air Force Base,"Galena, Alaska",Firefighting foam
+,120,Marine Corps Air Station Yuma,"Yuma, Arizona",Firefighting foam
+,121,Cape Canaveral,"Cape Canaveral, Florida",Firefighting foam
+,122,Eglin Air Force Base,"Eglin, Florida",Firefighting foam
+,123,Patrick Air Force Base,"Patrick, Florida",Firefighting foam
+,124,Moody Air Force Base,"Lowndes County, Georgia",Firefighting foam
+,125,Robins Air Force Base,"Houston County, Georgia",Firefighting foam
+,126,Mountain Home Air Force Base,"Mountain Home, Idaho",Firefighting foam
+,127,Chanute Air Force Base,"Rantoul, Illinois",Firefighting foam
+,128,Grissom Air Force Base,"Grissom, Indiana",Firefighting foam
+,129,Fort Leavenworth,"Leavenworth, Kansas",Firefighting foam
+,130,England Air Force Base,"Rapides County, Louisiana",Firefighting foam
+,131,Navy VLF Transmitter Cutler,"Cutler, Maine",Firefighting foam
+,132,Portsmouth Naval Shipyard,"Kittery, York County, Maine",Firefighting foam
+,133,Loring Air Force Base,"Aroostook County, Maine",Firefighting foam
+,134,Fort Meade,"Fort Meade (CDP), Maryland",Firefighting foam
+,135,Annapolis (BRAC),"Annapolis, Maryland",Firefighting foam
+,136,US Naval Research Laboratory Chesapeake Bay Detachment,"Chesapeake Beach, Maryland",Firefighting foam
+,137,White Oak - Naval Surface Warfare Center Dahlgren Division Detachment,"Silver Spring, Maryland",Firefighting foam
+,139,Bedford Naval Weapons Industrial Reserve Plant,"Bedford, Massachusetts",Firefighting foam
+,140,Naval Air Station South Weymouth,"Weymouth/Rockland/Abington, Massachusetts",Firefighting foam
+,141,Belmont Armory,"Kent County, Michigan",Firefighting foam
+,142,Gulfport Naval Construction Battalion Center,"Gulfport, Mississippi",Firefighting foam
+,143,Naval Air Station Meridian,"Luaderdale County/Kemper County, Mississippi",Firefighting foam
+,144,Richards-Gebaur Air Force Base,"Kansas City, Missouri",Firefighting foam
+,145,New Boston Air Force Station,"New Boston, New Hampshire",Firefighting foam
+,146,Newington,"Newington, New Hampshire",Firefighting foam
+,147,Naval Air Warfare Center Trenton,"Ewing Township, New Jersey",Firefighting foam
+,149,Seneca Army Ammunition Plant,"Seneca County, New York",Firefighting foam
+,151,"Naval Weapons Industrial Reserve Plant, Calverton (NWIRP)","Riverhead, New York",Firefighting foam
+,152,Griffiss Air Force Base,"Rome, New York",Firefighting foam
+,153,Defense Fuel Support Point  Verona,"Verona, New York",Firefighting foam
+,154,Altus Air Force Base,"Altus, Oklahoma",Firefighting foam
+,155,Letterkenny,"Chambersburg, Pennsylvania",Firefighting foam
+,156,North Penn,"Worcester, Pennsylvania",Firefighting foam
+,157,Harrisburg International Airport,"Dauphin County, Pennsylvania",Firefighting foam
+,158,Naval Station Newport,"Newport County, Rhode Island",Firefighting foam
+,159,Myrtle Beach Air Force Base,"Myrtle Beach, South Carolina",Firefighting foam
+,160,Ellsworth Air Force Base,"Box Elder, South Dakota",Firefighting foam
+,161,Naval Support Activity Mid-South,"Millington, Tennesssee",Firefighting foam
+,162,El Campo TNG Site,"Wharton County, Texas",Firefighting foam
+,163,Corpus Christi Texas Naval Air Station,"Nueces County, Texas",Firefighting foam
+,164,Grand Prairie Armed Forces Reserve Complex,"Dallas, Texas",Firefighting foam
+,165,Joint Base San Antonio - Lackland,"San Antonio, Texas",Firefighting foam
+,166,Bergstrom Air Force Base,"Austin, Texas",Firefighting foam
+,167,Kelly Air Force Base,"San Antonio, Texas",Firefighting foam
+,168,Hill Air Force Base,"Ogden, Weber County, Utah",Firefighting foam
+,169,Norfolk Virginia Naval Base,"Norfolk, Virginia",Firefighting foam
+,170,Langley Air Force Base,"Hampton, Virginia",Firefighting foam
+,171,General Mitchell International Airport,"Milwaukee, Wisconsin",Firefighting foam
+,172,F.E. Warren Air Force Base,"Warren, Wyoming",Firefighting foam
+,173,Naval Air Station Jacksonville,"Jacksonville, Florida",Firefighting foam
+,174,Naval Air Station Pensacola (Bronson Field),"Pensacola, Florida",Firefighting foam
+,175,Naval Air Station Pensacola (Saufley Field),"Pensacola, Florida",Firefighting foam
+,176,Naval Air Station Whiting Field,"Milton, Florida",Firefighting foam
+,177,Naval Air Station Pensacola,"Pensacola, Florida",Firefighting foam
+,178,Horsham Air Guard Station,"Montgomery County, Pennsylvania",Firefighting foam
+,179,Tinker Air Force Base,"Oklahoma City, Oklahoma",Firefighting foam
+,180,Peterson Air Force Base,"Colorado Springs, Colorado",Firefighting foam
+,198,Dobbins Air Force Base,"Cobb County, Georgia",Firefighting foam
+,215,Cannon Air Force Base,"Cannon, New Mexico",Firefighting foam
+,244,A Lincoln Spngfld (Capital),"Springfield, Illinois",Firefighting foam
+,245,Air Force Plant 3,"Tulsa, Oklahoma",Firefighting foam
+,246,Air Force Plant 44,"Pima County, Arizona",Firefighting foam
+,247,Air Force Plant 6,"Cobb County, Georgia",Firefighting foam
+,248,Air Force Plant 85,"Columbus, Ohio",Firefighting foam
+,249,Air Force Plant PJKS,"Jefferson County, Colorado",Firefighting foam
+,250,Alpena County Regional Airport,"Alpena County, Michigan",Firefighting foam
+,251,Arnold Air Force Base,"Coffee County, Tennessee",Firefighting foam
+,252,Avon Park Air Force Range,"Polk County, Florida",Firefighting foam
+,253,Bangor International Airport,"Bangor, Maine",Firefighting foam
+,254,Barksdale Air Force Base,"Bossier City, Louisiana",Firefighting foam
+,255,Birmingham International Airport,"Birmingham, Alabama",Firefighting foam
+,256,Boise Air Terminal,"Boise City, Idaho",Firefighting foam
+,257,Bradley International Airport,"Windsor Locks, Connecticut",Firefighting foam
+,258,Buckley Air Force Base,"Aurora, Colorado",Firefighting foam
+,259,Burlington International Airport,"South Burlington, Vermont",Firefighting foam
+,260,Charleston Air Force Base,"North Charleston, South Carolina",Firefighting foam
+,261,Charlotte Douglas International Airport,"Charlotte, North Carolina",Firefighting foam
+,262,Cheyenne Municipal Airport,"Cheyenne, Wyoming",Firefighting foam
+,263,Clear Air Force Station,"Anderson, Alaska",Firefighting foam
+,264,Columbus Air Force Base,"Lowndes County, Mississippi",Firefighting foam
+,265,Davis-Monthan Air Force Base,"Tucson, Arizona",Firefighting foam
+,266,Des Moines International Airport,"Des Moines, Iowa",Firefighting foam
+,267,Duluth International Airport,"Duluth, Minnesota",Firefighting foam
+,268,Dyess Air Force Base,"Abilene, Texas",Firefighting foam
+,269,Eaker Air Force Base,"Blytheville, Arkansas",Firefighting foam
+,270,Edwards Air Force Base,"Edwards, California",Firefighting foam
+,271,Ellington Field Joint Reserve Base,"Houston, Texas",Firefighting foam
+,272,Elmendorf Air Force Base,"Anchorage, Alaska",Firefighting foam
+,273,Fort Eustis,"Newport News, Virginia",Firefighting foam
+,274,Fort Richardson,"Anchorage, Alaska",Firefighting foam
+,275,Fort Smith Municipal Airport,"Fort Smith, Arkansas",Firefighting foam
+,276,Gentile Air Force Base,"Kettering, Ohio",Firefighting foam
+,277,Great Falls International Airport,"Great Falls, Montana",Firefighting foam
+,278,Gulfport Regional Airport,"Gulfport, Mississippi",Firefighting foam
+,279,Hancock Field Air National Guard Base,"Onondaga County, New York",Firefighting foam
+,280,Hanscom Air Force Base,"Middlesex County, Massachusetts",Firefighting foam
+,281,Hector Field International Airport,"Fargo, North Dakota",Firefighting foam
+,282,Hulman International Airport,"Terre Haute, Indiana",Firefighting foam
+,283,Hurlburt Field Air Force Base,"Okaloosa County, Florida",Firefighting foam
+,284,Jackson International Airport,"Jackson, Mississippi",Firefighting foam
+,285,Jacksonville International Airport,"Jacksonville, Florida",Firefighting foam
+,286,Joe Foss Field Air National Guard Base,"Sioux Falls, South Dakota",Firefighting foam
+,287,Joint Base Andrews,"Andrews, Maryland",Firefighting foam
+,288,Keesler Air Force Base,"Biloxi, Mississippi",Firefighting foam
+,289,W.K. Kellogg Airport,"Springfield, Michigan",Firefighting foam
+,290,Key Field Air National Guard Base,"Meridian, Mississippi",Firefighting foam
+,291,K.I. Sawyer Air Force Base,"Marquette County, Michigan",Firefighting foam
+,292,Klamath Falls International Airport,"Klamath Falls, Oregon",Firefighting foam
+,293,Kulis Air National Guard Base,"Anchorage, Alaska",Firefighting foam
+,294,St. Louis Lambert International Airport,"St. Louis County, Missouri",Firefighting foam
+,295,Laughlin Air Force Base,"Laughlin, Texas",Firefighting foam
+,296,Lincoln Municipal Airport,"Lincoln, Nebraska",Firefighting foam
+,297,Lovell Field,"Chattanooga, Tennessee",Firefighting foam
+,298,Lowry Air Force Base,"Denver, Colorado",Firefighting foam
+,299,Luke Air Force Base,"Glendale, Arizona",Firefighting foam
+,300,MacDill Air Force Base,"Tampa, Florida",Firefighting foam
+,301,Malmstrom Air Force Base,"Malmstrom, Montana",Firefighting foam
+,302,Easten West Virginia Regional Airport,"Jefferson County, West Virginia",Firefighting foam
+,303,Maxwell-Gunter Air Force Base,"Montgomery, Alabama",Firefighting foam
+,304,McEntire Air Guard Base,"Richland County, South Carolina",Firefighting foam
+,305,McGhee Tyson Airport,"Blount County, Tennessee",Firefighting foam
+,306,Memphis International Airport,"Memphis, Tennessee",Firefighting foam
+,307,Minot Air Force Base,"Minot, North Dakota",Firefighting foam
+,308,Nashville Metropolitan Airport,"Nashville-Davidson metropolitan government (balanc, Tennessee",Firefighting foam
+,309,Newark Air Force Base,"Heath, Ohio",Firefighting foam
+,310,Niagara Falls Air Reserve Station,"Niagara County, New York",Firefighting foam
+,311,Norton Air Force Base,"San Bernardino, California",Firefighting foam
+,312,Will Rogers World Airport,"Oklahoma City, Oklahoma",Firefighting foam
+,313,Peoria International Airport,"Peoria County, Illinois",Firefighting foam
+,314,Portland International Airport,"Portland, Oregon",Firefighting foam
+,315,Quonset State Airport,"Washington County, Rhode Island",Firefighting foam
+,316,Randolph Air Force Base,"Randolph, Texas",Firefighting foam
+,317,Reese Air Force Base,"Lubbock County, Texas",Firefighting foam
+,318,Reno Tahoe International Airport,"Reno, Nevada",Firefighting foam
+,319,Richmond International Airport,"Henrico County, Virginia",Firefighting foam
+,320,Rickenbacker Air Force Base,"Franklin County, Ohio",Firefighting foam
+,321,Rosecrans Memorial Airport,"Buchanan County, Missouri",Firefighting foam
+,322,Salt Lake City International Airport,"Salt Lake City, Utah",Firefighting foam
+,323,Seymour Johnson Air Force Base,"Goldsboro, North Carolina",Firefighting foam
+,324,Shaw Air Force Base,"Sumter, South Carolina",Firefighting foam
+,325,Sheppard Air Force Base,"Wichita Falls, Texas",Firefighting foam
+,326,Sioux Gateway Municipal Airport,"Sioux City, Iowa",Firefighting foam
+,327,Sky Harbor International Airport,"Phoenix, Arizona",Firefighting foam
+,328,Stanly County Airport,"Stanly County, North Carolina",Firefighting foam
+,329,Stewart International Airport,"Orange County, New York",Firefighting foam
+,330,Toledo Express Airport,"Lucas County, Ohio",Firefighting foam
+,331,Truax Field,"Madison, Wisconsin",Firefighting foam
+,332,Tucson International Airport,"Pima County, Arizona",Firefighting foam
+,333,Tulsa International Airport,"Tulsa County, Oklahoma",Firefighting foam
+,334,Tyndall Air Force Base,"Tyndall, Florida",Firefighting foam
+,335,Vance Air Force Base,"Enid, Oklahoma",Firefighting foam
+,336,Vandenberg Air Force Base,"Santa Barbara County, California",Firefighting foam
+,337,Volk Field,"Camp Douglas, Wisconsin",Firefighting foam
+,338,Westover Air Reserve Base,"Chicopee, Massachusetts",Firefighting foam
+,339,Whiteman Air Force Base,"Whiteman, Missouri",Firefighting foam
+,340,Wright-Patterson Air Force Base,"Wright-Patterson, Ohio",Firefighting foam
+,342,Patuxent River Naval Air Station,"St. Mary's, Washington",Firefighting foam
+,345,Joint Base Lewis-McChord - Lewis,"McChord AFB, Washington",Firefighting foam
+,346,Aberdeen Proving Ground,"Aberdeen Proving Ground, Maryland",Firefighting foam
+,347,Alcantra Armory Complex,"Tanaina, Alaska",Firefighting foam
+,348,Bend NG Site (COTEF),"Deschutes County, Oregon",Firefighting foam
+,349,Biak Training Center,"Crook County, Oregon",Firefighting foam
+,350,Billings NG Site,"Billings, Montana",Firefighting foam
+,351,Bridgeton NG Si e,"Cumberland County, New Jersey",Firefighting foam
+,352,Buckeye TNG Site,"Buckeye, Arizona",Firefighting foam
+,353,Camp Ashland,"Saunders County, Nebraska",Firefighting foam
+,354,Camp Baker,"Allegany County, Maryland",Firefighting foam
+,355,Camp Blanding,"Clay County, Florida",Firefighting foam
+,356,Camp Bowie,"Brown County, Texas",Firefighting foam
+,357,Camp Davis,"Barnes County, North Dakota",Firefighting foam
+,358,Camp Ethan Allen,"Chittenden County, Vermont",Firefighting foam
+,359,Camp Florence (FMR),"Pinal County, Arizona",Firefighting foam
+,360,Camp Fretterd Readiness Center,"Baltimore County, Maryland",Firefighting foam
+,361,Camp Grafton,"Ramsey County, North Dakota",Firefighting foam
+,362,Camp Gruber,"Muskogee County, Oklahoma",Firefighting foam
+,363,Camp Guernsey,"Platte County, Wyoming",Firefighting foam
+,364,Camp McCain,"Grenada County, Mississippi",Firefighting foam
+,365,Camp Minden,"Webster County, Louisiana",Firefighting foam
+,366,Camp Navajo,"Coconino County, Arizona",Firefighting foam
+,367,Camp Parks,"Dublin, California",Firefighting foam
+,368,Camp Ravenna,"Portage County, Ohio",Firefighting foam
+,369,Camp Rilea,"Clatsop County, Oregon",Firefighting foam
+,370,Camp Ripley,"Morrison County, Minnesota",Firefighting foam
+,371,Camp Roberts,"Monterey County, California",Firefighting foam
+,372,Camp Shelby,"Forrest County, Mississippi",Firefighting foam
+,373,Camp Smith,"Westchester County, New York",Firefighting foam
+,374,Camp Tarlton,"Fairfield County, Ohio",Firefighting foam
+,375,Camp Williams,"Utah County, Utah",Firefighting foam
+,376,Carlisle Barracks,"Cumberland County, Pennsylvania",Firefighting foam
+,377,Center Strafford Training Site,"Strafford County, New Hampshire",Firefighting foam
+,378,Christmas Valley AFS,"Lake County, Oregon",Firefighting foam
+,379,Coventry TNG Site,"Kent County, Rhode Island",Firefighting foam
+,380,Custer TNG Site,"Custer County, South Dakota",Firefighting foam
+,382,Flemington NG Site,"Hunterdon County, New Jersey",Firefighting foam
+,383,Fort Bragg,"Fayetteville, North Carolina",Firefighting foam
+,384,Fort Detrick,"Frederick, Maryland",Firefighting foam
+,385,Fort Drum,"Fort Drum, New York",Firefighting foam
+,386,Fort Gordon,"Augusta-Richmond County consol, Georgia",Firefighting foam
+,387,Fort Huachuca,"Sierra Vista, Arizona",Firefighting foam
+,388,Fort Leonard Wood,"Fort Leonard Wood, Missouri",Firefighting foam
+,389,Fort Ri ey,"Fort Riley, Kansas",Firefighting foam
+,390,Franklin NG Site,"Voorhees, New Jersey",Firefighting foam
+,391,Frederick Readiness Center,"Ballenger Creek, Maryland",Firefighting foam
+,392,Garrison NG Site,"McLean County, North Dakota",Firefighting foam
+,393,Gerry Reserve Center,"Chautauqua County, New York",Firefighting foam
+,394,Grand Ledge Army Aviation Support,"Clinton County, Michigan",Firefighting foam
+,395,Grants Pass Armory,"Josephine County, Oregon",Firefighting foam
+,396,Greenlief Training Site,"Clay County, Nebraska",Firefighting foam
+,397,Gunpowder Military Reservation,"Baltimore County, Maryland",Firefighting foam
+,398,Hayward TNG Site,"Hayward, Wisconsin",Firefighting foam
+,399,Horsehead TNG Site,"Chemung County, New York",Firefighting foam
+,400,Jackson Readiness Center,"Jackson County, Michigan",Firefighting foam
+,401,Joint Forces Training Base,"Los Alamitos, California",Firefighting foam
+,402,La Plata Readiness Center,"Charles County, Maryland",Firefighting foam
+,403,Lake City AAP,"Independence, Missouri",Firefighting foam
+,404,Lane County AFRC,"Springfield, Oregon",Firefighting foam
+,405,Lebanon Motor Pool NG Site,"Lebanon, Oregon",Firefighting foam
+,406,Limestone Hills Training Area,"Broadwater County, Montana",Firefighting foam
+,407,Marianna Readiness Center,"Jackson County, Florida",Firefighting foam
+,408,McCrady Training Center,"Columbia, South Carolina",Firefighting foam
+,409,Mead TNG Site,"Saunders County, Nebraska",Firefighting foam
+,410,Midwest City Readiness Center,"Oklahoma City, Oklahoma",Firefighting foam
+,411,Montesano Armory,"Grays Harbor County, Washington",Firefighting foam
+,412,Norfolk NG Site,"Madison County, Nebraska",Firefighting foam
+,413,North Hyde Park TNG Site,"Lamoille County, Vermont",Firefighting foam
+,414,North Smithfield ANG Station,"Providence County, Rhode Island",Firefighting foam
+,415,Ocala Readiness Center,"Ocala, Florida",Firefighting foam
+,416,Ontario Readiness Center,"Ontario, Oregon",Firefighting foam
+,417,Picacho Aviation TNG Site,"Pinal County, Arizona",Firefighting foam
+,418,Picatinny Arsenal,"Morris County, New Jersey",Firefighting foam
+,419,Queen Anne Readiness Center,"Queen Anne's County, Maryland",Firefighting foam
+,420,Redstone Arsenal,"Redstone Arsenal, Alabama",Firefighting foam
+,421,Rehoboth NG Site,"Bristol County, Massachusetts",Firefighting foam
+,422,Rock Island Arsenal,"Rock Island Arsenal, Illinois",Firefighting foam
+,423,Roseburg Armory,"Roseburg, Oregon",Firefighting foam
+,424,Salem Anderson Readiness Center,"Salem, Oregon",Firefighting foam
+,425,Sharpe Army Depot,"Lathrop, California",Firefighting foam
+,426,Shelbyvil e Army Aviation Support Facility,"Shelbyville, Indiana",Firefighting foam
+,427,Sierra Army Depot,"Herlong, California",Firefighting foam
+,428,Silverbell Army Heliport,"Pinal County, Arizona",Firefighting foam
+,429,SSG Frederick J. III Jr. Reserve Center,"Orange County, New York",Firefighting foam
+,430,SSG Isadore S. Jachman Reserve Center,"Baltimore County, Maryland",Firefighting foam
+,431,Stone's Ranch Military Reservation,"New London County, Connecticut",Firefighting foam
+,432,West Camp Rapid,"Rapid City, South Dakota",Firefighting foam
+,433,West Point Military Reservation,"West Point, New York",Firefighting foam
+,434,Westminster TNG Site,"Windham County, Vermont",Firefighting foam
+,435,White Sands Missile Range,"Dona Ana County, New Mexico",Firefighting foam
+,436,Yuma Proving Ground,"Yuma County, Arizona",Firefighting foam
+,439,Bog Brook Training Site,"Gilead, Maine",Firefighting foam
+,440,Camp Pendleton,"Camp Pendleton, California",Firefighting foam
+,441,Wright-Patterson AFB,"Dayton, Ohio",Firefighting foam
+,442,Holloman Air Force Base,"Otero County, New Mexico",Firefighting foam
+,443,Channel Islands Air National Guard,"Oxnard, California",Firefighting foam
+,444,Louisville Air National Guard Base,"Louisville, Kentucky",Firefighting foam
+,456,"NASA Wallops Flight Facility","Wallops Island, Virginia",Firefighting foam
+,457,Ault Field (Naval Air Station Whidbey Island),"Oak Harbor, Washington",Firefighting foam
+,458,Naval Air Station Cecil Field,"Jacksonville, Florida",Firefighting foam
+,459,Cherry Point Marine Corps Air Station,"Havelock, North Carolina",Firefighting foam
+,460,Warminster Naval Air Warfare Center,"Warminster, Pennsylvania",Firefighting foam
+,461,Willow Grove,"Willow Grove, Pennsylvania",Firefighting foam
+,462,Corry Station,"Pensacola, Florida",Firefighting foam
+,463,NOLF Whitehouse,"Jacksonville, Florida",Firefighting foam
+,464,NOLF Silverhill,"Milton, Florida",Firefighting foam
+,465,Okahumpka,"Okahumpka, Florida",Firefighting foam
+,466,Indian Head,"Indian Head, Maryland",Firefighting foam
+,467,Blossom Point,"Welcome, Maryland",Firefighting foam
+,468,Coronado Warner Spings,"Warner Springs, California",Firefighting foam
+,469,NSWC Crane,"Martin County, Indiana",Firefighting foam
+,470,Fishers Island,"Fishers Island, New York",Firefighting foam
+,471,Seneca Lake,"Dresden, New York",Firefighting foam
+,472,NSAHR Northwest,"Norfolk, Virginia",Firefighting foam
+,473,NWS Yorktown,"Yorktown, Virginia",Firefighting foam
+,474,Savanna,"Savanna, Illinois",Firefighting foam
+,475,Fort Devens,"Devens, Massachusetts",Firefighting foam
+,476,Pueblo SWMU,"Pueblo County, Colorado",Firefighting foam
+,477,Badger Army Ammunition Plant,"Sauk County, Wisconsin",Firefighting foam
+,478,Fort Carson,"El Paso County, Colorado",Firefighting foam
+,479,AFP 4,"Fort Worth, Texas",Firefighting foam
+,480,Creech AFB,"Clark County, Nevada",Firefighting foam
+,481,ANG Pittsburgh,"Coraopolios, Pennsylvania",Firefighting foam
+,482,Homestead AFB,"Miami-Dade County, Florida",Firefighting foam
+,483,ANG Fort Wayne,"Fort Wayne, Indiana",Firefighting foam
+,484,Scott AFB,"St. Clair County, Illinois",Firefighting foam
+,487,Fort Wainwright Military Base,"Fort Wainwright, Alaska",Firefighting foam
+,488,Montgomery Regional (Dannelly Field),"Hope Hull, Alabama",Firefighting foam
+,489,Eareckson AFB,"Shemya Island, Alaska",Firefighting foam
+,490,Fort Wainwright,"Fort Wainwright, Alaska",Firefighting foam
+,491,King Salmon,"King Salmon, Alaska",Firefighting foam
+,492,Little Rock AFB,"Jacksonville, Arkansas",Firefighting foam
+,493,Air Force Plant 42,"Palmdale, California",Firefighting foam
+,494,Fresno Air Guard/Fresno TASMG,"Fresno, California",Firefighting foam
+,495,Moffett Field/Moffett Field NAS,"Mountain View, California",Firefighting foam
+,496,"NAS North Island","San Diego, California",Firefighting foam
+,497,"NAS PT MUGU CA NAVAIRWARC","Point Mugu, California",Firefighting foam
+,498,Cheyenne Mountain Air Force Station,"Colorado Springs, Colorado",Firefighting foam
+,499,Schriever AFB,"Colorado Springs, Colorado",Firefighting foam
+,500,USAF Academy,"Colorado Springs, Colorado",Firefighting foam
+,501,WASHINGTON NAVY YARD,"Washington, District of Columbia",Firefighting foam
+,502,Hurlburt Field,"Hurlburt Field, Florida",Firefighting foam
+,503,Savannah International Airport,"Savannah, Georgia",Firefighting foam
+,504,JBPHH PEARL HARBOR HI,"Honolulu, Hawaii",Firefighting foam
+,505,O'Hare Air Reserve Station,"Chicago, Illinois",Firefighting foam
+,506,Iowa Army Ammunition Plant,"Middletown, Iowa",Firefighting foam
+,507,McConnell AFB,"Wichita, Kansas",Firefighting foam
+,508,NSWC Louisville,"Louisville, Kentucky",Firefighting foam
+,509,Bangor Training Site,"Bangor, Maine",Firefighting foam
+,510,Fort Detrick,"Fort Detrick, Maryland",Firefighting foam
+,511,Martin State,"Middle River, Maryland",Firefighting foam
+,512,NSWC White Oak,"Silver Spring, Maryland",Firefighting foam
+,513,ST INIGOES MD NAVELEXSYS,"St Inigoes, Maryland",Firefighting foam
+,514,MTC-H Camp Grayling Aifield,"Grayling, Michigan",Firefighting foam
+,515,Minneapolis-St Paul IAP,"Minneapolis, Minnesota",Firefighting foam
+,516,Offutt AFB,"Bellevue, Nebraska",Firefighting foam
+,517,Nellis AFB,"Las Vegas, Nevada",Firefighting foam
+,518,Atlantic City,"Egg Harbor, New Jersey",Firefighting foam
+,519,Kirtland AFB,"Albuquerque, New Mexico",Firefighting foam
+,520,BETHPAGE NY NWIRP,"Bethpage, New York",Firefighting foam
+,521,Schenectady Airport,"Schenectady, New York",Firefighting foam
+,522,Military Ocean Terminal Sunny Point,"Winnabow, North Carolina",Firefighting foam
+,523,Cavalier Air Force Station,"Cavalier, North Dakota",Firefighting foam
+,524,Grand Forks AFB,"Grand Forks, North Dakota",Firefighting foam
+,525,Mansfield Regional Airport,"Mansfield, Ohio",Firefighting foam
+,526,Springfield-Beckley Municipal,"Springfield, Ohio",Firefighting foam
+,527,Youngstown Air Reserve Station,"Vienna, Ohio",Firefighting foam
+,528,Salem AASF - McNary Field,"Salem, Oregon",Firefighting foam
+,529,Fort Indiantown Gap,"Fort Indiantown Gap, Pennsylvania",Firefighting foam
+,530,DAVISVILLE_NCBC,"North Kingstown, Rhode Island",Firefighting foam
+,531,BEAUFORT SC MCAS,"Beaufort, South Carolina",Firefighting foam
+,532,Charleston NS,"Charleston, South Carolina",Firefighting foam
+,533,PARRIS ISLAND SC MCRD,"Charleston, South Carolina",Firefighting foam
+,534,Holston Army Ammunition Plant,"Kingsport, Tennessee",Firefighting foam
+,535,Chase Field NAS,"Beeville, Texas",Firefighting foam
+,536,Dallas NAS,"Dallas, Texas",Firefighting foam
+,537,Goodfellow AFB,"San Angelo, Texas",Firefighting foam
+,538,CHESAPEAKE VA ST JULIEN CREEK,"Portsmouth, Virginia",Firefighting foam
+,539,PORTSMOUTH VA NORFOLK NSY,"Portsmouth, Virginia",Firefighting foam
+,540,JB Lewis McChord - Yakima Training Center,"Tacoma, Washington",Firefighting foam
+,541,KEYPORT WA NUWC DIV,"Keyport, Washington",Firefighting foam
+,542,Naval Base Kitsap - Bangor (replacing Bremerton WA Navbase),"Silverdale, Washington",Firefighting foam
+,543,Yeager (McLaughlin),"Charleston, West Virginia",Firefighting foam
+,544,Watervliet Arsenal,"Watervliet, New York",Firefighting foam
+,545,Tobyhanna Army Depot,"Coolbaugh Township, Pennsylvania",Firefighting foam
+,546,GUAM NAVACTS,"Santa Rita, Guam",Firefighting foam
+,547,Muniz International Airport,"Carlina, Puerto Rico",Firefighting foam
+,548,Williams Air Force Base,"Mesa, Arizona",Firefighting foam
+,549,Gabreski Air National Guard Base,"Westhampton, New York",Firefighting foam
+,550,CAMP LEJEUNE NC MCB,"Jacksonville, North Carolina",Firefighting foam
+,551,FALLON NV NAS,"Fallon, Nevada",Firefighting foam
+,552,Vint Hill Farms,"Warrenton, Virginia",Firefighting foam
+,553,Camp Dodge Johnston Training Site,"Johnston, Iowa",Firefighting foam
+,554,Boone AASF,"Boone, Iowa",Firefighting foam
+,555,Davenport AASF,"Davenport, Iowa",Firefighting foam
+,556,Waterloo Big Rock AASF #2,"Waterloo, Iowa",Firefighting foam
+,557,Milan Army Ammunition Plant,"Milan, Tennessee",Firefighting foam
+,558,LEMOORE CA NAS,"Lemoore, California",Firefighting foam
+,559,Red Hill Bulk Fuel Storage Facility,"O'ahu, Hawaii",Firefighting foam
+,560,Naval Air Station Whidbey Island - Ault Field,"Whidbey Island, Washington",Firefighting foam
+,561,Fort Rucker,"Daleville, Alabama",Firefighting foam
+,562,Fort Greely,"Fort Greely, Alaska",Firefighting foam
+,563,Popago Military Reservation,"Phoenix, Arizona",Firefighting foam
+,564,Pine Bluff Arsenal,"White Hall, Arkansas",Firefighting foam
+,565,Fort Irwin,"Fort Irwin, California",Firefighting foam
+,566,Military Ocean Terminal Concord,"Concord, California",Firefighting foam
+,567,MIRAMAR CA MCAS,"Miramar, California",Firefighting foam
+,568,Windsor Locks AASF,"Windsor Locks, Connecticut",Firefighting foam
+,569,Duncan Armory AASF,"New Casle, Delaware",Firefighting foam
+,570,Camp Merrill,"Dahlonega, Georgia",Firefighting foam
+,571,Fort Benning,"Fort Moore, Georgia",Firefighting foam
+,572,Fort Gordon - Gillem Annex,"Augusta, Georgia",Firefighting foam
+,573,Fort Stewart,"Fort Stewart, Georgia",Firefighting foam
+,574,Fort Stewart - Hunter AAF,"Fort Stewart, Georgia",Firefighting foam
+,575,KINGS BAY GA NSB,"St. Marys, Georgia",Firefighting foam
+,576,Camp Atterbury/Range 36 ATG,"Columbus, Indiana",Firefighting foam
+,577,Forbes Field,"Topeka, Kansas",Firefighting foam
+,578,Topeka Forbes Field AASF #1,"Topeka, Kansas",Firefighting foam
+,579,Blue Grass Army Depot,"Richmond, Kentucky",Firefighting foam
+,580,Fort Campbell,"Fort Campbell, Kentucky",Firefighting foam
+,581,Fort Knox,"Fort Knox, Kentucky",Firefighting foam
+,582,Fort Polk,"Fort Polk, Louisiana",Firefighting foam
+,583,Fort Meade - Phoenix Military Reservation,"Jacksonville, Maryland",Firefighting foam
+,584,Detroit Arsenal,"Detroit, Michigan",Firefighting foam
+,585,Lansing Airport Hangar,"Lansing, Michigan",Firefighting foam
+,586,MTC-H Camp Grayling-Cantonment,"Grayling, Michigan",Firefighting foam
+,587,MTC-H Camp Grayling-MATES,"Grayling, Michigan",Firefighting foam
+,588,Fort William Henry Harrison /JFHQ MT,"Helena, Montana",Firefighting foam
+,589,Helena Aviation Readiness Center - AASF,"Helena, Montana",Firefighting foam
+,590,Cold Regions Research and Engineering Laboratory,"Hanover, New Hampshire",Firefighting foam
+,591,AASF Main Hangar-cold storage,"Lakehurst, New Jersey",Firefighting foam
+,592,Fort Bragg - Camp Mackall,"Hoffman, North Carolina",Firefighting foam
+,593,Salisbury AASF #2,"Salisbury , North Carolina",Firefighting foam
+,594,Fort Sill,"Fort Sill, Oklahoma",Firefighting foam
+,595,McAlester Army Ammunition Plant,"McAlester, Oklahoma",Firefighting foam
+,596,MECHANICSBURG PA NAVICP,"Mechanicsburg, Pennsylvania",Firefighting foam
+,597,Philadelphia NS,"Philadelphia, Pennsylvania",Firefighting foam
+,598,Scranton Army Ammunition Plant,"Scranton, Pennsylvania",Firefighting foam
+,599,Fort Buchanan,"Guaynabo, Puerto Rico",Firefighting foam
+,600,Fort Jackson,"Columbia, South Carolina",Firefighting foam
+,601,Fort Hood,"Fort Hood, Texas",Firefighting foam
+,602,Red River Army Depot,"New Boston, Texas",Firefighting foam
+,603,Dugway Proving Ground,"Dugway, Utah",Firefighting foam
+,604,Tooele Army Depot,"Tooele, Utah",Firefighting foam
+,605,Tooele Army Depot South (Deseret Chemical Depot),"West Mercur, Utah",Firefighting foam
+,606,Fort AP Hill,"Fort AP Hill, Virginia",Firefighting foam
+,607,Fort Belvoir,"Fort Belvoir, Virginia",Firefighting foam
+,608,Fort Lee,"Fort Gregg-Adams, Virginia",Firefighting foam
+,609,JB Myer Henderson Hall,"Mort Myer, Virginia",Firefighting foam
+,610,Radford Army Ammunition Plant,"Blacksburg, Virginia",Firefighting foam
+,611,West Bend AASF #1 / Armory,"West Bend, Wisconsin",Firefighting foam
+,612,Kalaoloa Facility (Former Barbers Point-NAS),"Barbers Point, Wisconsin",Firefighting foam
+,613,"NAVFAC HAWAII P HARBOR","Pearl Harbor, Hawaii",Firefighting foam
+,614,NMC EAD DET PEARL HARBOR,"Pearl Harbor, Hawaii",Firefighting foam
+,615,PEARL HARBOR HI FISC,"Pearl Harbor, Hawaii",Firefighting foam
+,616,PEARL HARBOR HI NSY,"Pearl Harbor, Hawaii",Firefighting foam
+,617,KANEOHE BAY HI MCB,"Pearl Harbor, Hawaii",Firefighting foam

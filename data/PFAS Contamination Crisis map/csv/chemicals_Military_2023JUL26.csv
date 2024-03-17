@@ -1,0 +1,2808 @@
+tmp,ewg_id,PFA,Location detected,Maximum Level (ppt)Years tested,Years tested,Maximum Level (ppt)*
+,7,6:2 FTS,GroundwaterOn-base,"2,1002018",NA,NA
+,7,8:2 FTS,GroundwaterOn-base,"2,0002018",NA,NA
+,7,PFBS,GroundwaterOn-base,"13,0002018",NA,NA
+,7,PFDA,GroundwaterOn-base,932018,NA,NA
+,7,PFDoA,GroundwaterOn-base,1902018,NA,NA
+,7,PFHxA,GroundwaterOn-base,"18,0002018",NA,NA
+,7,PFHxS,GroundwaterOn-base,"49,0002018",NA,NA
+,7,PFNA,GroundwaterOn-base,5602018,NA,NA
+,7,PFOA,GroundwaterOn-base,"26,0002018",NA,NA
+,7,PFOS,GroundwaterOn-base,"330,0002018",NA,NA
+,7,PFOS+PFOA,GroundwaterOn-base,"334,2002018",NA,NA
+,7,PFTeA,GroundwaterOn-base,922018,NA,NA
+,7,PFTrDA,GroundwaterOn-base,1802018,NA,NA
+,7,PFUnA,GroundwaterOn-base,1802018,NA,NA
+,13,PFBS,GroundwaterOn-base,792018,NA,NA
+,13,PFHpA,GroundwaterOn-base,472018,NA,NA
+,13,PFHxS,GroundwaterOn-base,4702018,NA,NA
+,13,PFNA,GroundwaterOn-base,4202018,NA,NA
+,13,PFOA,GroundwaterOn-base,912018,NA,NA
+,13,PFOS,GroundwaterOn-base,"1,0002018",NA,NA
+,13,PFOS+PFOA,GroundwaterOn-base,"1,1002018",NA,NA
+,16,NEtFOSAA,GroundwaterOn-base,162018,NA,NA
+,16,NMeFOSAA,GroundwaterOn-base,152018,NA,NA
+,16,PFBA,GroundwaterOn-base,162018,NA,NA
+,16,PFBS,GroundwaterOn-base,"9,2302018",NA,NA
+,16,PFDA,GroundwaterOn-base,162018,NA,NA
+,16,PFHpA,GroundwaterOn-base,"2,1302018",NA,NA
+,16,PFHxA,GroundwaterOn-base,"3,9802018",NA,NA
+,16,PFHxS,GroundwaterOn-base,"6,6002018",NA,NA
+,16,PFNA,GroundwaterOn-base,1582018,NA,NA
+,16,PFOA,GroundwaterOn-base,"6,3202018",NA,NA
+,16,PFOS,GroundwaterOn-base,"207,0002018",NA,NA
+,16,PFOS+PFOA,GroundwaterOn-base,"213,0002018",NA,NA
+,16,PFTeA,GroundwaterOn-base,2.32018,NA,NA
+,16,PFUnA,GroundwaterOn-base,4.82018,NA,NA
+,23,PFOA,GroundwaterOn-base,"1,9002017",NA,NA
+,23,PFOS,GroundwaterOn-base,"95,0002017",NA,NA
+,23,PFOS+PFOA,GroundwaterOn-base,"96,9002017",NA,NA
+,24,PFOS + PFOA,Drinking waterOff-base,2282016,NA,NA
+,24,PFOS,Drinking waterOff-base,1502016,NA,NA
+,24,PFOA,Drinking waterOff-base,552016,NA,NA
+,24,PFBS,Drinking waterOff-base,3.32016,NA,NA
+,24,PFHxS,Drinking waterOff-base,412016,NA,NA
+,24,PFHpA,Drinking waterOff-base,132016,NA,NA
+,24,PFNA,Drinking waterOff-base,3.42016,NA,NA
+,24,PFOS + PFOA,GroundwaterOn-base,"4,3302016-2017",NA,NA
+,24,PFOS,GroundwaterOn-base,"4,2002016-2017",NA,NA
+,24,PFOA,GroundwaterOn-base,3302016-2017,NA,NA
+,24,PFBS,GroundwaterOn-base,1702016-2017,NA,NA
+,24,PFHxS,GroundwaterOn-base,"1,6002016-2017",NA,NA
+,24,PFHpA,GroundwaterOn-base,772016-2017,NA,NA
+,24,PFNA,GroundwaterOn-base,232016-2017,NA,NA
+,24,PFHxA,GroundwaterOn-base,202017,NA,NA
+,35,PFOA,GroundwaterOn-base,"9,3002016",NA,NA
+,35,PFOS,GroundwaterOn-base,"38,0002016",NA,NA
+,38,PFOS+PFOA,Drinking WaterOff-base,"1,6602016",NA,NA
+,38,PFOS+PFOA,GroundwaterOn-base,"52,9002016",NA,NA
+,42,PFBS,GroundwaterOn-base,"5,9202019",NA,NA
+,42,PFHpA,GroundwaterOn-base,"1,1202019",NA,NA
+,42,PFHxS,GroundwaterOn-base,"47,9002019",NA,NA
+,42,PFNA,GroundwaterOn-base,5722019,NA,NA
+,42,PFOA,GroundwaterOn-base,"3,9502019",NA,NA
+,42,PFOS,GroundwaterOn-base,"16,9002019",NA,NA
+,42,PFOS+PFOA,GroundwaterOn-base,"18,1402019",NA,NA
+,43,PFBS,GroundwaterOn-base,"45,0002017",NA,NA
+,43,PFOA,GroundwaterOn-base,"20,0002017",NA,NA
+,43,PFOS,GroundwaterOn-base,"270,0002017",NA,NA
+,43,PFOS+PFOA,GroundwaterOn-base,"290,0002017",NA,NA
+,44,PFBS,GroundwaterOn-base,432018,NA,NA
+,44,PFHpA,GroundwaterOn-base,292018,NA,NA
+,44,PFHxS,GroundwaterOn-base,7372018,NA,NA
+,44,PFNA,GroundwaterOn-base,5.32018,NA,NA
+,44,PFOA,GroundwaterOn-base,792018,NA,NA
+,44,PFOS,GroundwaterOn-base,9502018,NA,NA
+,44,PFOS+PFOA,GroundwaterOn-base,"1,0292018",NA,NA
+,46,PFBS,GroundwaterOn-base,"7,2002019",NA,NA
+,46,PFNA,GroundwaterOn-base,"4,7002019",NA,NA
+,46,PFOA,GroundwaterOn-base,"23,0002019",NA,NA
+,46,PFOS,GroundwaterOn-base,"260,0002019",NA,NA
+,46,PFOS+PFOA,GroundwaterOn-base,"264,0002019",NA,NA
+,47,6:2 FTS,GroundwaterOn-base,"91,0002019",NA,NA
+,47,8:2 FTS,GroundwaterOn-base,"8,9002019",NA,NA
+,47,NEtFOSAA,GroundwaterOn-base,822019,NA,NA
+,47,NMeFOSAA,GroundwaterOn-base,492019,NA,NA
+,47,PFBS,GroundwaterOn-base,"9,2002019",NA,NA
+,47,PFDA,GroundwaterOn-base,1402019,NA,NA
+,47,PFDoA,GroundwaterOn-base,3.72019,NA,NA
+,47,PFHpA,GroundwaterOn-base,"4,3002019",NA,NA
+,47,PFHxA,GroundwaterOn-base,"26,0002019",NA,NA
+,47,PFHxS,GroundwaterOn-base,"91,0002019",NA,NA
+,47,PFNA,GroundwaterOn-base,7402019,NA,NA
+,47,PFOA,GroundwaterOn-base,"22,0002019",NA,NA
+,47,PFOS,GroundwaterOn-base,"150,0002019",NA,NA
+,47,PFOS+PFOA,GroundwaterOn-base,"167,0002019",NA,NA
+,47,PFTrDA,GroundwaterOn-base,372019,NA,NA
+,47,PFUnA,GroundwaterOn-base,592019,NA,NA
+,49,PFBS,NA,NA,2017,3.6
+,49,PFBA,NA,NA,2017,27
+,49,PFHxS,NA,NA,2017,1.1
+,49,PFHxA,NA,NA,2017,84.2
+,49,PFOS,NA,NA,2017,6.8
+,49,PFOA,NA,NA,2017,13.2
+,49,PFPeA,NA,NA,2017,106
+,49,PFTA,NA,NA,2017,2
+,49,PFTrDA,NA,NA,2017,0.6
+,49,PFUnA,NA,NA,2017,2.5
+,49,PFHpA,NA,NA,2017,17.9
+,49,6:2FTS,NA,NA,2017,5.9
+,49,Total PFAS,NA,NA,2017,248.3
+,50,NEtFOSAA,GroundwaterOn-base,642018,NA,NA
+,50,NMeFOSAA,GroundwaterOn-base,642018,NA,NA
+,50,PFBS,GroundwaterOn-base,"15,8002018",NA,NA
+,50,PFDA,GroundwaterOn-base,6202018,NA,NA
+,50,PFDoA,GroundwaterOn-base,6202018,NA,NA
+,50,PFHpA,GroundwaterOn-base,"18,3002018",NA,NA
+,50,PFHxA,GroundwaterOn-base,"3,6402018",NA,NA
+,50,PFHxS,GroundwaterOn-base,"607,0002018",NA,NA
+,50,PFNA,GroundwaterOn-base,2652018,NA,NA
+,50,PFOA,GroundwaterOn-base,"981,0002018",NA,NA
+,50,PFOS,GroundwaterOn-base,"70,3002018",NA,NA
+,50,PFOS+PFOA,GroundwaterOn-base,"1,045,0002018",NA,NA
+,50,PFTeA,GroundwaterOn-base,672018,NA,NA
+,50,PFTrDA,GroundwaterOn-base,672018,NA,NA
+,50,PFUnA,GroundwaterOn-base,672018,NA,NA
+,57,PFOS+PFOA,GroundwaterOn-base,"24,0002016",NA,NA
+,67,Total PFAS,Drinking WaterOn-base,702017,NA,NA
+,68,PFBA,GroundwaterOn-base,4102017,NA,NA
+,68,PFHxA,GroundwaterOn-base,"1,3002017",NA,NA
+,68,PFHpA,GroundwaterOn-base,5802017,NA,NA
+,68,PEPeA,GroundwaterOn-base,"1,4002017",NA,NA
+,68,PFOA,GroundwaterOn-base,5102017,NA,NA
+,68,PFBS,GroundwaterOn-base,2402017,NA,NA
+,68,PFHxS,GroundwaterOn-base,"2,8002017",NA,NA
+,68,PFOS,GroundwaterOn-base,"23,0002017",NA,NA
+,68,PFOS+PFOA,GroundwaterOn-base,"120,0002017",NA,NA
+,76,PFOS,Drinking waterOff-base,222016-2017,NA,NA
+,76,PFOA,Drinking waterOff-base,6602016-2017,NA,NA
+,76,PFBS,Drinking waterOff-base,1102016-2017,NA,NA
+,76,PFOS + PFOA,GroundwaterOn-base,"1,1932017",NA,NA
+,76,PFOS,GroundwaterOn-base,552017,NA,NA
+,76,PFOA,GroundwaterOn-base,"1,1902017",NA,NA
+,76,PFBS,GroundwaterOn-base,4732017,NA,NA
+,77,PFOS+PFOA,GroundwaterOn-base,"493,6002016",NA,NA
+,85,PFOS,Surface WaterPublic,6102017,NA,NA
+,85,Total PFAS,Surface WaterPublic,2212017,NA,NA
+,85,PFHxS,Drinking WaterPublic,2.72017,NA,NA
+,85,PFBS,GroundwaterPublic,"13,0002018",NA,NA
+,85,PFHpA,GroundwaterPublic,7602018,NA,NA
+,85,PFHxS,GroundwaterPublic,"15,0002018",NA,NA
+,85,PFNA,GroundwaterPublic,1802018,NA,NA
+,85,PFOS,GroundwaterPublic,"17,0002018",NA,NA
+,85,PFOA,GroundwaterPublic,"5,0002018",NA,NA
+,97,PFBS,NA,NA,2017-2019,28
+,97,PFHxS,NA,NA,2017-2019,160
+,97,PFHxA,NA,NA,2018-2019,22
+,97,PFOS,NA,NA,2017-2019,130
+,97,PFOA,NA,NA,2017-2019,9
+,97,PFHpA,NA,NA,2017-2019,7
+,97,Total PFAS,NA,NA,2017-2019,330.5
+,98,PFOA,GroundwaterOn-base,2702017,NA,NA
+,98,PFOS,GroundwaterOn-base,722017,NA,NA
+,98,PFOS+PFOA,GroundwaterOn-base,3342017,NA,NA
+,99,PFOS+PFOA,Drinking WaterOn-base,2602016,NA,NA
+,102,PFOS + PFOA,Drinking waterOff-base,1032017-2018,NA,NA
+,102,PFOS,Drinking waterOff-base,682017-2018,NA,NA
+,102,PFOA,Drinking waterOff-base,352017-2018,NA,NA
+,102,PFBS,Drinking waterOff-base,132017-2018,NA,NA
+,102,PFHxS,Drinking waterOff-base,192018,NA,NA
+,102,PFBA,Drinking waterOff-base,142018,NA,NA
+,102,PFOS+PFOA,GroundwaterOn-base,1382016,NA,NA
+,103,PFOS+PFOA,GroundwaterOn-base,"336,0002017",NA,NA
+,104,PFOS+PFOA,GroundwaterOn-base,"8,000,0002017",NA,NA
+,105,PFOS+PFOA,GroundwaterOn-base,"1,080,0002017",NA,NA
+,106,PFOS+PFOA,GroundwaterOn-base,"10,7502017",NA,NA
+,107,PFOS+PFOA,GroundwaterOn-base,"3,8262017",NA,NA
+,108,PFOS+PFOA,GroundwaterOn-base,"770,0002017",NA,NA
+,109,PFOS+PFOA,GroundwaterOn-base,4402017,NA,NA
+,110,PFBS,GroundwaterOn-base,"13,2002019",NA,NA
+,110,PFHpA,GroundwaterOn-base,2322019,NA,NA
+,110,PFHxA,GroundwaterOn-base,2812019,NA,NA
+,110,PFHxS,GroundwaterOn-base,3432019,NA,NA
+,110,PFOA,GroundwaterOn-base,"9,4002019",NA,NA
+,110,PFOS,GroundwaterOn-base,"60,0002019",NA,NA
+,110,PFOS+PFOA,GroundwaterOn-base,672019,NA,NA
+,111,PFBS,GroundwaterOn-base,"16,7002019",NA,NA
+,111,PFHpA,GroundwaterOn-base,"5,7102019",NA,NA
+,111,PFHxS,GroundwaterOn-base,"138,0002019",NA,NA
+,111,PFNA,GroundwaterOn-base,"1,8002019",NA,NA
+,111,PFOA,GroundwaterOn-base,"19,0002019",NA,NA
+,111,PFOS,GroundwaterOn-base,"891,0002019",NA,NA
+,111,PFOS+PFOA,GroundwaterOn-base,"910,0002019",NA,NA
+,112,PFBS,GroundwaterOn-base,3902017,NA,NA
+,112,PFOA,GroundwaterOn-base,"7,1002017",NA,NA
+,112,PFOS,GroundwaterOn-base,"1,6002017",NA,NA
+,112,PFOS+PFOA,GroundwaterOn-base,"7,1252017",NA,NA
+,113,PFBS,GroundwaterOn-base,"140,0002018",NA,NA
+,113,PFOA,GroundwaterOn-base,"88,0002018",NA,NA
+,113,PFOS,GroundwaterOn-base,"690,0002018",NA,NA
+,113,PFOS+PFOA,GroundwaterOn-base,"712,0002018",NA,NA
+,114,NEtFOSAA,GroundwaterOn-base,322019,NA,NA
+,114,NMeFOSAA,GroundwaterOn-base,322019,NA,NA
+,114,PFBS,GroundwaterOn-base,672019,NA,NA
+,114,PFDA,GroundwaterOn-base,8.02019,NA,NA
+,114,PFDoA,GroundwaterOn-base,8.02019,NA,NA
+,114,PFHpA,GroundwaterOn-base,452019,NA,NA
+,114,PFHxA,GroundwaterOn-base,2572019,NA,NA
+,114,PFHxS,GroundwaterOn-base,3072019,NA,NA
+,114,PFNA,GroundwaterOn-base,8.02019,NA,NA
+,114,PFOA,GroundwaterOn-base,1532019,NA,NA
+,114,PFOS,GroundwaterOn-base,1682019,NA,NA
+,114,PFOS+PFOA,GroundwaterOn-base,3212019,NA,NA
+,114,PFTrDA,GroundwaterOn-base,8.02019,NA,NA
+,114,PFUnA,GroundwaterOn-base,8.02019,NA,NA
+,115,PFBS,GroundwaterOn-base,"1,7702018",NA,NA
+,115,PFHpA,GroundwaterOn-base,"2,4802018",NA,NA
+,115,PFHxA,GroundwaterOn-base,"12,6002018",NA,NA
+,115,PFNA,GroundwaterOn-base,1702018,NA,NA
+,115,PFOA,GroundwaterOn-base,"5,2102018",NA,NA
+,115,PFOS,GroundwaterOn-base,"1,6902018",NA,NA
+,115,PFOS+PFOA,GroundwaterOn-base,"6,9002018",NA,NA
+,116,PFOS+PFOA,GroundwaterOn-base,3482018,NA,NA
+,117,PFOS + PFOA,Drinking waterOff-base,2622017,NA,NA
+,117,PFOS,Drinking waterOff-base,1762017,NA,NA
+,117,PFOA,Drinking waterOff-base,862017,NA,NA
+,117,PFBS,Drinking waterOff-base,3.12017,NA,NA
+,118,PFOS+PFOA,GroundwaterOn-base,2622018,NA,NA
+,119,PFBS,GroundwaterOn-base,"4,8002018",NA,NA
+,119,PFDA,GroundwaterOn-base,2232018,NA,NA
+,119,PFHpA,GroundwaterOn-base,"2,6402018",NA,NA
+,119,PFHxA,GroundwaterOn-base,"17,3002018",NA,NA
+,119,PFHxS,GroundwaterOn-base,"93,7002018",NA,NA
+,119,PFOA,GroundwaterOn-base,"253,0002018",NA,NA
+,119,PFOS,GroundwaterOn-base,"14,8002018",NA,NA
+,119,PFOS+PFOA,GroundwaterOn-base,"257,7102018",NA,NA
+,120,PFOS+PFOA,GroundwaterOn-base,1852017,NA,NA
+,121,PFOS+PFOA,GroundwaterOn-base,"337,1002017",NA,NA
+,121,PFHxA,GroundwaterOn-base,1212017,NA,NA
+,121,PFHpA,GroundwaterOn-base,1052017,NA,NA
+,121,PFOS,GroundwaterOn-base,"330,0002017",NA,NA
+,121,PFHxS,GroundwaterOn-base,572017,NA,NA
+,121,PFOA,GroundwaterOn-base,"12,0002017",NA,NA
+,121,PFBS,GroundwaterOn-base,"4,2002017",NA,NA
+,121,PFNA,GroundwaterOn-base,142017,NA,NA
+,121,PFDA,GroundwaterOn-base,8.42017,NA,NA
+,122,PFOS+PFOA,GroundwaterOn-base,"552,2002019",NA,NA
+,122,PFOS,GroundwaterOn-base,"535,0002019",NA,NA
+,122,PFOA,GroundwaterOn-base,"17,2002019",NA,NA
+,122,PFBS,GroundwaterOn-base,"8,2602019",NA,NA
+,123,PFOS+PFOA,GroundwaterOn-base,"4,338,0002017",NA,NA
+,123,PFOS,GroundwaterOn-base,"4,300,0002017",NA,NA
+,123,PFBS,GroundwaterOn-base,"110,0002017",NA,NA
+,123,PFOA,GroundwaterOn-base,"100,0002017",NA,NA
+,124,PFBS,GroundwaterOn-base,"290,0002016",NA,NA
+,124,PFOA,GroundwaterOn-base,"55,0002016",NA,NA
+,124,PFOS,GroundwaterOn-base,"320,0002016",NA,NA
+,124,PFOS+PFOA,GroundwaterOn-base,"375,0002016",NA,NA
+,125,PFBS,GroundwaterOn-base,"28,0002018",NA,NA
+,125,PFOA,GroundwaterOn-base,"52,0002018",NA,NA
+,125,PFOS,GroundwaterOn-base,"250,0002018",NA,NA
+,125,PFOS+PFOA,GroundwaterOn-base,"276,0002018",NA,NA
+,126,PFBS,GroundwaterOn-base,"1,2402018",NA,NA
+,126,PFOA,GroundwaterOn-base,1602018,NA,NA
+,126,PFOS,GroundwaterOn-base,1412018,NA,NA
+,126,PFOS+PFOA,GroundwaterOn-base,2142018,NA,NA
+,127,NEtFOSAA,GroundwaterOn-base,3202018,NA,NA
+,127,NMeFOSAA,GroundwaterOn-base,3202018,NA,NA
+,127,PFBS,GroundwaterOn-base,"80,7002018",NA,NA
+,127,PFDA,GroundwaterOn-base,1302018,NA,NA
+,127,PFDoA,GroundwaterOn-base,1302018,NA,NA
+,127,PFHpA,GroundwaterOn-base,"35,1002018",NA,NA
+,127,PFHxA,GroundwaterOn-base,"7,3002018",NA,NA
+,127,PFHxS,GroundwaterOn-base,"806,0002018",NA,NA
+,127,PFNA,GroundwaterOn-base,"3,2502018",NA,NA
+,127,PFOA,GroundwaterOn-base,"148,0002018",NA,NA
+,127,PFOS,GroundwaterOn-base,"496,0002018",NA,NA
+,127,PFOS+PFOA,GroundwaterOn-base,"644,0002018",NA,NA
+,127,PFTrDA,GroundwaterOn-base,1302018,NA,NA
+,127,PFUnA,GroundwaterOn-base,1302018,NA,NA
+,128,6:2 FTS,GroundwaterOn-base,2002017,NA,NA
+,128,PFBS,GroundwaterOn-base,"3,8002017",NA,NA
+,128,PFHxA,GroundwaterOn-base,"7,5002017",NA,NA
+,128,PFOA,GroundwaterOn-base,1902017,NA,NA
+,128,PFOS,GroundwaterOn-base,9202017,NA,NA
+,128,PFOS+PFOA,GroundwaterOn-base,"1,1102017",NA,NA
+,129,PFBS,NA,NA,2017-2018,600.0
+,129,PFBA,NA,NA,2018,100.0
+,129,PFHxS,NA,NA,2017-2018,"2,400.0"
+,129,PFHxA,NA,NA,2018,340.0
+,129,PFOS,NA,NA,2017-2018,960.0
+,129,PFOA,NA,NA,2017-2018,120.0
+,129,PFPeA,NA,NA,2018,260.0
+,129,PFNA,NA,NA,2017-2018,25.0
+,129,PFHpA,NA,NA,2017-2018,120.0
+,129,6:2FTS,NA,NA,2018,340.0
+,129,Total PFAS,NA,NA,2017-2018,"4,945.0"
+,130,PFBS,GroundwaterOn-base,"1,530,0002016",NA,NA
+,130,PFHpA,GroundwaterOn-base,"281,0002016",NA,NA
+,130,PFHxS,GroundwaterOn-base,"20,700,0002016",NA,NA
+,130,PFNA,GroundwaterOn-base,"21,5002016",NA,NA
+,130,PFOA,GroundwaterOn-base,"3,820,0002016",NA,NA
+,130,PFOS,GroundwaterOn-base,"7,150,0002016",NA,NA
+,130,PFOS+PFOA,GroundwaterOn-base,"10,970,0002016",NA,NA
+,131,PFOS+PFOA,GroundwaterOn-base,3602018,NA,NA
+,132,PFOS+PFOA,GroundwaterOn-base,1402018,NA,NA
+,133,6:2 FTS,GroundwaterOn-base,7212018,NA,NA
+,133,8:2 FTS,GroundwaterOn-base,3242018,NA,NA
+,133,PFBA,GroundwaterOn-base,4762018,NA,NA
+,133,PFBS,GroundwaterOn-base,2592018,NA,NA
+,133,PFHpA,GroundwaterOn-base,"1,9102018",NA,NA
+,133,PFHxA,GroundwaterOn-base,"1,3902018",NA,NA
+,133,PFHxS,GroundwaterOn-base,"1,9302018",NA,NA
+,133,PFNA,GroundwaterOn-base,142018,NA,NA
+,133,PFOA,GroundwaterOn-base,8112018,NA,NA
+,133,PFOS,GroundwaterOn-base,"8,7702018",NA,NA
+,133,PFOS+PFOA,GroundwaterOn-base,"8,9362018",NA,NA
+,134,PFOS+PFOA,GroundwaterOn-base,"87,0002018",NA,NA
+,135,PFOS+PFOA,GroundwaterOn-base,"70,0002018",NA,NA
+,136,PFOA,Drinking waterOff-base,372018,NA,NA
+,136,PFBS,Drinking waterOff-base,8.52018,NA,NA
+,136,PFHxS,Drinking waterOff-base,382018,NA,NA
+,136,PFHpA,Drinking waterOff-base,4.42018,NA,NA
+,136,PFHxA,Drinking waterOff-base,182018,NA,NA
+,136,PFOS + PFOA,GroundwaterOn-base,"241,1102017",NA,NA
+,136,PFOS,GroundwaterOn-base,"234,0002017",NA,NA
+,136,PFOA,GroundwaterOn-base,"14,9002017",NA,NA
+,136,PFBS,GroundwaterOn-base,"1,2202017",NA,NA
+,137,PFOS+PFOA,GroundwaterOn-base,"1,3652018",NA,NA
+,139,PFOS+PFOA,GroundwaterOn-base,1672018,NA,NA
+,140,PFOA,GroundwaterOn-base,"25,0002018",NA,NA
+,140,PFOS,GroundwaterOn-base,"27,0002018",NA,NA
+,140,PFOS+PFOA,GroundwaterOn-base,"256,0002018",NA,NA
+,141,PFBS,NA,NA,2017-2018,75.9
+,141,PFBA,NA,NA,2017-2018,14
+,141,PFHxS,NA,NA,2017-2018,204
+,141,PFHxA,NA,NA,2017-2018,55.1
+,141,PFOS,NA,NA,2017-2018,25.6
+,141,PFOA,NA,NA,2017-2018,95.3
+,141,PFPeA,NA,NA,2017-2018,16.9
+,141,PFHpA,NA,NA,2017-2018,34.8
+,141,Total PFAS,NA,NA,2017-2018,517.8
+,142,PFOA,GroundwaterOn-base,7192018,NA,NA
+,142,PFBS,GroundwaterOn-base,352018,NA,NA
+,142,PFHxS,GroundwaterOn-base,112018,NA,NA
+,142,PFHxA,GroundwaterOn-base,292018,NA,NA
+,142,PFHpA,GroundwaterOn-base,242018,NA,NA
+,142,PFOS,GroundwaterOn-base,112018,NA,NA
+,143,PFOS+PFOA,GroundwaterOn-base,"23,0002018",NA,NA
+,144,PFBS,GroundwaterOn-base,"1,0302018",NA,NA
+,144,PFDA,GroundwaterOn-base,172018,NA,NA
+,144,PFHpA,GroundwaterOn-base,9452018,NA,NA
+,144,PFHxA,GroundwaterOn-base,"3,2502018",NA,NA
+,144,PFHxS,GroundwaterOn-base,"18,2002018",NA,NA
+,144,PFNA,GroundwaterOn-base,1492018,NA,NA
+,144,PFOA,GroundwaterOn-base,"3,4602018",NA,NA
+,144,PFOS,GroundwaterOn-base,"12,8002018",NA,NA
+,144,PFOS+PFOA,GroundwaterOn-base,"16,2602018",NA,NA
+,145,PFOS,NA,NA,2016-2017,66
+,145,PFOA,NA,NA,2016-2017,19
+,146,PFOS+PFOA,GroundwaterOn-base,"1,2702018",NA,NA
+,147,PFOS+PFOA,GroundwaterOff-base,1122018,NA,NA
+,147,PFOS+PFOA,GroundwaterOn-base,"27,8002018",NA,NA
+,147,PFOS + PFOA,Drinking waterOff-base,292017,NA,NA
+,147,PFOS,Drinking waterOff-base,152017,NA,NA
+,147,PFOA,Drinking waterOff-base,172017,NA,NA
+,147,PFBS,Drinking waterOff-base,482017,NA,NA
+,147,PFHxS,Drinking waterOff-base,132017,NA,NA
+,147,PFHpA,Drinking waterOff-base,4.32017,NA,NA
+,147,PFNA,Drinking waterOff-base,7.82017,NA,NA
+,149,PFOS+PFOA,GroundwaterOn-base,"89,0002018",NA,NA
+,151,PFOS + PFOA,Drinking waterOff-base,172017-2018,NA,NA
+,151,PFOS,Drinking waterOff-base,5.62017-2018,NA,NA
+,151,PFOA,Drinking waterOff-base,112017-2018,NA,NA
+,151,PFBS,Drinking waterOff-base,3.42017-2018,NA,NA
+,151,PFHpA,Drinking waterOff-base,3.32017-2018,NA,NA
+,151,PFHxA,Drinking waterOff-base,9.92017-2018,NA,NA
+,151,PFOS + PFOA,GroundwaterOn-base,"3,1722017-2018",NA,NA
+,151,PFOS,GroundwaterOn-base,9722017-2018,NA,NA
+,151,PFOA,GroundwaterOn-base,"2,2002017-2018",NA,NA
+,151,PFBS,GroundwaterOn-base,132017-2018,NA,NA
+,151,PFHxS,GroundwaterOn-base,"4,1602017-2018",NA,NA
+,151,PFHpA,GroundwaterOn-base,6302017-2018,NA,NA
+,151,PFNA,GroundwaterOn-base,"2,0202017-2018",NA,NA
+,151,PFHxA,GroundwaterOn-base,4572017-2018,NA,NA
+,151,PFDA,GroundwaterOn-base,2782017-2018,NA,NA
+,151,PFDoA,GroundwaterOn-base,2.52017-2018,NA,NA
+,151,PFUnA,GroundwaterOn-base,"1,7902017-2018",NA,NA
+,151,PFTriA,GroundwaterOn-base,5.42017-2018,NA,NA
+,151,EtFOSAA,GroundwaterOn-base,7.42017-2018,NA,NA
+,151,PFBA,GroundwaterOn-base,152018,NA,NA
+,151,PFPeA,GroundwaterOn-base,312018,NA,NA
+,151,6:2 FTS,GroundwaterOn-base,1822018,NA,NA
+,151,8:2 FTS,GroundwaterOn-base,9.22018,NA,NA
+,152,PFOA,GroundwaterOn-base,1902018,NA,NA
+,152,PFOS,GroundwaterOn-base,9202018,NA,NA
+,152,PFOS+PFOA,GroundwaterOn-base,"61,2332018",NA,NA
+,153,PFOS+PFOA,GroundwaterOn-base,"1,3002018",NA,NA
+,154,6:2 FTS,GroundwaterOn-base,"420,0002017",NA,NA
+,154,8:2 FTS,GroundwaterOn-base,"9,6002017",NA,NA
+,154,PFBS,GroundwaterOn-base,"29,0002017",NA,NA
+,154,PFDA,GroundwaterOn-base,5902017,NA,NA
+,154,PFDoA,GroundwaterOn-base,1602017,NA,NA
+,154,PFHxA,GroundwaterOn-base,"300,0002017",NA,NA
+,154,PFHxS,GroundwaterOn-base,"830,0002017",NA,NA
+,154,PFNA,GroundwaterOn-base,1902017,NA,NA
+,154,PFOA,GroundwaterOn-base,"250,0002017",NA,NA
+,154,PFOS,GroundwaterOn-base,"900,0002017",NA,NA
+,154,PFOS+PFOA,GroundwaterOn-base,"1,150,0002017",NA,NA
+,154,PFTrDA,GroundwaterOn-base,2002017,NA,NA
+,154,PFUnA,GroundwaterOn-base,1402017,NA,NA
+,155,PFHxA,GroundwaterOn-base,2282018,NA,NA
+,155,PFHpa,GroundwaterOn-base,282018,NA,NA
+,155,PFOA,GroundwaterOn-base,1192018,NA,NA
+,155,PFBS,GroundwaterOn-base,682018,NA,NA
+,155,PFHxS,GroundwaterOn-base,"1,4102018",NA,NA
+,155,PFOS,GroundwaterOn-base,9062018,NA,NA
+,155,PFOS+PFOA,GroundwaterOn-base,"1,0092018",NA,NA
+,156,PFOA,GroundwaterOn-base,282017,NA,NA
+,156,PFNA,GroundwaterOn-base,6.02017,NA,NA
+,156,PFDA,GroundwaterOn-base,0.62017,NA,NA
+,156,PFHxA,GroundwaterOn-base,532017,NA,NA
+,156,PFHpA,GroundwaterOn-base,392017,NA,NA
+,156,PFBS,GroundwaterOn-base,9.02017,NA,NA
+,156,PFHxS,GroundwaterOn-base,972017,NA,NA
+,156,PFOS,GroundwaterOn-base,832017,NA,NA
+,156,PFOS+PFOA,GroundwaterOn-base,1112017,NA,NA
+,157,PFBS,GroundwaterOn-base,922018,NA,NA
+,157,PFHpA,GroundwaterOn-base,1592018,NA,NA
+,157,PFHxS,GroundwaterOn-base,"4,0002018",NA,NA
+,157,PFNA,GroundwaterOn-base,1252018,NA,NA
+,157,PFOA,GroundwaterOn-base,6852018,NA,NA
+,157,PFOS,GroundwaterOn-base,"1,5392018",NA,NA
+,157,PFOS+PFOA,GroundwaterOn-base,"2,2152018",NA,NA
+,158,PFOS+PFOA,GroundwaterOn-base,"20,4202018",NA,NA
+,159,PFBS,GroundwaterOn-base,"32,1002019",NA,NA
+,159,PFHpA,GroundwaterOn-base,"57,7002019",NA,NA
+,159,PFHxS,GroundwaterOn-base,"740,0002019",NA,NA
+,159,PFNA,GroundwaterOn-base,"10,0002019",NA,NA
+,159,PFOA,GroundwaterOn-base,"150,0002019",NA,NA
+,159,PFOS,GroundwaterOn-base,"2,490,0002019",NA,NA
+,159,PFOS+PFOA,GroundwaterOn-base,"2,640,0002019",NA,NA
+,160,PFOS+PFOA,Drinking WaterOff-base,1822016,NA,NA
+,160,PFOS+PFOA,GroundwaterOff-base,"33,9002016",NA,NA
+,160,PFOS+PFOA,GroundwaterOn-base,"551,0002016",NA,NA
+,161,PFOS+PFOA,GroundwaterOn-base,"1,2382018",NA,NA
+,162,PFBS,NA,NA,2017-2018,22.1
+,162,PFBA,NA,NA,2017-2018,3.8
+,162,PFHxS,NA,NA,2017-2018,11.2
+,162,PFHxA,NA,NA,2017-2018,11
+,162,PFOS,NA,NA,2017-2018,70.2
+,162,PFOA,NA,NA,2017-2018,62.3
+,162,PFPeA,NA,NA,2017-2018,13.7
+,162,PFNA,NA,NA,2017-2018,8.3
+,162,PFDA,NA,NA,2017-2018,1.1
+,162,PFDoA,NA,NA,2017-2018,2
+,162,PFTA,NA,NA,2017-2018,1
+,162,PFTrDA,NA,NA,2017-2018,9.5
+,162,PFUnA,NA,NA,2017-2018,5.6
+,162,N-EtFOSAA,NA,NA,2017-2018,14.9
+,162,NMeFOSAA,NA,NA,2017-2018,14.5
+,162,PFOSA,NA,NA,2017-2018,13.7
+,162,PFDS,NA,NA,2017-2018,3
+,162,PFHpA,NA,NA,2017-2018,6.6
+,162,6:2FTS,NA,NA,2017-2018,9.9
+,162,8:2FTS,NA,NA,2017-2018,9.9
+,162,Total PFAS,NA,NA,2017-2018,249.4
+,163,PFBS,GroundwaterOn-base,"12,1002018",NA,NA
+,163,PFHpA,GroundwaterOn-base,"23,3002018",NA,NA
+,163,PFHxS,GroundwaterOn-base,"185,0002018",NA,NA
+,163,PFHxA,GroundwaterOn-base,"52,8002018",NA,NA
+,163,PFNA,GroundwaterOn-base,"2,9702018",NA,NA
+,163,PFOS,GroundwaterOn-base,"155,0002018",NA,NA
+,163,PFOA,GroundwaterOn-base,"358,0002018",NA,NA
+,163,PFPA,GroundwaterOn-base,"12,2002018",NA,NA
+,164,PFOS+PFOA,GroundwaterOn-base,"1,247,0002018",NA,NA
+,165,PFOS,GroundwaterOn-base,"680,0002017",NA,NA
+,165,PFOA,GroundwaterOn-base,"76,0002017-2018",NA,NA
+,165,PFPeA,GroundwaterOn-base,"140,0002017",NA,NA
+,165,PFHxA,GroundwaterOn-base,"90,0002017",NA,NA
+,165,PFHxS,GroundwaterOn-base,"230,0002017-2018",NA,NA
+,165,PFHpA,GroundwaterOn-base,"56,0002017-2018",NA,NA
+,166,PFOS+PFOA,GroundwaterOn-base,"9,9702018",NA,NA
+,167,PFBS,GroundwaterOn-base,"7,3302017",NA,NA
+,167,PFHpA,GroundwaterOn-base,"2,4102017",NA,NA
+,167,PFHxS,GroundwaterOn-base,"77,2002017",NA,NA
+,167,PFNA,GroundwaterOn-base,1992017,NA,NA
+,167,PFOA,GroundwaterOn-base,"30,0002017",NA,NA
+,167,PFOS,GroundwaterOn-base,"5,8002017",NA,NA
+,167,PFOS+PFOA,GroundwaterOn-base,"35,8002017",NA,NA
+,168,PFOS+PFOA,GroundwaterOn-base,9302018,NA,NA
+,169,PFOS+PFOA,GroundwaterOn-base,"3,3732018",NA,NA
+,170,PFBS,GroundwaterOn-base,"49,0002018",NA,NA
+,170,PFOA,GroundwaterOn-base,"26,0002018",NA,NA
+,170,PFOS,GroundwaterOn-base,"2,200,0002018",NA,NA
+,170,PFOS+PFOA,GroundwaterOn-base,"2,225,0002018",NA,NA
+,171,PFBS,GroundwaterOn-base,4042019,NA,NA
+,171,PFHpA,GroundwaterOn-base,2142019,NA,NA
+,171,PFHxS,GroundwaterOn-base,"135,0002019",NA,NA
+,171,PFNA,GroundwaterOn-base,532019,NA,NA
+,171,PFOA,GroundwaterOn-base,8442019,NA,NA
+,171,PFOS,GroundwaterOn-base,"32,6002019",NA,NA
+,171,PFOS+PFOA,GroundwaterOn-base,"33,0462019",NA,NA
+,172,PFBS,GroundwaterOn-base,"11,0002018",NA,NA
+,172,PFOA,GroundwaterOn-base,"72,0002018",NA,NA
+,172,PFOS,GroundwaterOn-base,"64,0002018",NA,NA
+,172,PFOS+PFOA,GroundwaterOn-base,"136,0002018",NA,NA
+,173,PFOS+PFOA,GroundwaterOn-base,"1,397,1202018",NA,NA
+,174,PFOS,GroundwaterOn-base,"1,8002019",NA,NA
+,174,PFOA,GroundwaterOn-base,882019,NA,NA
+,175,PFOS+PFOA,GroundwaterOn-base,"79,0002017",NA,NA
+,176,PFBS,Drinking waterOff-base,"232,0002017-2018",NA,NA
+,176,PFOS + PFOA,Drinking waterOff-base,2642017-2018,NA,NA
+,176,PFOA,Drinking waterOff-base,2592017-2018,NA,NA
+,176,PFOS,Drinking waterOff-base,1682017-2018,NA,NA
+,177,PFOS+PFOA,GroundwaterOn-base,"126,3002017",NA,NA
+,178,PFBS,GroundwaterOn-base,"15,0002019",NA,NA
+,178,PFHpA,GroundwaterOn-base,"3,0002019",NA,NA
+,178,PFHxS,GroundwaterOn-base,"61,0002019",NA,NA
+,178,PFNA,GroundwaterOn-base,682019,NA,NA
+,178,PFOA,GroundwaterOn-base,"9,7002019",NA,NA
+,178,PFOS,GroundwaterOn-base,"300,0002019",NA,NA
+,178,PFOS+PFOA,GroundwaterOn-base,"309,7002019",NA,NA
+,179,PFOS+PFOA,GroundwaterOn-base,"170,0002017",NA,NA
+,180,PFBS,GroundwaterOn-base,"17,0002019",NA,NA
+,180,PFOA,GroundwaterOn-base,"5,3002019",NA,NA
+,180,PFOS,GroundwaterOn-base,"9,7002019",NA,NA
+,180,PFOS+PFOA,GroundwaterOn-base,"15,0002019",NA,NA
+,198,6:2 FTS,GroundwaterOn-base,"19,0002018",NA,NA
+,198,PFBS,GroundwaterOn-base,"2,5002018",NA,NA
+,198,PFHpA,GroundwaterOn-base,"80,0002018",NA,NA
+,198,PFHxA,GroundwaterOn-base,"9,8002018",NA,NA
+,198,PFOA,GroundwaterOn-base,"80,0002018",NA,NA
+,198,PFOS,GroundwaterOn-base,"37,0002018",NA,NA
+,198,PFOS+PFOA,GroundwaterOn-base,"80,7702018",NA,NA
+,215,PFBS,GroundwaterOn-base,9702018,NA,NA
+,215,PFOA,GroundwaterOn-base,"2,8002018",NA,NA
+,215,PFOS,GroundwaterOn-base,"25,0002018",NA,NA
+,215,PFOS+PFOA,GroundwaterOn-base,"27,0002018",NA,NA
+,244,PFBS,GroundwaterOn-base,"1,9202018",NA,NA
+,244,PFHpA,GroundwaterOn-base,"1,5902018",NA,NA
+,244,PFHxS,GroundwaterOn-base,"13,9002018",NA,NA
+,244,PFNA,GroundwaterOn-base,972018,NA,NA
+,244,PFOA,GroundwaterOn-base,"1,6202018",NA,NA
+,244,PFOS,GroundwaterOn-base,"13,1002018",NA,NA
+,244,PFOS+PFOA,GroundwaterOn-base,"13,4732018",NA,NA
+,245,PFBS,GroundwaterOn-base,5802017,NA,NA
+,245,PFHpA,GroundwaterOn-base,902017,NA,NA
+,245,PFHxA,GroundwaterOn-base,"1,0002017",NA,NA
+,245,PFHxS,GroundwaterOn-base,"11,0002017",NA,NA
+,245,PFOA,GroundwaterOn-base,1302017,NA,NA
+,245,PFOS,GroundwaterOn-base,642017,NA,NA
+,245,PFOS+PFOA,GroundwaterOn-base,1942017,NA,NA
+,246,PFOA,GroundwaterOn-base,172016,NA,NA
+,246,PFOS,GroundwaterOn-base,1302016,NA,NA
+,246,PFOS+PFOA,GroundwaterOn-base,1392016,NA,NA
+,247,PFBS,GroundwaterOn-base,"23,0000",NA,NA
+,247,PFOA,GroundwaterOn-base,"57,0000",NA,NA
+,247,PFOS,GroundwaterOn-base,"41,0000",NA,NA
+,247,PFOS+PFOA,GroundwaterOn-base,"98,0000",NA,NA
+,248,PFBS,GroundwaterOn-base,3.82018,NA,NA
+,248,PFOA,GroundwaterOn-base,392018,NA,NA
+,248,PFOS,GroundwaterOn-base,3.32018,NA,NA
+,248,PFOS+PFOA,GroundwaterOn-base,392018,NA,NA
+,249,PFBS,GroundwaterOn-base,102017,NA,NA
+,249,PFOA,GroundwaterOn-base,152017,NA,NA
+,249,PFOS,GroundwaterOn-base,292017,NA,NA
+,249,PFOS+PFOA,GroundwaterOn-base,352017,NA,NA
+,250,6:2 FTS,GroundwaterOn-base,"6,7002018",NA,NA
+,250,8:2 FTS,GroundwaterOn-base,982018,NA,NA
+,250,PFBS,GroundwaterOn-base,1902018,NA,NA
+,250,PFHpA,GroundwaterOn-base,2902018,NA,NA
+,250,PFHxA,GroundwaterOn-base,"2,0002018",NA,NA
+,250,PFNA,GroundwaterOn-base,4302018,NA,NA
+,250,PFOA,GroundwaterOn-base,"15,0002018",NA,NA
+,250,PFOS,GroundwaterOn-base,"67,0002018",NA,NA
+,250,PFOS+PFOA,GroundwaterOn-base,"82,0002018",NA,NA
+,250,PFPeA,GroundwaterOn-base,7602018,NA,NA
+,251,6:2 FTS,GroundwaterOn-base,"2,0502019",NA,NA
+,251,8:2 FTS,GroundwaterOn-base,2272019,NA,NA
+,251,NEtFOSAA,GroundwaterOn-base,332019,NA,NA
+,251,NMeFOSAA,GroundwaterOn-base,332019,NA,NA
+,251,PFBS,GroundwaterOn-base,"2,5902019",NA,NA
+,251,PFDoA,GroundwaterOn-base,122019,NA,NA
+,251,PFHxA,GroundwaterOn-base,"23,3002019",NA,NA
+,251,PFHxS,GroundwaterOn-base,"24,1002019",NA,NA
+,251,PFNA,GroundwaterOn-base,3942019,NA,NA
+,251,PFOA,GroundwaterOn-base,"16,0002019",NA,NA
+,251,PFOS,GroundwaterOn-base,"159,0002019",NA,NA
+,251,PFOS+PFOA,GroundwaterOn-base,"175,0002019",NA,NA
+,251,PFUnA,GroundwaterOn-base,5802019,NA,NA
+,252,PFOS+PFOA,GroundwaterOn-base,"22,7002018",NA,NA
+,252,PFOS,GroundwaterOn-base,"21,0002018",NA,NA
+,252,PFOA,GroundwaterOn-base,"1,7002018",NA,NA
+,252,PFHxS,GroundwaterOn-base,"1,3002018",NA,NA
+,252,8:2 FTS,GroundwaterOn-base,"1,1002018",NA,NA
+,252,PFHxA,GroundwaterOn-base,"1,1002018",NA,NA
+,252,PFHpA,GroundwaterOn-base,8902018,NA,NA
+,252,6:2 FTS,GroundwaterOn-base,6002018,NA,NA
+,252,PFBS,GroundwaterOn-base,2402018,NA,NA
+,252,PFNA,GroundwaterOn-base,1802018,NA,NA
+,252,PFDA,GroundwaterOn-base,1102018,NA,NA
+,252,PFUnA,GroundwaterOn-base,112018,NA,NA
+,252,PFTrDA,GroundwaterOn-base,102018,NA,NA
+,253,PFBS,NA,NA,2017,2.5
+,253,PFBA,NA,NA,2017,11
+,253,PFHxA,NA,NA,2017,9.8
+,253,PFOA,NA,NA,2017,0.5
+,253,PFPeA,NA,NA,2017,27.8
+,253,PFHpA,NA,NA,2017,3.5
+,253,Total PFAS,NA,NA,2017,55.1
+,254,6:2 FTS,GroundwaterOn-base,"1,3702019",NA,NA
+,254,8:2 FTS,GroundwaterOn-base,"2,2002019",NA,NA
+,254,NEtFOSAA,GroundwaterOn-base,"2,2002019",NA,NA
+,254,NMeFOSAA,GroundwaterOn-base,"2,2002019",NA,NA
+,254,PFBS,GroundwaterOn-base,"8,3602019",NA,NA
+,254,PFHxA,GroundwaterOn-base,"6,5502019",NA,NA
+,254,PFHxS,GroundwaterOn-base,"38,7002019",NA,NA
+,254,PFNA,GroundwaterOn-base,122019,NA,NA
+,254,PFOA,GroundwaterOn-base,"200,0002019",NA,NA
+,254,PFOS,GroundwaterOn-base,"1,100,0002019",NA,NA
+,254,PFOS+PFOA,GroundwaterOn-base,"968,0002019",NA,NA
+,254,PFTrDA,GroundwaterOn-base,8302019,NA,NA
+,254,PFUnA,GroundwaterOn-base,8302019,NA,NA
+,255,PFBS,GroundwaterOn-base,"3,6002019",NA,NA
+,255,PFHpA,GroundwaterOn-base,"4,0002019",NA,NA
+,255,PFHxS,GroundwaterOn-base,"33,0002019",NA,NA
+,255,PFNA,GroundwaterOn-base,2302019,NA,NA
+,255,PFOA,GroundwaterOn-base,2302019,NA,NA
+,255,PFOS,GroundwaterOn-base,"45,0002019",NA,NA
+,255,PFOS+PFOA,GroundwaterOn-base,"45,2302019",NA,NA
+,256,PFBS,GroundwaterOn-base,1502019,NA,NA
+,256,PFHpA,GroundwaterOn-base,842019,NA,NA
+,256,PFHxS,GroundwaterOn-base,2102019,NA,NA
+,256,PFNA,GroundwaterOn-base,182019,NA,NA
+,256,PFOA,GroundwaterOn-base,8.22019,NA,NA
+,256,PFOS,GroundwaterOn-base,2902019,NA,NA
+,256,PFOS+PFOA,GroundwaterOn-base,2952019,NA,NA
+,257,PFBS,GroundwaterOn-base,352018,NA,NA
+,257,PFHpA,GroundwaterOn-base,152018,NA,NA
+,257,PFHxS,GroundwaterOn-base,1222018,NA,NA
+,257,PFNA,GroundwaterOn-base,6.12018,NA,NA
+,257,PFOA,GroundwaterOn-base,192018,NA,NA
+,257,PFOS,GroundwaterOn-base,3552018,NA,NA
+,257,PFOS+PFOA,GroundwaterOn-base,3742018,NA,NA
+,258,PFBS,GroundwaterOn-base,"19,0002019",NA,NA
+,258,PFOA,GroundwaterOn-base,"190,0002019",NA,NA
+,258,PFOS,GroundwaterOn-base,"99,0002019",NA,NA
+,258,PFOS+PFOA,GroundwaterOn-base,"205,0002019",NA,NA
+,259,6:2 FTS,GroundwaterOn-base,"8,3002018",NA,NA
+,259,8:2 FTS,GroundwaterOn-base,2902018,NA,NA
+,259,PFBS,GroundwaterOn-base,"3,4002018",NA,NA
+,259,PFHpA,GroundwaterOn-base,5802018,NA,NA
+,259,PFHxA,GroundwaterOn-base,1102018,NA,NA
+,259,PFHxS,GroundwaterOn-base,"3,4002018",NA,NA
+,259,PFOA,GroundwaterOn-base,"41,0002018",NA,NA
+,259,PFOS,GroundwaterOn-base,"66,0002018",NA,NA
+,259,PFOS+PFOA,GroundwaterOn-base,"72,0002018",NA,NA
+,259,PFPeA,GroundwaterOn-base,"2,0002018",NA,NA
+,260,PFBS,GroundwaterOn-base,"34,0002018",NA,NA
+,260,PFOA,GroundwaterOn-base,"790,0002018",NA,NA
+,260,PFOS,GroundwaterOn-base,"360,0002018",NA,NA
+,260,PFOS+PFOA,GroundwaterOn-base,"1,150,0002018",NA,NA
+,261,PFBS,GroundwaterOn-base,"1,3002019",NA,NA
+,261,PFHpA,GroundwaterOn-base,"1,1002019",NA,NA
+,261,PFHxS,GroundwaterOn-base,"9,1002019",NA,NA
+,261,PFNA,GroundwaterOn-base,2202019,NA,NA
+,261,PFOA,GroundwaterOn-base,"4,1002019",NA,NA
+,261,PFOS,GroundwaterOn-base,"6,0002019",NA,NA
+,261,PFOS+PFOA,GroundwaterOn-base,"10,1002019",NA,NA
+,262,PFBS,GroundwaterOn-base,"3,0002018",NA,NA
+,262,PFHpA,GroundwaterOn-base,"2,9002018",NA,NA
+,262,PFHxS,GroundwaterOn-base,"22,0002018",NA,NA
+,262,PFNA,GroundwaterOn-base,1402018,NA,NA
+,262,PFOA,GroundwaterOn-base,"8,5002018",NA,NA
+,262,PFOS,GroundwaterOn-base,"89,0002018",NA,NA
+,262,PFOS+PFOA,GroundwaterOn-base,"94,4002018",NA,NA
+,263,6:2 FTS,GroundwaterOn-base,5102018,NA,NA
+,263,8:2 FTS,GroundwaterOn-base,692018,NA,NA
+,263,PFBS,GroundwaterOn-base,162018,NA,NA
+,263,PFDA,GroundwaterOn-base,9.32018,NA,NA
+,263,PFDoA,GroundwaterOn-base,1.92018,NA,NA
+,263,PFHpA,GroundwaterOn-base,2102018,NA,NA
+,263,PFHxA,GroundwaterOn-base,"1,1002018",NA,NA
+,263,PFHxS,GroundwaterOn-base,"2,9002018",NA,NA
+,263,PFNA,GroundwaterOn-base,6.42018,NA,NA
+,263,PFOA,GroundwaterOn-base,"2,2002018",NA,NA
+,263,PFOS,GroundwaterOn-base,1602018,NA,NA
+,263,PFOS+PFOA,GroundwaterOn-base,"2,2132018",NA,NA
+,263,PFUnA,GroundwaterOn-base,1.92018,NA,NA
+,264,6:2 FTS,GroundwaterOn-base,3772018,NA,NA
+,264,8:2 FTS,GroundwaterOn-base,362018,NA,NA
+,264,PFBS,GroundwaterOn-base,"17,6002018",NA,NA
+,264,PFDA,GroundwaterOn-base,122018,NA,NA
+,264,PFDoA,GroundwaterOn-base,122018,NA,NA
+,264,PFHpA,GroundwaterOn-base,1462018,NA,NA
+,264,PFHxA,GroundwaterOn-base,5192018,NA,NA
+,264,PFHxS,GroundwaterOn-base,"2,4102018",NA,NA
+,264,PFNA,GroundwaterOn-base,202018,NA,NA
+,264,PFOA,GroundwaterOn-base,"70,7002018",NA,NA
+,264,PFOS,GroundwaterOn-base,"740,0002018",NA,NA
+,264,PFOS+PFOA,GroundwaterOn-base,"810,7002018",NA,NA
+,264,PFTeA,GroundwaterOn-base,122018,NA,NA
+,264,PFTrDA,GroundwaterOn-base,122018,NA,NA
+,264,PFUnA,GroundwaterOn-base,122018,NA,NA
+,265,6:2 FTS,GroundwaterOn-base,322019,NA,NA
+,265,8:2 FTS,GroundwaterOn-base,322019,NA,NA
+,265,NEtFOSAA,GroundwaterOn-base,332019,NA,NA
+,265,NMeFOSAA,GroundwaterOn-base,332019,NA,NA
+,265,PFBS,GroundwaterOn-base,202019,NA,NA
+,265,PFHpA,GroundwaterOn-base,302019,NA,NA
+,265,PFHxA,GroundwaterOn-base,132019,NA,NA
+,265,PFHxS,GroundwaterOn-base,222019,NA,NA
+,265,PFNA,GroundwaterOn-base,6.42019,NA,NA
+,265,PFOA,GroundwaterOn-base,392019,NA,NA
+,265,PFOS,GroundwaterOn-base,6.42019,NA,NA
+,265,PFOS+PFOA,GroundwaterOn-base,392019,NA,NA
+,265,PFTrDA,GroundwaterOn-base,122019,NA,NA
+,265,PFUnA,GroundwaterOn-base,122019,NA,NA
+,266,PFBS,GroundwaterOn-base,"2,3002019",NA,NA
+,266,PFHpA,GroundwaterOn-base,"1,6002019",NA,NA
+,266,PFHxS,GroundwaterOn-base,"33,0002019",NA,NA
+,266,PFNA,GroundwaterOn-base,5602019,NA,NA
+,266,PFOA,GroundwaterOn-base,"1,9002019",NA,NA
+,266,PFOS,GroundwaterOn-base,"13,0002019",NA,NA
+,266,PFOS+PFOA,GroundwaterOn-base,"13,4902019",NA,NA
+,267,PFBS,GroundwaterOn-base,6602019,NA,NA
+,267,PFHpA,GroundwaterOn-base,2602019,NA,NA
+,267,PFHxS,GroundwaterOn-base,"5,4002019",NA,NA
+,267,PFNA,GroundwaterOn-base,322019,NA,NA
+,267,PFOA,GroundwaterOn-base,6002019,NA,NA
+,267,PFOS,GroundwaterOn-base,"8,7002019",NA,NA
+,267,PFOS+PFOA,GroundwaterOn-base,8472019,NA,NA
+,268,PFBS,GroundwaterOn-base,"76,7002017",NA,NA
+,268,PFHpA,GroundwaterOn-base,"38,2002017",NA,NA
+,268,PFHxA,GroundwaterOn-base,"247,0002017",NA,NA
+,268,PFHxS,GroundwaterOn-base,"702,0002017",NA,NA
+,268,PFNA,GroundwaterOn-base,"4,2702017",NA,NA
+,268,PFOA,GroundwaterOn-base,"384,0002017",NA,NA
+,268,PFOS,GroundwaterOn-base,"171,0002017",NA,NA
+,268,PFOS+PFOA,GroundwaterOn-base,"448,2002017",NA,NA
+,269,NEtFOSAA,GroundwaterOn-base,"15,0002018",NA,NA
+,269,NMeFOSAA,GroundwaterOn-base,"15,0002018",NA,NA
+,269,PFBS,GroundwaterOn-base,"25,9002018",NA,NA
+,269,PFDA,GroundwaterOn-base,"5,8002018",NA,NA
+,269,PFDoA,GroundwaterOn-base,"5,8002018",NA,NA
+,269,PFHpA,GroundwaterOn-base,"19,1002018",NA,NA
+,269,PFHxA,GroundwaterOn-base,"100,0002018",NA,NA
+,269,PFHxS,GroundwaterOn-base,"359,0002018",NA,NA
+,269,PFNA,GroundwaterOn-base,9972018,NA,NA
+,269,PFOA,GroundwaterOn-base,"116,0002018",NA,NA
+,269,PFOS,GroundwaterOn-base,"164,0002018",NA,NA
+,269,PFOS+PFOA,GroundwaterOn-base,"280,0002018",NA,NA
+,269,PFTeA,GroundwaterOn-base,"5,8002018",NA,NA
+,269,PFUnA,GroundwaterOn-base,"5,8002018",NA,NA
+,270,PFBS,GroundwaterOn-base,"56,0002018",NA,NA
+,270,PFOA,GroundwaterOn-base,"62,0002018",NA,NA
+,270,PFOS,GroundwaterOn-base,"260,0002018",NA,NA
+,270,PFOS+PFOA,GroundwaterOn-base,"277,0002018",NA,NA
+,271,PFBS,GroundwaterOn-base,"3,3002018",NA,NA
+,271,PFHpA,GroundwaterOn-base,"2,5002018",NA,NA
+,271,PFHxS,GroundwaterOn-base,"50,0002018",NA,NA
+,271,PFNA,GroundwaterOn-base,1202018,NA,NA
+,271,PFOA,GroundwaterOn-base,"14,0002018",NA,NA
+,271,PFOS,GroundwaterOn-base,"47,0002018",NA,NA
+,271,PFOS+PFOA,GroundwaterOn-base,"61,0002018",NA,NA
+,272,6:2 FTS,GroundwaterOn-base,"1,2002018",NA,NA
+,272,8:2 FTS,GroundwaterOn-base,212018,NA,NA
+,272,PFBS,GroundwaterOn-base,"1,0002018",NA,NA
+,272,PFDA,GroundwaterOn-base,3.02018,NA,NA
+,272,PFDoA,GroundwaterOn-base,2.12018,NA,NA
+,272,PFHpA,GroundwaterOn-base,7002018,NA,NA
+,272,PFHxA,GroundwaterOn-base,"3,5002018",NA,NA
+,272,PFHxS,GroundwaterOn-base,"5,4002018",NA,NA
+,272,PFNA,GroundwaterOn-base,152018,NA,NA
+,272,PFOA,GroundwaterOn-base,"2,7002018",NA,NA
+,272,PFOS,GroundwaterOn-base,"4,9002018",NA,NA
+,272,PFOS+PFOA,GroundwaterOn-base,"7,6002018",NA,NA
+,272,PFTeA,GroundwaterOn-base,1.02018,NA,NA
+,272,PFTrDA,GroundwaterOn-base,2.12018,NA,NA
+,272,PFUnA,GroundwaterOn-base,2.12018,NA,NA
+,273,PFBS,GroundwaterOn-base,"24,0002017",NA,NA
+,273,PFOA,GroundwaterOn-base,"4,6002017",NA,NA
+,273,PFOS,GroundwaterOn-base,"73,0002017",NA,NA
+,273,PFOS+PFOA,GroundwaterOn-base,"77,6002017",NA,NA
+,274,6:2 FTS,GroundwaterOn-base,"1,6002018",NA,NA
+,274,8:2 FTS,GroundwaterOn-base,1302018,NA,NA
+,274,PFBS,GroundwaterOn-base,632018,NA,NA
+,274,PFDA,GroundwaterOn-base,3102018,NA,NA
+,274,PFDoA,GroundwaterOn-base,272018,NA,NA
+,274,PFHpA,GroundwaterOn-base,3002018,NA,NA
+,274,PFHxA,GroundwaterOn-base,"1,5002018",NA,NA
+,274,PFHxS,GroundwaterOn-base,"2,2002018",NA,NA
+,274,PFNA,GroundwaterOn-base,8.72018,NA,NA
+,274,PFOA,GroundwaterOn-base,8602018,NA,NA
+,274,PFOS,GroundwaterOn-base,"6,4002018",NA,NA
+,274,PFOS+PFOA,GroundwaterOn-base,"7,2602018",NA,NA
+,274,PFUnA,GroundwaterOn-base,2.02018,NA,NA
+,275,PFBS,GroundwaterOn-base,"47,0002018",NA,NA
+,275,PFHpA,GroundwaterOn-base,"55,0002018",NA,NA
+,275,PFHxS,GroundwaterOn-base,"340,0002018",NA,NA
+,275,PFNA,GroundwaterOn-base,"7,8002018",NA,NA
+,275,PFOA,GroundwaterOn-base,"360,0002018",NA,NA
+,275,PFOS,GroundwaterOn-base,"52,0002018",NA,NA
+,275,PFOS+PFOA,GroundwaterOn-base,"412,0002018",NA,NA
+,276,PFBS,GroundwaterOn-base,842018,NA,NA
+,276,PFOA,GroundwaterOn-base,342018,NA,NA
+,276,PFOS,GroundwaterOn-base,1462018,NA,NA
+,276,PFOS+PFOA,GroundwaterOn-base,1682018,NA,NA
+,276,PFHxA,GroundwaterOn-base,"1,4702018",NA,NA
+,276,PFHpA,GroundwaterOn-base,952018,NA,NA
+,276,PFNA,GroundwaterOn-base,3.52018,NA,NA
+,276,PFHxS,GroundwaterOn-base,1492018,NA,NA
+,277,PFBS,GroundwaterOn-base,"1,3002019",NA,NA
+,277,PFHpA,GroundwaterOn-base,"3,9002019",NA,NA
+,277,PFHxS,GroundwaterOn-base,"20,0002019",NA,NA
+,277,PFNA,GroundwaterOn-base,482019,NA,NA
+,277,PFOA,GroundwaterOn-base,"3,9002019",NA,NA
+,277,PFOS,GroundwaterOn-base,"1,1002019",NA,NA
+,277,PFOS+PFOA,GroundwaterOn-base,"4,0202019",NA,NA
+,278,PFBS,GroundwaterOn-base,6702019,NA,NA
+,278,PFHpA,GroundwaterOn-base,"4,4002019",NA,NA
+,278,PFHxS,GroundwaterOn-base,"6,8002019",NA,NA
+,278,PFNA,GroundwaterOn-base,2502019,NA,NA
+,278,PFOA,GroundwaterOn-base,"6,6002019",NA,NA
+,278,PFOS,GroundwaterOn-base,"71,0002019",NA,NA
+,278,PFOS+PFOA,GroundwaterOn-base,"77,6002019",NA,NA
+,279,PFBS,GroundwaterOn-base,"5,7002019",NA,NA
+,279,PFHpA,GroundwaterOn-base,"3,7002019",NA,NA
+,279,PFHxS,GroundwaterOn-base,"42,0002019",NA,NA
+,279,PFNA,GroundwaterOn-base,"8,5002019",NA,NA
+,279,PFOA,GroundwaterOn-base,"9,5002019",NA,NA
+,279,PFOS,GroundwaterOn-base,"130,0002019",NA,NA
+,279,PFOS+PFOA,GroundwaterOn-base,"139,5002019",NA,NA
+,280,6:2 FTS,GroundwaterOn-base,"7,6002018",NA,NA
+,280,8:2 FTS,GroundwaterOn-base,"1,0002018",NA,NA
+,280,PFBS,GroundwaterOn-base,5402018,NA,NA
+,280,PFHpA,GroundwaterOn-base,7102018,NA,NA
+,280,PFHxA,GroundwaterOn-base,"4,5002018",NA,NA
+,280,PFOA,GroundwaterOn-base,3602018,NA,NA
+,280,PFOS,GroundwaterOn-base,"44,0002018",NA,NA
+,280,PFOS+PFOA,GroundwaterOn-base,"44,3602018",NA,NA
+,281,PFBS,GroundwaterOn-base,"8,4002018",NA,NA
+,281,PFHpA,GroundwaterOn-base,"11,0002018",NA,NA
+,281,PFHxS,GroundwaterOn-base,"79,0002018",NA,NA
+,281,PFNA,GroundwaterOn-base,292018,NA,NA
+,281,PFOA,GroundwaterOn-base,"16,0002018",NA,NA
+,281,PFOS,GroundwaterOn-base,"58,0002018",NA,NA
+,281,PFOS+PFOA,GroundwaterOn-base,"74,0002018",NA,NA
+,282,PFOS,NA,NA,2017,5.5
+,282,PFNA,NA,NA,2017,0.8
+,282,PFDA,NA,NA,2017,0.4
+,282,PFDoA,NA,NA,2017,0.7
+,282,PFTA,NA,NA,2017,0.6
+,282,PFTrDA,NA,NA,2017,0.5
+,282,PFUnA,NA,NA,2017,9.1
+,282,Total PFAS,NA,NA,2017,11.5
+,283,6:2 FTS,GroundwaterOn-base,"185,0002018",NA,NA
+,283,PFOS+PFOA,GroundwaterOn-base,"109,8302018",NA,NA
+,283,PFOS,GroundwaterOn-base,"108,0002018",NA,NA
+,283,PFHxS,GroundwaterOn-base,"65,4002018",NA,NA
+,283,PFHxA,GroundwaterOn-base,"32,4002018",NA,NA
+,283,PFOA,GroundwaterOn-base,"16,0002018",NA,NA
+,283,PFBS,GroundwaterOn-base,"9,2502018",NA,NA
+,283,8:2 FTS,GroundwaterOn-base,"7,0402018",NA,NA
+,283,PFHpA,GroundwaterOn-base,"6,4802018",NA,NA
+,283,PFNA,GroundwaterOn-base,3782018,NA,NA
+,283,PFDA,GroundwaterOn-base,2372018,NA,NA
+,283,PFUnA,GroundwaterOn-base,282018,NA,NA
+,284,PFBS,GroundwaterOn-base,912018,NA,NA
+,284,PFHpA,GroundwaterOn-base,392018,NA,NA
+,284,PFHxS,GroundwaterOn-base,5702018,NA,NA
+,284,PFNA,GroundwaterOn-base,2.42018,NA,NA
+,284,PFOA,GroundwaterOn-base,882018,NA,NA
+,284,PFOS,GroundwaterOn-base,4402018,NA,NA
+,284,PFOS+PFOA,GroundwaterOn-base,5262018,NA,NA
+,285,PFOS+PFOA,GroundwaterOn-base,"337,0002018",NA,NA
+,285,PFOS,GroundwaterOn-base,"320,0002018",NA,NA
+,285,PFHxS,GroundwaterOn-base,"54,0002018",NA,NA
+,285,PFOA,GroundwaterOn-base,"17,0002018",NA,NA
+,285,PFHpA,GroundwaterOn-base,"13,0002018",NA,NA
+,285,PFNA,GroundwaterOn-base,"6,5002018",NA,NA
+,285,PFBS,GroundwaterOn-base,"2,1002018",NA,NA
+,286,PFBS,GroundwaterOn-base,"15,9002018",NA,NA
+,286,PFHpA,GroundwaterOn-base,"2,6502018",NA,NA
+,286,PFHxS,GroundwaterOn-base,"165,0002018",NA,NA
+,286,PFNA,GroundwaterOn-base,7622018,NA,NA
+,286,PFOA,GroundwaterOn-base,"21,1002018",NA,NA
+,286,PFOS,GroundwaterOn-base,"234,0002018",NA,NA
+,286,PFOS+PFOA,GroundwaterOn-base,"255,1002018",NA,NA
+,287,PFBS,GroundwaterOn-base,"1,2002019",NA,NA
+,287,PFOA,GroundwaterOn-base,"4,5002019",NA,NA
+,287,PFOS,GroundwaterOn-base,"30,0002019",NA,NA
+,287,PFOS+PFOA,GroundwaterOn-base,"34,5002019",NA,NA
+,288,6:2 FTS,GroundwaterOn-base,"5,8402018",NA,NA
+,288,8:2 FTS,GroundwaterOn-base,"3,3002018",NA,NA
+,288,NEtFOSAA,GroundwaterOn-base,"3,3002018",NA,NA
+,288,NMeFOSAA,GroundwaterOn-base,"3,3002018",NA,NA
+,288,PFBS,GroundwaterOn-base,"6,9202018",NA,NA
+,288,PFDA,GroundwaterOn-base,"1,2002018",NA,NA
+,288,PFDoA,GroundwaterOn-base,"1,2002018",NA,NA
+,288,PFHpA,GroundwaterOn-base,"3,1302018",NA,NA
+,288,PFHxA,GroundwaterOn-base,"64,9002018",NA,NA
+,288,PFHxS,GroundwaterOn-base,"16,9002018",NA,NA
+,288,PFNA,GroundwaterOn-base,6702018,NA,NA
+,288,PFOA,GroundwaterOn-base,"18,8002018",NA,NA
+,288,PFOS,GroundwaterOn-base,"80,4002018",NA,NA
+,288,PFOS+PFOA,GroundwaterOn-base,"80,8192018",NA,NA
+,288,PFUnA,GroundwaterOn-base,"1,2002018",NA,NA
+,289,PFBS,GroundwaterOn-base,4902018,NA,NA
+,289,PFHpA,GroundwaterOn-base,"5,9002018",NA,NA
+,289,PFHxS,GroundwaterOn-base,"43,0002018",NA,NA
+,289,PFNA,GroundwaterOn-base,"4,4002018",NA,NA
+,289,PFOA,GroundwaterOn-base,"23,0002018",NA,NA
+,289,PFOS,GroundwaterOn-base,"53,0002018",NA,NA
+,289,PFOS+PFOA,GroundwaterOn-base,"76,0002018",NA,NA
+,290,PFBS,GroundwaterOn-base,"3,7002019",NA,NA
+,290,PFHpA,GroundwaterOn-base,"2,2002019",NA,NA
+,290,PFHxS,GroundwaterOn-base,"34,0002019",NA,NA
+,290,PFNA,GroundwaterOn-base,2802019,NA,NA
+,290,PFOA,GroundwaterOn-base,"4,1002019",NA,NA
+,290,PFOS,GroundwaterOn-base,"67,0002019",NA,NA
+,290,PFOS+PFOA,GroundwaterOn-base,"71,1002019",NA,NA
+,291,NEtFOSAA,GroundwaterOn-base,342018,NA,NA
+,291,NMeFOSAA,GroundwaterOn-base,332018,NA,NA
+,291,PFBS,GroundwaterOn-base,"1,4602018",NA,NA
+,291,PFDA,GroundwaterOn-base,622018,NA,NA
+,291,PFDoA,GroundwaterOn-base,622018,NA,NA
+,291,PFHpA,GroundwaterOn-base,"6,9302018",NA,NA
+,291,PFHxA,GroundwaterOn-base,4062018,NA,NA
+,291,PFHxS,GroundwaterOn-base,"110,0002018",NA,NA
+,291,PFNA,GroundwaterOn-base,3102018,NA,NA
+,291,PFOA,GroundwaterOn-base,"57,9002018",NA,NA
+,291,PFOS,GroundwaterOn-base,"2,0702018",NA,NA
+,291,PFOS+PFOA,GroundwaterOn-base,"59,9702018",NA,NA
+,291,PFTrDA,GroundwaterOn-base,252018,NA,NA
+,291,PFUnA,GroundwaterOn-base,132018,NA,NA
+,292,PFBS,GroundwaterOn-base,"9,7002018",NA,NA
+,292,PFHpA,GroundwaterOn-base,"7,7002018",NA,NA
+,292,PFHxS,GroundwaterOn-base,"68,0002018",NA,NA
+,292,PFNA,GroundwaterOn-base,4902018,NA,NA
+,292,PFOA,GroundwaterOn-base,"21,0002018",NA,NA
+,292,PFOS,GroundwaterOn-base,"380,0002018",NA,NA
+,292,PFOS+PFOA,GroundwaterOn-base,"401,0002018",NA,NA
+,293,NEtFOSAA,GroundwaterOn-base,5.12019,NA,NA
+,293,NMeFOSAA,GroundwaterOn-base,5.12019,NA,NA
+,293,PFBS,GroundwaterOn-base,"2,2202019",NA,NA
+,293,PFDA,GroundwaterOn-base,5.12019,NA,NA
+,293,PFDoA,GroundwaterOn-base,5.12019,NA,NA
+,293,PFHpA,GroundwaterOn-base,"2,5502019",NA,NA
+,293,PFHxA,GroundwaterOn-base,"14,4002019",NA,NA
+,293,PFHxS,GroundwaterOn-base,"5,4302019",NA,NA
+,293,PFNA,GroundwaterOn-base,332019,NA,NA
+,293,PFOA,GroundwaterOn-base,"6,0002019",NA,NA
+,293,PFOS,GroundwaterOn-base,"3,5202019",NA,NA
+,293,PFOS+PFOA,GroundwaterOn-base,"16,0402019",NA,NA
+,293,PFTeA,GroundwaterOn-base,5.12019,NA,NA
+,293,PFTrDA,GroundwaterOn-base,5.12019,NA,NA
+,293,PFUnA,GroundwaterOn-base,5.12019,NA,NA
+,294,PFBS,GroundwaterOn-base,1302019,NA,NA
+,294,PFHpA,GroundwaterOn-base,3602019,NA,NA
+,294,PFHxS,GroundwaterOn-base,2202019,NA,NA
+,294,PFNA,GroundwaterOn-base,332019,NA,NA
+,294,PFOA,GroundwaterOn-base,3402019,NA,NA
+,294,PFOS,GroundwaterOn-base,5702019,NA,NA
+,294,PFOS+PFOA,GroundwaterOn-base,9102019,NA,NA
+,295,PFBA,GroundwaterOn-base,"1,3002018",NA,NA
+,295,PFBS,GroundwaterOn-base,"3,8002018",NA,NA
+,295,PFDA,GroundwaterOn-base,8.32018,NA,NA
+,295,PFHpA,GroundwaterOn-base,"1,6002018",NA,NA
+,295,PFHxA,GroundwaterOn-base,"7,8002018",NA,NA
+,295,PFHxS,GroundwaterOn-base,"22,0002018",NA,NA
+,295,PFNA,GroundwaterOn-base,1202018,NA,NA
+,295,PFOA,GroundwaterOn-base,"7,3002018",NA,NA
+,295,PFOS,GroundwaterOn-base,"20,0002018",NA,NA
+,295,PFOS+PFOA,GroundwaterOn-base,"27,3002018",NA,NA
+,295,PFOSA,GroundwaterOn-base,1402018,NA,NA
+,295,PFPeA,GroundwaterOn-base,"3,8002018",NA,NA
+,296,PFBS,GroundwaterOn-base,"2,1002019",NA,NA
+,296,PFHpA,GroundwaterOn-base,7602019,NA,NA
+,296,PFHxS,GroundwaterOn-base,"15,0002019",NA,NA
+,296,PFNA,GroundwaterOn-base,912019,NA,NA
+,296,PFOA,GroundwaterOn-base,"1,7002019",NA,NA
+,296,PFOS,GroundwaterOn-base,"13,0002019",NA,NA
+,296,PFOS+PFOA,GroundwaterOn-base,"14,3002019",NA,NA
+,297,PFBS,GroundwaterOn-base,"2,2002014",NA,NA
+,297,PFHpA,GroundwaterOn-base,9402014,NA,NA
+,297,PFHxS,GroundwaterOn-base,"17,0002014",NA,NA
+,297,PFNA,GroundwaterOn-base,312014,NA,NA
+,297,PFOA,GroundwaterOn-base,"1,8002014",NA,NA
+,297,PFOS,GroundwaterOn-base,"33,0002014",NA,NA
+,297,PFOS+PFOA,GroundwaterOn-base,"34,8002014",NA,NA
+,298,PFBS,GroundwaterOn-base,722016,NA,NA
+,298,PFHpA,GroundwaterOn-base,902016,NA,NA
+,298,PFHxS,GroundwaterOn-base,4752016,NA,NA
+,298,PFNA,GroundwaterOn-base,"3,6302016",NA,NA
+,298,PFOA,GroundwaterOn-base,3442016,NA,NA
+,298,PFOS,GroundwaterOn-base,3412016,NA,NA
+,298,PFOS+PFOA,GroundwaterOn-base,6852016,NA,NA
+,299,6:2 FTS,GroundwaterOn-base,1862019,NA,NA
+,299,8:2 FTS,GroundwaterOn-base,722019,NA,NA
+,299,PFBS,GroundwaterOn-base,2572019,NA,NA
+,299,PFDA,GroundwaterOn-base,8.52019,NA,NA
+,299,PFHpA,GroundwaterOn-base,1142019,NA,NA
+,299,PFHxA,GroundwaterOn-base,1722019,NA,NA
+,299,PFHxS,GroundwaterOn-base,"1,0602019",NA,NA
+,299,PFNA,GroundwaterOn-base,192019,NA,NA
+,299,PFOA,GroundwaterOn-base,0.02019,NA,NA
+,299,PFOS,GroundwaterOn-base,7102019,NA,NA
+,299,PFOS+PFOA,GroundwaterOn-base,7832019,NA,NA
+,300,PFOS+PFOA,GroundwaterOn-base,"523,7102018",NA,NA
+,300,PFOS,GroundwaterOn-base,"517,0002018",NA,NA
+,300,PFOA,GroundwaterOn-base,"62,4002018",NA,NA
+,300,PFBS,GroundwaterOn-base,"20,5002018",NA,NA
+,301,PFBS,GroundwaterOn-base,"1,0002018",NA,NA
+,301,PFOA,GroundwaterOn-base,"5,5002018",NA,NA
+,301,PFOS,GroundwaterOn-base,"1,9002018",NA,NA
+,301,PFOS+PFOA,GroundwaterOn-base,"5,7302018",NA,NA
+,302,PFBS,GroundwaterOn-base,"3,8402018",NA,NA
+,302,PFHpA,GroundwaterOn-base,"6,3502018",NA,NA
+,302,PFHxS,GroundwaterOn-base,"52,7002018",NA,NA
+,302,PFNA,GroundwaterOn-base,5702018,NA,NA
+,302,PFOA,GroundwaterOn-base,"18,9002018",NA,NA
+,302,PFOS,GroundwaterOn-base,"45,7002018",NA,NA
+,302,PFOS+PFOA,GroundwaterOn-base,"64,6002018",NA,NA
+,303,PFBS,GroundwaterOn-base,"18,0002019",NA,NA
+,303,PFOA,GroundwaterOn-base,"84,0002019",NA,NA
+,303,PFOS,GroundwaterOn-base,"38,0002019",NA,NA
+,303,PFOS+PFOA,GroundwaterOn-base,"122,0002019",NA,NA
+,304,PFBS,GroundwaterOn-base,3102019,NA,NA
+,304,PFHpA,GroundwaterOn-base,4302019,NA,NA
+,304,PFHxS,GroundwaterOn-base,"2,8002019",NA,NA
+,304,PFNA,GroundwaterOn-base,882019,NA,NA
+,304,PFOA,GroundwaterOn-base,5502019,NA,NA
+,304,PFOS,GroundwaterOn-base,"9,5002019",NA,NA
+,304,PFOS+PFOA,GroundwaterOn-base,"9,8902019",NA,NA
+,305,PFBS,GroundwaterOn-base,1902019,NA,NA
+,305,PFHpA,GroundwaterOn-base,2102019,NA,NA
+,305,PFHxS,GroundwaterOn-base,"2,0002019",NA,NA
+,305,PFNA,GroundwaterOn-base,252019,NA,NA
+,305,PFOA,GroundwaterOn-base,6302019,NA,NA
+,305,PFOS,GroundwaterOn-base,"4,3002019",NA,NA
+,305,PFOS+PFOA,GroundwaterOn-base,"4,9302019",NA,NA
+,306,PFOS,GroundwaterOn-base,5.82018,NA,NA
+,306,PFOA,GroundwaterOn-base,142018,NA,NA
+,306,PFOS+PFOA,GroundwaterOn-base,202018,NA,NA
+,306,PFBS,GroundwaterOn-base,432018,NA,NA
+,306,PFHpA,GroundwaterOn-base,5.12018,NA,NA
+,306,PFHxS,GroundwaterOn-base,282018,NA,NA
+,307,PFBS,GroundwaterOn-base,"49,0002019",NA,NA
+,307,PFOA,GroundwaterOn-base,"20,0002019",NA,NA
+,307,PFOS,GroundwaterOn-base,"440,0002019",NA,NA
+,307,PFOS+PFOA,GroundwaterOn-base,"453,0002019",NA,NA
+,308,PFBS,GroundwaterOn-base,272018,NA,NA
+,308,PFHpA,GroundwaterOn-base,5.12018,NA,NA
+,308,PFHxS,GroundwaterOn-base,1302018,NA,NA
+,308,PFNA,GroundwaterOn-base,1.42018,NA,NA
+,308,PFOA,GroundwaterOn-base,132018,NA,NA
+,308,PFOS,GroundwaterOn-base,962018,NA,NA
+,308,PFOS+PFOA,GroundwaterOn-base,1092018,NA,NA
+,309,NEtFOSAA,GroundwaterOn-base,162018,NA,NA
+,309,NMeFOSAA,GroundwaterOn-base,162018,NA,NA
+,309,PFBS,GroundwaterOn-base,762018,NA,NA
+,309,PFDA,GroundwaterOn-base,2.02018,NA,NA
+,309,PFDoA,GroundwaterOn-base,2.12018,NA,NA
+,309,PFHpA,GroundwaterOn-base,2962018,NA,NA
+,309,PFHxA,GroundwaterOn-base,2732018,NA,NA
+,309,PFHxS,GroundwaterOn-base,5272018,NA,NA
+,309,PFNA,GroundwaterOn-base,302018,NA,NA
+,309,PFOA,GroundwaterOn-base,2212018,NA,NA
+,309,PFOS,GroundwaterOn-base,4352018,NA,NA
+,309,PFOS+PFOA,GroundwaterOn-base,6562018,NA,NA
+,309,PFTeA,GroundwaterOn-base,1.12018,NA,NA
+,309,PFUnA,GroundwaterOn-base,2.12018,NA,NA
+,310,PFBS,GroundwaterOn-base,"31,0002018",NA,NA
+,310,PFOA,GroundwaterOn-base,"110,0002018",NA,NA
+,310,PFOS,GroundwaterOn-base,"1,200,0002018",NA,NA
+,310,PFOS+PFOA,GroundwaterOn-base,"1,310,0002018",NA,NA
+,311,NEtFOSAA,GroundwaterOn-base,5.62018,NA,NA
+,311,NMeFOSAA,GroundwaterOn-base,5.62018,NA,NA
+,311,PFBS,GroundwaterOn-base,322018,NA,NA
+,311,PFDA,GroundwaterOn-base,5.62018,NA,NA
+,311,PFDoA,GroundwaterOn-base,5.62018,NA,NA
+,311,PFHpA,GroundwaterOn-base,5.62018,NA,NA
+,311,PFHxA,GroundwaterOn-base,672018,NA,NA
+,311,PFHxS,GroundwaterOn-base,1072018,NA,NA
+,311,PFNA,GroundwaterOn-base,5.62018,NA,NA
+,311,PFOA,GroundwaterOn-base,222018,NA,NA
+,311,PFOS,GroundwaterOn-base,192018,NA,NA
+,311,PFOS+PFOA,GroundwaterOn-base,192018,NA,NA
+,311,PFTeA,GroundwaterOn-base,5.62018,NA,NA
+,311,PFUnA,GroundwaterOn-base,5.62018,NA,NA
+,312,PFBS,GroundwaterOn-base,"1,3002018",NA,NA
+,312,PFHpA,GroundwaterOn-base,8202018,NA,NA
+,312,PFHxS,GroundwaterOn-base,"11,0002018",NA,NA
+,312,PFNA,GroundwaterOn-base,1702018,NA,NA
+,312,PFOA,GroundwaterOn-base,"3,3002018",NA,NA
+,312,PFOS,GroundwaterOn-base,"10,0002018",NA,NA
+,312,PFOS+PFOA,GroundwaterOn-base,"13,3002018",NA,NA
+,313,PFBS,GroundwaterOn-base,"18,1002018",NA,NA
+,313,PFHpA,GroundwaterOn-base,"3,1702018",NA,NA
+,313,PFHxS,GroundwaterOn-base,"171,0002018",NA,NA
+,313,PFNA,GroundwaterOn-base,6032018,NA,NA
+,313,PFOA,GroundwaterOn-base,"4,4802018",NA,NA
+,313,PFOS,GroundwaterOn-base,"152,0002018",NA,NA
+,313,PFOS+PFOA,GroundwaterOn-base,"156,4802018",NA,NA
+,314,PFBS,GroundwaterOn-base,4302019,NA,NA
+,314,PFHpA,GroundwaterOn-base,4002019,NA,NA
+,314,PFHxS,GroundwaterOn-base,"11,0002019",NA,NA
+,314,PFNA,GroundwaterOn-base,432019,NA,NA
+,314,PFOA,GroundwaterOn-base,"24,0002019",NA,NA
+,314,PFOS,GroundwaterOn-base,"42,0002019",NA,NA
+,314,PFOS+PFOA,GroundwaterOn-base,"42,9702019",NA,NA
+,315,PFBS,GroundwaterOn-base,652018,NA,NA
+,315,PFHpA,GroundwaterOn-base,1082018,NA,NA
+,315,PFHxS,GroundwaterOn-base,9092018,NA,NA
+,315,PFNA,GroundwaterOn-base,152018,NA,NA
+,315,PFOA,GroundwaterOn-base,"1,1102018",NA,NA
+,315,PFOS,GroundwaterOn-base,"2,6802018",NA,NA
+,315,PFOS+PFOA,GroundwaterOn-base,"2,8652018",NA,NA
+,316,PFBA,GroundwaterOn-base,"10,0002018",NA,NA
+,316,PFBS,GroundwaterOn-base,"15,0002018",NA,NA
+,316,PFDA,GroundwaterOn-base,152018,NA,NA
+,316,PFHpA,GroundwaterOn-base,"3,8002018",NA,NA
+,316,PFHxA,GroundwaterOn-base,"110,0002018",NA,NA
+,316,PFHxS,GroundwaterOn-base,"140,0002018",NA,NA
+,316,PFNA,GroundwaterOn-base,2402018,NA,NA
+,316,PFOA,GroundwaterOn-base,"62,0002018",NA,NA
+,316,PFOS,GroundwaterOn-base,"120,0002018",NA,NA
+,316,PFOS+PFOA,GroundwaterOn-base,"182,0002018",NA,NA
+,316,PFOSA,GroundwaterOn-base,5002018,NA,NA
+,316,PFPeA,GroundwaterOn-base,"29,0002018",NA,NA
+,317,PFBA,GroundwaterOn-base,4622018,NA,NA
+,317,PFBS,GroundwaterOn-base,8112018,NA,NA
+,317,PFDA,GroundwaterOn-base,2.22018,NA,NA
+,317,PFDoA,GroundwaterOn-base,2.32018,NA,NA
+,317,PFDS,GroundwaterOn-base,2692018,NA,NA
+,317,PFHpA,GroundwaterOn-base,3542018,NA,NA
+,317,PFHxA,GroundwaterOn-base,"3,7102018",NA,NA
+,317,PFHxS,GroundwaterOn-base,"12,0002018",NA,NA
+,317,PFNA,GroundwaterOn-base,262018,NA,NA
+,317,PFOA,GroundwaterOn-base,"5,4602018",NA,NA
+,317,PFOS,GroundwaterOn-base,"1,8202018",NA,NA
+,317,PFOS+PFOA,GroundwaterOn-base,"5,6332018",NA,NA
+,317,PFOSA,GroundwaterOn-base,152018,NA,NA
+,317,PFPeA,GroundwaterOn-base,"1,4302018",NA,NA
+,317,PFTeA,GroundwaterOn-base,2.82018,NA,NA
+,317,PFTrDA,GroundwaterOn-base,2.12018,NA,NA
+,317,PFUnA,GroundwaterOn-base,2.32018,NA,NA
+,318,PFBS,GroundwaterOn-base,"3,4002018",NA,NA
+,318,PFHpA,GroundwaterOn-base,"4,7002018",NA,NA
+,318,PFHxS,GroundwaterOn-base,"36,0002018",NA,NA
+,318,PFNA,GroundwaterOn-base,"2,5002018",NA,NA
+,318,PFOA,GroundwaterOn-base,"9,7002018",NA,NA
+,318,PFOS,GroundwaterOn-base,"110,0002018",NA,NA
+,318,PFOS+PFOA,GroundwaterOn-base,"119,7002018",NA,NA
+,319,PFBS,GroundwaterOn-base,3072019,NA,NA
+,319,PFHpA,GroundwaterOn-base,7352019,NA,NA
+,319,PFHxS,GroundwaterOn-base,"4,0302019",NA,NA
+,319,PFNA,GroundwaterOn-base,502019,NA,NA
+,319,PFOA,GroundwaterOn-base,5882019,NA,NA
+,319,PFOS,GroundwaterOn-base,"1,6802019",NA,NA
+,319,PFOS+PFOA,GroundwaterOn-base,"2,2702019",NA,NA
+,320,PFBS,GroundwaterOn-base,"4,4702018",NA,NA
+,320,PFDA,GroundwaterOn-base,6.32018,NA,NA
+,320,PFHpA,GroundwaterOn-base,"4,8202018",NA,NA
+,320,PFHxA,GroundwaterOn-base,"25,6002018",NA,NA
+,320,PFHxS,GroundwaterOn-base,"46,6002018",NA,NA
+,320,PFNA,GroundwaterOn-base,1462018,NA,NA
+,320,PFOA,GroundwaterOn-base,"45,8002018",NA,NA
+,320,PFOS,GroundwaterOn-base,"14,4002018",NA,NA
+,320,PFOS+PFOA,GroundwaterOn-base,"60,2002018",NA,NA
+,320,PFTeA,GroundwaterOn-base,1.62018,NA,NA
+,320,PFUnA,GroundwaterOn-base,1.22018,NA,NA
+,321,PFBS,GroundwaterOn-base,"3,9002019",NA,NA
+,321,PFHpA,GroundwaterOn-base,"2,1002019",NA,NA
+,321,PFHxS,GroundwaterOn-base,"36,0002019",NA,NA
+,321,PFNA,GroundwaterOn-base,652019,NA,NA
+,321,PFOA,GroundwaterOn-base,"5,1002019",NA,NA
+,321,PFOS,GroundwaterOn-base,"34,0002019",NA,NA
+,321,PFOS+PFOA,GroundwaterOn-base,"39,1002019",NA,NA
+,322,PFBS,GroundwaterOn-base,"33,0002018",NA,NA
+,322,PFOA,GroundwaterOn-base,"29,0002018",NA,NA
+,322,PFOS,GroundwaterOn-base,"110,0002018",NA,NA
+,322,PFOS+PFOA,GroundwaterOn-base,"139,0002018",NA,NA
+,323,PFBS,GroundwaterOn-base,"14,0002017",NA,NA
+,323,PFOA,GroundwaterOn-base,"100,0002017",NA,NA
+,323,PFOS,GroundwaterOn-base,"300,0002017",NA,NA
+,323,PFOS+PFOA,GroundwaterOn-base,"312,0002017",NA,NA
+,324,PFBS,GroundwaterOn-base,"18,0002019",NA,NA
+,324,PFOA,GroundwaterOn-base,"13,0002019",NA,NA
+,324,PFOS,GroundwaterOn-base,"30,0002019",NA,NA
+,324,PFOS+PFOA,GroundwaterOn-base,"43,0002019",NA,NA
+,325,PFBA,GroundwaterOn-base,"120,0002019",NA,NA
+,325,PFBS,GroundwaterOn-base,"230,0002019",NA,NA
+,325,PFDA,GroundwaterOn-base,"1,5002019",NA,NA
+,325,PFDoA,GroundwaterOn-base,"1,0002019",NA,NA
+,325,PFDS,GroundwaterOn-base,"1,5002019",NA,NA
+,325,PFHpA,GroundwaterOn-base,"64,0002019",NA,NA
+,325,PFHxA,GroundwaterOn-base,"710,0002019",NA,NA
+,325,PFHxS,GroundwaterOn-base,"850,0002019",NA,NA
+,325,PFNA,GroundwaterOn-base,"8,6002019",NA,NA
+,325,PFOA,GroundwaterOn-base,"140,0002019",NA,NA
+,325,PFOS,GroundwaterOn-base,"550,0002019",NA,NA
+,325,PFOS+PFOA,GroundwaterOn-base,"650,0002019",NA,NA
+,325,PFOSA,GroundwaterOn-base,"1,0002019",NA,NA
+,325,PFPeA,GroundwaterOn-base,"180,0002019",NA,NA
+,325,PFTeA,GroundwaterOn-base,"1,0002019",NA,NA
+,325,PFTrDA,GroundwaterOn-base,"1,0002019",NA,NA
+,326,PFBS,GroundwaterOn-base,"4,0002019",NA,NA
+,326,PFHpA,GroundwaterOn-base,3302019,NA,NA
+,326,PFHxS,GroundwaterOn-base,"4,8002019",NA,NA
+,326,PFNA,GroundwaterOn-base,712019,NA,NA
+,326,PFOA,GroundwaterOn-base,8102019,NA,NA
+,326,PFOS,GroundwaterOn-base,"7,8002019",NA,NA
+,326,PFOS+PFOA,GroundwaterOn-base,"8,6102019",NA,NA
+,327,PFBS,GroundwaterOn-base,2402019,NA,NA
+,327,PFHpA,GroundwaterOn-base,782019,NA,NA
+,327,PFHxS,GroundwaterOn-base,1602019,NA,NA
+,327,PFNA,GroundwaterOn-base,2.92019,NA,NA
+,327,PFOA,GroundwaterOn-base,232019,NA,NA
+,327,PFOS,GroundwaterOn-base,552019,NA,NA
+,327,PFOS+PFOA,GroundwaterOn-base,782019,NA,NA
+,328,PFOA,GroundwaterOn-base,1332019,NA,NA
+,328,PFOS,GroundwaterOn-base,8522019,NA,NA
+,328,PFOS+PFOA,GroundwaterOn-base,9852019,NA,NA
+,329,PFOA,NA,NA,2016-2017,1
+,329,Total PFAS,NA,NA,2016-2017,1
+,330,PFBS,GroundwaterOn-base,7902019,NA,NA
+,330,PFHpA,GroundwaterOn-base,3702019,NA,NA
+,330,PFHxS,GroundwaterOn-base,"5,4002019",NA,NA
+,330,PFNA,GroundwaterOn-base,1402019,NA,NA
+,330,PFOA,GroundwaterOn-base,6902019,NA,NA
+,330,PFOS,GroundwaterOn-base,"47,0002019",NA,NA
+,330,PFOS+PFOA,GroundwaterOn-base,"47,6902019",NA,NA
+,331,PFOS,GroundwaterOn-base,"39,0002019",NA,NA
+,331,PFOA,GroundwaterOn-base,8412019,NA,NA
+,331,PFOS+PFOA,GroundwaterOn-base,"39,8412019",NA,NA
+,331,PFBS,GroundwaterOn-base,3572019,NA,NA
+,331,PFHpA,GroundwaterOn-base,2942019,NA,NA
+,331,PFHxS,GroundwaterOn-base,"8,8202019",NA,NA
+,331,PFNA,GroundwaterOn-base,1252019,NA,NA
+,332,PFBS,GroundwaterOn-base,"2,8002019",NA,NA
+,332,PFHpA,GroundwaterOn-base,3702019,NA,NA
+,332,PFHxS,GroundwaterOn-base,"4,1002019",NA,NA
+,332,PFNA,GroundwaterOn-base,5.02019,NA,NA
+,332,PFOA,GroundwaterOn-base,2602019,NA,NA
+,332,PFOS,GroundwaterOn-base,"4,7002019",NA,NA
+,332,PFOS+PFOA,GroundwaterOn-base,"4,9602019",NA,NA
+,333,PFBS,GroundwaterOn-base,"7,6002018",NA,NA
+,333,PFHpA,GroundwaterOn-base,"9,6002018",NA,NA
+,333,PFHxS,GroundwaterOn-base,"69,0002018",NA,NA
+,333,PFNA,GroundwaterOn-base,6402018,NA,NA
+,333,PFOA,GroundwaterOn-base,"4,0002018",NA,NA
+,333,PFOS,GroundwaterOn-base,"44,0002018",NA,NA
+,333,PFOS+PFOA,GroundwaterOn-base,"47,4002018",NA,NA
+,334,PFOS+PFOA,GroundwaterOn-base,"877,0002018",NA,NA
+,334,PFOS,GroundwaterOn-base,"870,0002018",NA,NA
+,334,PFOA,GroundwaterOn-base,"64,0002018",NA,NA
+,334,PFBS,GroundwaterOn-base,"23,0002018",NA,NA
+,335,6:2 FTS,GroundwaterOn-base,"71,0002018",NA,NA
+,335,8:2 FTS,GroundwaterOn-base,"1,2002018",NA,NA
+,335,NEtFOSAA,GroundwaterOn-base,"1,0002018",NA,NA
+,335,NMeFOSAA,GroundwaterOn-base,"1,0002018",NA,NA
+,335,PFBS,GroundwaterOn-base,"18,0002018",NA,NA
+,335,PFDA,GroundwaterOn-base,"1,0002018",NA,NA
+,335,PFDoA,GroundwaterOn-base,"1,0002018",NA,NA
+,335,PFHpA,GroundwaterOn-base,"12,0002018",NA,NA
+,335,PFHxA,GroundwaterOn-base,"62,0002018",NA,NA
+,335,PFHxS,GroundwaterOn-base,"190,0002018",NA,NA
+,335,PFNA,GroundwaterOn-base,"1,8002018",NA,NA
+,335,PFOA,GroundwaterOn-base,"39,0002018",NA,NA
+,335,PFOS,GroundwaterOn-base,"290,0002018",NA,NA
+,335,PFOS+PFOA,GroundwaterOn-base,"329,0002018",NA,NA
+,335,PFTrDA,GroundwaterOn-base,"1,0002018",NA,NA
+,336,6:2 FTS,GroundwaterOn-base,"5,8002019",NA,NA
+,336,8:2 FTS,GroundwaterOn-base,"11,0002019",NA,NA
+,336,NEtFOSAA,GroundwaterOn-base,"1,0002019",NA,NA
+,336,NMeFOSAA,GroundwaterOn-base,"1,0002019",NA,NA
+,336,PFDA,GroundwaterOn-base,"1,5002019",NA,NA
+,336,PFHpA,GroundwaterOn-base,"2,2002019",NA,NA
+,336,PFHxA,GroundwaterOn-base,"8,0002019",NA,NA
+,336,PFHxS,GroundwaterOn-base,"21,0002019",NA,NA
+,336,PFNA,GroundwaterOn-base,"1,8002019",NA,NA
+,336,PFOA,GroundwaterOn-base,"8,2002019",NA,NA
+,336,PFOS,GroundwaterOn-base,"150,0002019",NA,NA
+,336,PFOS+PFOA,GroundwaterOn-base,"158,2002019",NA,NA
+,336,PFTrDA,GroundwaterOn-base,"1,0002019",NA,NA
+,336,PFUnA,GroundwaterOn-base,"1,0002019",NA,NA
+,337,6:2 FTS,GroundwaterOn-base,952017-2020,NA,NA
+,337,8:2 FTS,GroundwaterOn-base,502017-2020,NA,NA
+,337,PFBS,GroundwaterOn-base,"2,8002017-2020",NA,NA
+,337,PFBA,GroundwaterOn-base,"1,6002017-2020",NA,NA
+,337,PFDS,GroundwaterOn-base,192017-2020,NA,NA
+,337,PFDA,GroundwaterOn-base,132017-2020,NA,NA
+,337,PFDoA,GroundwaterOn-base,322017-2020,NA,NA
+,337,PFHpA,GroundwaterOn-base,4702017-2020,NA,NA
+,337,PFHxS,GroundwaterOn-base,"13,0002017-2020",NA,NA
+,337,PFHxA,GroundwaterOn-base,"3,8002017-2020",NA,NA
+,337,PFOA,GroundwaterOn-base,"5,8002017-2020",NA,NA
+,337,PFNA,GroundwaterOn-base,312017-2020,NA,NA
+,337,PFOSA,GroundwaterOn-base,8602017-2020,NA,NA
+,337,PFOS,GroundwaterOn-base,"20,0002017-2020",NA,NA
+,337,PFPeA,GroundwaterOn-base,3402017-2020,NA,NA
+,337,PFUnA,GroundwaterOn-base,252017-2020,NA,NA
+,337,6:2 FTS,GroundwaterOn-base,952017-2020,NA,NA
+,337,8:2 FTS,GroundwaterOn-base,502017-2020,NA,NA
+,337,PFBS,GroundwaterOn-base,"2,8002017-2020",NA,NA
+,337,PFBA,GroundwaterOn-base,"1,6002017-2020",NA,NA
+,337,PFDS,GroundwaterOn-base,192017-2020,NA,NA
+,337,PFDA,GroundwaterOn-base,132017-2020,NA,NA
+,337,PFDoA,GroundwaterOn-base,322017-2020,NA,NA
+,337,PFHpA,GroundwaterOn-base,4702017-2020,NA,NA
+,337,PFHxS,GroundwaterOn-base,"13,0002017-2020",NA,NA
+,337,PFHxA,GroundwaterOn-base,"3,8002017-2020",NA,NA
+,337,PFOA,GroundwaterOn-base,"5,8002017-2020",NA,NA
+,337,PFNA,GroundwaterOn-base,312017-2020,NA,NA
+,337,PFOSA,GroundwaterOn-base,8602017-2020,NA,NA
+,337,PFOS,GroundwaterOn-base,"20,0002017-2020",NA,NA
+,337,PFPeA,GroundwaterOn-base,3402017-2020,NA,NA
+,337,PFUnA,GroundwaterOn-base,252017-2020,NA,NA
+,338,6:2 FTS,GroundwaterOn-base,"360,0002018",NA,NA
+,338,8:2 FTS,GroundwaterOn-base,3102018,NA,NA
+,338,PFBS,GroundwaterOn-base,"12,0002018",NA,NA
+,338,PFHpA,GroundwaterOn-base,"34,0002018",NA,NA
+,338,PFNA,GroundwaterOn-base,"1,2002018",NA,NA
+,338,PFOA,GroundwaterOn-base,"270,0002018",NA,NA
+,338,PFOS,GroundwaterOn-base,"140,0002018",NA,NA
+,338,PFOS+PFOA,GroundwaterOn-base,"301,0002018",NA,NA
+,338,PFPeA,GroundwaterOn-base,"65,0002018",NA,NA
+,339,6:2 FTS,GroundwaterOn-base,"2,4002018",NA,NA
+,339,PFBS,GroundwaterOn-base,"7,4002018",NA,NA
+,339,PFHpA,GroundwaterOn-base,"1,5002018",NA,NA
+,339,PFHxA,GroundwaterOn-base,"34,0002018",NA,NA
+,339,PFNA,GroundwaterOn-base,"6,5002018",NA,NA
+,339,PFOA,GroundwaterOn-base,"60,0002018",NA,NA
+,339,PFOS,GroundwaterOn-base,"29,0002018",NA,NA
+,339,PFOS+PFOA,GroundwaterOn-base,"89,0002018",NA,NA
+,339,PFPeA,GroundwaterOn-base,"7,0002018",NA,NA
+,340,6:2 FTS,GroundwaterOn-base,102019,NA,NA
+,340,PFBS,GroundwaterOn-base,2902019,NA,NA
+,340,PFHpA,GroundwaterOn-base,312019,NA,NA
+,340,PFOA,GroundwaterOn-base,612019,NA,NA
+,340,PFOS,GroundwaterOn-base,4402019,NA,NA
+,340,PFOS+PFOA,GroundwaterOn-base,4832019,NA,NA
+,340,PFPeA,GroundwaterOn-base,742019,NA,NA
+,342,PFBS,GroundwaterOff-base,202017,NA,NA
+,342,PFOA,GroundwaterOff-base,"1,1002017",NA,NA
+,342,PFOS,GroundwaterOff-base,382017,NA,NA
+,342,PFOS+PFOA,GroundwaterOff-base,"1,1382017",NA,NA
+,345,PFBS,NA,NA,2014-2019,19
+,345,PFHxS,NA,NA,2014-2019,98
+,345,PFHxA,NA,NA,2018-2019,21
+,345,PFOS,NA,NA,2014-2019,220
+,345,PFOA,NA,NA,2014-2019,79
+,345,PFNA,NA,NA,2014-2019,5
+,345,PFHpA,NA,NA,2016-2019,22
+,345,Total PFAS,NA,NA,2016-2019,378.1
+,346,PFBS,NA,NA,2016-2018,3.5
+,346,PFHxS,NA,NA,2016-2018,8
+,346,PFHxA,NA,NA,2018,2.1
+,346,PFOS,NA,NA,2016-2018,3.5
+,346,PFOA,NA,NA,2016-2018,3
+,346,Total PFAS,NA,NA,2016-2018,13.2
+,347,PFBA,NA,NA,2017,1.3
+,347,Total PFAS,NA,NA,2017,1.3
+,348,PFHxA,NA,NA,2017,0.8
+,348,PFOSA,NA,NA,2017,8.9
+,348,Total PFAS,NA,NA,2017,15.8
+,349,PFOSA,NA,NA,2017,3.7
+,349,Total PFAS,NA,NA,2017,3.7
+,350,PFBS,NA,NA,2017,1
+,350,PFBA,NA,NA,2017,0.9
+,350,PFOS,NA,NA,2017,1.7
+,350,PFOA,NA,NA,2017,0.7
+,350,PFTA,NA,NA,2017,1.9
+,350,Total PFAS,NA,NA,2017,5.8
+,351,PFTA,NA,NA,2017,0.7
+,351,Total PFAS,NA,NA,2017,0.7
+,352,PFBA,NA,NA,2017,0.5
+,352,Total PFAS,NA,NA,2017,0.5
+,353,PFBA,NA,NA,2017,1.2
+,353,PFHxS,NA,NA,2017,0.9
+,353,PFOS,NA,NA,2017,2.4
+,353,PFOA,NA,NA,2017,0.8
+,353,PFTA,NA,NA,2017,0.5
+,353,Total PFAS,NA,NA,2017,4.9
+,354,PFHxS,NA,NA,2017,1
+,354,PFOS,NA,NA,2017,0.7
+,354,PFOA,NA,NA,2017,2.2
+,354,PFNA,NA,NA,2017,1
+,354,PFTA,NA,NA,2017,1.7
+,354,Total PFAS,NA,NA,2017,6.5
+,355,PFDoA,NA,NA,2017,0.5
+,355,PFTA,NA,NA,2017,1
+,355,PFTrDA,NA,NA,2017,0.6
+,355,Total PFAS,NA,NA,2017,2.1
+,356,PFOA,NA,NA,2017,0.8
+,356,PFTA,NA,NA,2017,0.6
+,356,PFOSA,NA,NA,2017,1.3
+,356,Total PFAS,NA,NA,2017,2.7
+,357,PFBA,NA,NA,2017,0.3
+,357,PFOA,NA,NA,2017,0.9
+,357,PFDA,NA,NA,2017,0.4
+,357,PFTA,NA,NA,2017,1.1
+,357,Total PFAS,NA,NA,2017,2.7
+,358,PFBA,NA,NA,2017-2018,24
+,358,PFHxA,NA,NA,2017-2018,19.6
+,358,PFOS,NA,NA,2017-2018,1.5
+,358,PFOA,NA,NA,2017-2018,34
+,358,PFPeA,NA,NA,2017-2018,21.6
+,358,PFTA,NA,NA,2017-2018,0.6
+,358,PFTrDA,NA,NA,2017-2018,0.6
+,358,PFHpA,NA,NA,2017-2018,21.5
+,358,Total PFAS,NA,NA,2017-2018,115.6
+,359,PFTA,NA,NA,2017,0.5
+,359,Total PFAS,NA,NA,2017,0.5
+,360,PFBS,NA,NA,2017,1
+,360,PFBA,NA,NA,2017,1.3
+,360,PFOA,NA,NA,2017,0.8
+,360,PFTA,NA,NA,2017,0.9
+,360,Total PFAS,NA,NA,2017,3.9
+,361,PFBA,NA,NA,2017,1.3
+,361,PFOA,NA,NA,2017,5.9
+,361,PFNA,NA,NA,2017,0.8
+,361,PFDA,NA,NA,2017,0.8
+,361,PFTA,NA,NA,2017,0.8
+,361,Total PFAS,NA,NA,2017,9.3
+,362,PFBA,NA,NA,2017,1.8
+,362,PFHxS,NA,NA,2017,1.2
+,362,PFOA,NA,NA,2017,1
+,362,Total PFAS,NA,NA,2017,2.8
+,363,PFBS,NA,NA,2017,2.8
+,363,PFBA,NA,NA,2017,1.4
+,363,PFOA,NA,NA,2017,0.8
+,363,PFDA,NA,NA,2017,0.5
+,363,PFDoA,NA,NA,2017,0.8
+,363,PFTA,NA,NA,2017,1.7
+,363,PFTrDA,NA,NA,2017,0.7
+,363,PFUnA,NA,NA,2017,0.9
+,363,Total PFAS,NA,NA,2017,6.7
+,364,PFBA,NA,NA,2017,0.5
+,364,PFOA,NA,NA,2017,0.9
+,364,PFDA,NA,NA,2017,0.5
+,364,PFDoA,NA,NA,2017,0.7
+,364,PFTA,NA,NA,2017,1.2
+,364,PFUnA,NA,NA,2017,0.8
+,364,Total PFAS,NA,NA,2017,3.7
+,365,6:2FTS,NA,NA,2017,5.7
+,365,Total PFAS,NA,NA,2017,5.7
+,366,PFBS,NA,NA,2017,3.6
+,366,PFBA,NA,NA,2017,3.6
+,366,PFHxS,NA,NA,2017,15.6
+,366,PFHxA,NA,NA,2017,3.3
+,366,PFOS,NA,NA,2017,17.1
+,366,PFOA,NA,NA,2017,3.8
+,366,PFPeA,NA,NA,2017,2.9
+,366,PFHpA,NA,NA,2017,2.1
+,366,Total PFAS,NA,NA,2017,44.3
+,367,PFBS,NA,NA,2017,2.1
+,367,PFHxS,NA,NA,2017,8.9
+,367,PFOS,NA,NA,2017,7.6
+,367,Total PFAS,NA,NA,2017,18.6
+,368,PFBS,NA,NA,2017,1
+,368,PFBA,NA,NA,2017,1.7
+,368,PFTA,NA,NA,2017,0.7
+,368,PFUnA,NA,NA,2017,1
+,368,Total PFAS,NA,NA,2017,3.7
+,369,PFBA,NA,NA,2017,0.8
+,369,PFOA,NA,NA,2017,0.7
+,369,PFTA,NA,NA,2017,0.6
+,369,PFOSA,NA,NA,2017,1.6
+,369,6:2FTS,NA,NA,2017,0.5
+,369,Total PFAS,NA,NA,2017,2.7
+,370,PFBA,NA,NA,2017,7.4
+,370,PFHxS,NA,NA,2017,8.5
+,370,PFOS,NA,NA,2017,1.8
+,370,PFOA,NA,NA,2017,1.1
+,370,PFDA,NA,NA,2017,0.8
+,370,PFDoA,NA,NA,2017,1.1
+,370,PFTA,NA,NA,2017,3.1
+,370,PFTrDA,NA,NA,2017,1
+,370,PFUnA,NA,NA,2017,1
+,370,Total PFAS,NA,NA,2017,18.8
+,371,PFTA,NA,NA,2017,2.4
+,371,Total PFAS,NA,NA,2017,2.4
+,372,PFTA,NA,NA,2017,1.7
+,372,Total PFAS,NA,NA,2017,1.7
+,373,PFBS,NA,NA,2016-2018,3.8
+,373,PFHxS,NA,NA,2016-2018,51.9
+,373,PFHxA,NA,NA,2016-2018,5.7
+,373,PFOS,NA,NA,2016-2018,51
+,373,PFOA,NA,NA,2016-2018,3.8
+,373,PFPeA,NA,NA,2016-2018,5.5
+,373,PFHpA,NA,NA,2016-2018,1.7
+,373,Total PFAS,NA,NA,2016-2018,80.6
+,374,PFBA,NA,NA,2017,12.9
+,374,PFPeA,NA,NA,2017,17.3
+,374,Total PFAS,NA,NA,2017,30.2
+,375,PFBS,NA,NA,2017,6.7
+,375,PFBA,NA,NA,2017,7.4
+,375,PFHxS,NA,NA,2017,2.2
+,375,PFHxA,NA,NA,2017,2.5
+,375,PFOS,NA,NA,2017,1.6
+,375,PFOA,NA,NA,2017,3.4
+,375,PFPeA,NA,NA,2017,3.1
+,375,PFTA,NA,NA,2017,0.7
+,375,PFTrDA,NA,NA,2017,0.5
+,375,PFHpA,NA,NA,2017,1.8
+,375,Total PFAS,NA,NA,2017,29.3
+,376,PFBS,NA,NA,2016-2018,7
+,376,PFHxS,NA,NA,2016-2018,9
+,376,PFHxA,NA,NA,2018,3.7
+,376,PFOS,NA,NA,2016-2018,12
+,376,PFOA,NA,NA,2016-2018,7
+,376,PFHpA,NA,NA,2016-2018,2.2
+,376,Total PFAS,NA,NA,2016-2018,37.2
+,377,PFBS,NA,NA,2017-2018,2
+,377,PFBA,NA,NA,2017,3.2
+,377,PFHxS,NA,NA,2017-2018,1.7
+,377,PFHxA,NA,NA,2017,13.5
+,377,PFOS,NA,NA,2017-2018,5.8
+,377,PFOA,NA,NA,2017-2018,10
+,377,PFPeA,NA,NA,2017,10.8
+,377,PFNA,NA,NA,2017-2018,1.3
+,377,PFHpA,NA,NA,2017-2018,2.7
+,377,6:2FTS,NA,NA,2017,9.6
+,377,Total PFAS,NA,NA,2017-2018,51
+,378,PFHxA,NA,NA,2017,0.9
+,378,PFOA,NA,NA,2017,1.2
+,378,PFOSA,NA,NA,2017,13.1
+,378,Total PFAS,NA,NA,2017,14.3
+,379,PFBS,NA,NA,2017,5.2
+,379,PFBA,NA,NA,2017,2.1
+,379,PFHxS,NA,NA,2017,32.2
+,379,PFHxA,NA,NA,2017,8.2
+,379,PFOS,NA,NA,2017,1.3
+,379,PFOA,NA,NA,2017,4
+,379,PFPeA,NA,NA,2017,5.6
+,379,PFNA,NA,NA,2017,0.9
+,379,PFTA,NA,NA,2017,2.6
+,379,PFHpA,NA,NA,2017,3.7
+,379,Total PFAS,NA,NA,2017,61.2
+,380,PFBS,NA,NA,2017,1.7
+,380,PFBA,NA,NA,2017,2
+,380,PFHxS,NA,NA,2017,1.4
+,380,PFHxA,NA,NA,2017,1.6
+,380,PFOS,NA,NA,2017,0
+,380,PFOA,NA,NA,2017,0.4
+,380,PFDA,NA,NA,2017,0.5
+,380,PFTA,NA,NA,2017,0.4
+,380,PFHpA,NA,NA,2017,1.1
+,380,Total PFAS,NA,NA,2017,9.1
+,382,PFOA,NA,NA,2017,1.7
+,382,Total PFAS,NA,NA,2017,1.7
+,383,PFBS,NA,NA,2013-2019,9
+,383,PFHxS,NA,NA,2013-2019,24.1
+,383,PFHxA,NA,NA,2016-2019,5.4
+,383,PFOS,NA,NA,2013-2019,22.7
+,383,PFOA,NA,NA,2013-2019,25.6
+,383,PFHpA,NA,NA,2016-2019,6.4
+,383,Total PFAS,NA,NA,2016-2019,84.1
+,384,PFBS,NA,NA,2016-2018,2.5
+,384,PFOS,NA,NA,2016-2018,3.1
+,384,PFOA,NA,NA,2016-2018,2.9
+,384,Total PFAS,NA,NA,2016-2018,8
+,385,PFBS,NA,NA,2014-2019,8
+,385,PFHxS,NA,NA,2014-2019,100
+,385,PFHxA,NA,NA,2018-2019,66
+,385,PFOS,NA,NA,2014-2019,13
+,385,PFOA,NA,NA,2014-2019,40
+,385,PFNA,NA,NA,2014-2019,1.2
+,385,PFHpA,NA,NA,2016-2019,30
+,385,Total PFAS,NA,NA,2016-2019,130
+,386,PFBS,NA,NA,2017-2018,2.8
+,386,PFHxA,NA,NA,2018,3.1
+,386,PFOS,NA,NA,2017-2018,2.9
+,386,PFOA,NA,NA,2017-2018,5.5
+,386,PFHpA,NA,NA,2017-2018,2
+,386,Total PFAS,NA,NA,2017-2018,16.3
+,387,PFBS,NA,NA,2018,2.2
+,387,PFHxS,NA,NA,2018,15
+,387,PFHxA,NA,NA,2018,5.6
+,387,PFHpA,NA,NA,2018,3.7
+,387,Total PFAS,NA,NA,2018,26.5
+,388,PFBS,NA,NA,2016,2.6
+,388,PFHxS,NA,NA,2016,1.1
+,388,PFOS,NA,NA,2016,1.9
+,388,Total PFAS,NA,NA,2016,5.6
+,389,PFBS,NA,NA,2016-2018,5.5
+,389,PFHxS,NA,NA,2016-2018,13
+,389,PFHxA,NA,NA,2018,3.5
+,389,PFOS,NA,NA,2016-2018,2.5
+,389,PFOA,NA,NA,2016-2018,11
+,389,Total PFAS,NA,NA,2016-2018,28.8
+,390,PFHxA,NA,NA,2017,1.3
+,390,PFOS,NA,NA,2017,2.7
+,390,PFOA,NA,NA,2017,2
+,390,PFPeA,NA,NA,2017,1.7
+,390,Total PFAS,NA,NA,2017,7.7
+,391,PFBS,NA,NA,2017,1.3
+,391,PFBA,NA,NA,2017,3.8
+,391,PFHxA,NA,NA,2017,1.4
+,391,PFOS,NA,NA,2017,2.1
+,391,PFOA,NA,NA,2017,2.7
+,391,PFPeA,NA,NA,2017,1.5
+,391,PFTA,NA,NA,2017,0.9
+,391,PFHpA,NA,NA,2017,0.9
+,391,Total PFAS,NA,NA,2017,13.6
+,392,PFBA,NA,NA,2017,0.6
+,392,PFTA,NA,NA,2017,1.1
+,392,Total PFAS,NA,NA,2017,1.7
+,393,Total PFAS,NA,NA,2016,1.1
+,394,PFHxA,NA,NA,2017,3.7
+,394,PFOA,NA,NA,2017,1.8
+,394,6:2FTS,NA,NA,2017,17
+,394,Total PFAS,NA,NA,2017,18.7
+,395,PFTA,NA,NA,2017,0.4
+,395,Total PFAS,NA,NA,2017,0.4
+,396,PFTA,NA,NA,2017,0.9
+,396,PFTrDA,NA,NA,2017,0.5
+,396,Total PFAS,NA,NA,2017,1.4
+,397,PFBA,NA,NA,2017,1.5
+,397,PFHxA,NA,NA,2017,3.1
+,397,PFOS,NA,NA,2017,2.3
+,397,PFOA,NA,NA,2017,3.6
+,397,PFPeA,NA,NA,2017,1.8
+,397,PFTA,NA,NA,2017,1.1
+,397,PFHpA,NA,NA,2017,2.1
+,397,Total PFAS,NA,NA,2017,14.5
+,398,PFBA,NA,NA,2017,0.5
+,398,PFTA,NA,NA,2017,0.4
+,398,Total PFAS,NA,NA,2017,0.9
+,399,PFTA,NA,NA,2017,1
+,399,Total PFAS,NA,NA,2017,1
+,400,PFOA,NA,NA,2017,0.7
+,400,Total PFAS,NA,NA,2017,0.7
+,401,PFBS,NA,NA,2017-2018,69.7
+,401,PFBA,NA,NA,2017-2018,79.9
+,401,PFHxS,NA,NA,2017-2018,144
+,401,PFHxA,NA,NA,2017-2018,151
+,401,PFOS,NA,NA,2017-2018,282
+,401,PFOA,NA,NA,2017-2018,118
+,401,PFPeA,NA,NA,2017-2018,88.9
+,401,PFNA,NA,NA,2017-2018,2
+,401,PFDA,NA,NA,2017-2018,3.5
+,401,PFTA,NA,NA,2017-2018,61.7
+,401,PFUnA,NA,NA,2017-2018,0.7
+,401,PFHpA,NA,NA,2017-2018,10.6
+,401,6:2FTS,NA,NA,2017-2018,0.8
+,401,Total PFAS,NA,NA,2017-2018,933.5
+,402,PFTA,NA,NA,2017,0.4
+,402,Total PFAS,NA,NA,2017,0.4
+,403,PFHpA,NA,NA,2016,6.3
+,403,Total PFAS,NA,NA,2016,6.3
+,404,PFHxS,NA,NA,2017,2.6
+,404,PFOS,NA,NA,2017,1.7
+,404,PFTA,NA,NA,2017,0.4
+,404,PFOSA,NA,NA,2017,1.1
+,404,Total PFAS,NA,NA,2017,5.8
+,405,PFTA,NA,NA,2017,0.7
+,405,PFOSA,NA,NA,2017,1.2
+,405,Total PFAS,NA,NA,2017,1.9
+,406,PFBA,NA,NA,2017,0.4
+,406,PFTA,NA,NA,2017,1.5
+,406,Total PFAS,NA,NA,2017,1.9
+,407,PFBS,NA,NA,2017,1.5
+,407,PFBA,NA,NA,2017,2.7
+,407,PFHxS,NA,NA,2017,5
+,407,PFHxA,NA,NA,2017,7.9
+,407,PFOS,NA,NA,2017,9.6
+,407,PFOA,NA,NA,2017,7
+,407,PFPeA,NA,NA,2017,9.7
+,407,PFNA,NA,NA,2017,1.4
+,407,PFDA,NA,NA,2017,0.6
+,407,PFDoA,NA,NA,2017,0.6
+,407,PFTA,NA,NA,2017,2.2
+,407,PFTrDA,NA,NA,2017,0.8
+,407,PFHpA,NA,NA,2017,2.9
+,407,6:2FTS,NA,NA,2017,14.6
+,407,Total PFAS,NA,NA,2017,66.5
+,408,PFOA,NA,NA,2017,1.2
+,408,PFTA,NA,NA,2017,0.5
+,408,Total PFAS,NA,NA,2017,1.7
+,409,PFTA,NA,NA,2017,0.4
+,409,Total PFAS,NA,NA,2017,0.4
+,410,PFBS,NA,NA,2017,0.9
+,410,PFHxS,NA,NA,2017,6.6
+,410,PFOS,NA,NA,2017,2.3
+,410,PFOA,NA,NA,2017,2.1
+,410,Total PFAS,NA,NA,2017,11.9
+,411,PFTA,NA,NA,2017,0.4
+,411,Total PFAS,NA,NA,2017,0.4
+,412,PFBA,NA,NA,2017,141
+,412,PFOA,NA,NA,2017,1.1
+,412,PFTA,NA,NA,2017,0.5
+,412,PFHpA,NA,NA,2017,1
+,412,Total PFAS,NA,NA,2017,143.5
+,413,PFBA,NA,NA,2017,1.7
+,413,PFHxA,NA,NA,2017,1.4
+,413,PFOA,NA,NA,2017,2
+,413,PFTA,NA,NA,2017,1
+,413,Total PFAS,NA,NA,2017,6
+,414,PFBS,NA,NA,2017,3
+,414,PFBA,NA,NA,2017,1.4
+,414,PFHxS,NA,NA,2017,2.4
+,414,PFHxA,NA,NA,2017,2.5
+,414,PFOS,NA,NA,2017,0.1
+,414,PFOA,NA,NA,2017,0.6
+,414,PFPeA,NA,NA,2017,2.7
+,414,PFTA,NA,NA,2017,3
+,414,PFTrDA,NA,NA,2017,0.7
+,414,PFHpA,NA,NA,2017,3.3
+,414,Total PFAS,NA,NA,2017,19.6
+,415,PFBS,NA,NA,2017,3.4
+,415,PFBA,NA,NA,2017,2.4
+,415,PFHxS,NA,NA,2017,14.8
+,415,PFHxA,NA,NA,2017,1.4
+,415,PFOS,NA,NA,2017,16
+,415,PFOA,NA,NA,2017,1.6
+,415,PFTA,NA,NA,2017,0.5
+,415,Total PFAS,NA,NA,2017,39.7
+,416,PFBA,NA,NA,2017,1.4
+,416,PFOA,NA,NA,2017,1.2
+,416,PFTA,NA,NA,2017,0.9
+,416,Total PFAS,NA,NA,2017,3.5
+,417,PFTA,NA,NA,2017,0.5
+,417,Total PFAS,NA,NA,2017,0.5
+,418,PFBS,NA,NA,2018,14
+,418,PFHxS,NA,NA,2018,53
+,418,PFHxA,NA,NA,2018,11
+,418,PFOS,NA,NA,2018,67
+,418,PFOA,NA,NA,2018,11
+,418,PFNA,NA,NA,2018,2.2
+,418,PFHpA,NA,NA,2018,3
+,418,Total PFAS,NA,NA,2018,158.1
+,419,PFBA,NA,NA,2017,1.5
+,419,PFOA,NA,NA,2017,1
+,419,PFTA,NA,NA,2017,0.7
+,419,Total PFAS,NA,NA,2017,3.2
+,420,PFBS,NA,NA,2015-2019,1.9
+,420,Total PFAS,NA,NA,2015-2019,1.9
+,421,PFOS,NA,NA,2017,2.4
+,421,PFOA,NA,NA,2017,0.8
+,421,Total PFAS,NA,NA,2017,3.2
+,422,PFBS,NA,NA,2016-2018,22
+,422,PFHxA,NA,NA,2018,2.9
+,422,PFOS,NA,NA,2016-2018,7.9
+,422,PFOA,NA,NA,2016-2018,3.3
+,422,Total PFAS,NA,NA,2016-2018,34
+,423,PFTA,NA,NA,2017,0.8
+,423,Total PFAS,NA,NA,2017,0.8
+,424,PFBA,NA,NA,2017,0.7
+,424,Total PFAS,NA,NA,2017,0.7
+,425,PFBS,NA,NA,2016-2019,3.5
+,425,PFHxS,NA,NA,2016-2019,16
+,425,PFOS,NA,NA,2016-2019,19
+,425,PFOA,NA,NA,2016-2019,3.6
+,425,PFNA,NA,NA,2016-2019,5.1
+,425,Total PFAS,NA,NA,2016-2019,43.7
+,426,PFNA,NA,NA,2017,1
+,426,PFDA,NA,NA,2017,0.6
+,426,PFDoA,NA,NA,2017,1.1
+,426,PFTrDA,NA,NA,2017,1.2
+,426,PFUnA,NA,NA,2017,11.2
+,426,Total PFAS,NA,NA,2017,15
+,427,PFBS,NA,NA,2016-2018,4
+,427,PFHxS,NA,NA,2016-2018,55
+,427,PFOS,NA,NA,2016-2018,7.3
+,427,PFOA,NA,NA,2016-2018,150
+,427,PFHpA,NA,NA,2016-2017,16
+,427,Total PFAS,NA,NA,2016-2017,165
+,428,PFBS,NA,NA,2017,3.3
+,428,PFHxS,NA,NA,2017,18
+,428,PFHxA,NA,NA,2017,5.8
+,428,PFOS,NA,NA,2017,10.1
+,428,PFOA,NA,NA,2017,2.2
+,428,PFPeA,NA,NA,2017,1.7
+,428,PFTA,NA,NA,2017,0.7
+,428,PFHpA,NA,NA,2017,2.1
+,428,Total PFAS,NA,NA,2017,41
+,429,PFOA,NA,NA,2016,0.7
+,429,Total PFAS,NA,NA,2016,0.7
+,430,Total PFAS,NA,NA,2016,2.1
+,431,PFTA,NA,NA,2017,3.6
+,431,PFTrDA,NA,NA,2017,0.5
+,431,Total PFAS,NA,NA,2017,4.1
+,432,PFBS,NA,NA,2017,1.2
+,432,PFBA,NA,NA,2017,0.8
+,432,PFHxS,NA,NA,2017,2.7
+,432,PFTA,NA,NA,2017,1
+,432,Total PFAS,NA,NA,2017,5.5
+,433,PFBS,NA,NA,2017-2018,5.6
+,433,PFHxS,NA,NA,2017-2018,9.2
+,433,PFHxA,NA,NA,2018,7
+,433,PFOS,NA,NA,2016-2018,10.7
+,433,PFOA,NA,NA,2016-2018,15
+,433,PFHpA,NA,NA,2017-2018,33
+,433,Total PFAS,NA,NA,2016-2018,55
+,434,PFBA,NA,NA,2017,2.9
+,434,PFHxA,NA,NA,2017,1.1
+,434,PFOA,NA,NA,2017,0.9
+,434,PFTA,NA,NA,2017,0.7
+,434,Total PFAS,NA,NA,2017,5.5
+,435,Total PFAS,NA,NA,2016,11
+,436,PFBS,NA,NA,2016-2018,2.5
+,436,PFHxS,NA,NA,2016-2018,32
+,436,PFOS,NA,NA,2016-2018,2
+,436,PFOA,NA,NA,2016-2018,30
+,436,PFHpA,NA,NA,2016-2018,2.1
+,436,Total PFAS,NA,NA,2016-2018,66.6
+,439,PFBA,NA,NA,2017,0.8
+,439,Total PFAS,NA,NA,2017,0.8
+,440,PFBS,NA,NA,2013-2020,32
+,440,PFHxS,NA,NA,2013-2020,190
+,440,PFHxA,NA,NA,2019-2020,18
+,440,PFOS,NA,NA,2013-2020,650
+,440,PFOA,NA,NA,2013-2020,41
+,440,PFNA,NA,NA,2013-2020,57
+,440,PFUnA,NA,NA,2019-2020,8.1
+,441,PFHxS,NA,NA,2014-2015,150
+,441,PFOS,NA,NA,2014-2015,210
+,441,PFOA,NA,NA,2014-2015,25
+,442,PFOS+PFOA,GroundwaterOn-base,"1,066,6002018",NA,NA
+,442,PFOA,GroundwaterOn-base,"254,0002018",NA,NA
+,442,PFOS,GroundwaterOn-base,"1,040,0002018",NA,NA
+,442,PFBS,GroundwaterOn-base,"226,0002018",NA,NA
+,442,6:2 FTS,GroundwaterOn-base,"329,0002018",NA,NA
+,442,PFHpA,GroundwaterOn-base,"66,1002018",NA,NA
+,442,PFHxS,GroundwaterOn-base,8592018,NA,NA
+,442,PFHxA,GroundwaterOn-base,6722018,NA,NA
+,442,PFNA,GroundwaterOn-base,2282018,NA,NA
+,443,PFOS,GroundwaterOn-base,"12,0002018",NA,NA
+,443,PFBS,GroundwaterOn-base,3702018,NA,NA
+,443,PFHpA,GroundwaterOn-base,2402018,NA,NA
+,443,PFHxS,GroundwaterOn-base,"2,6002018",NA,NA
+,443,PFNA,GroundwaterOn-base,1302018,NA,NA
+,444,PFBS,GroundwaterOn-base,692018,NA,NA
+,444,PFHpA,GroundwaterOn-base,1902018,NA,NA
+,444,PFHxS,GroundwaterOn-base,5002018,NA,NA
+,444,PFOS,GroundwaterOn-base,2402018,NA,NA
+,444,PFOA,GroundwaterOn-base,722018,NA,NA
+,456,PFOS + PFOA,GroundwaterOn-base,"24,8702017",NA,NA
+,456,PFOS,GroundwaterOn-base,"24,0002017",NA,NA
+,456,PFOA,GroundwaterOn-base,"3,6002017",NA,NA
+,456,PFBS,GroundwaterOn-base,3002017,NA,NA
+,456,PFHxS,GroundwaterOn-base,"2,7002017",NA,NA
+,456,PFHpA,GroundwaterOn-base,"3,9002017",NA,NA
+,456,PFNA,GroundwaterOn-base,"3,2002017",NA,NA
+,456,PFHxA,GroundwaterOn-base,362017,NA,NA
+,456,PFDA,GroundwaterOn-base,3.42017,NA,NA
+,456,PFDoA,GroundwaterOn-base,0.72017,NA,NA
+,456,PFUnA,GroundwaterOn-base,1.22017,NA,NA
+,456,PFTeA,GroundwaterOn-base,0.42017,NA,NA
+,456,MeFOSAA,GroundwaterOn-base,692017,NA,NA
+,456,PFOS + PFOA,Drinking WaterOff-base,592017,NA,NA
+,456,PFOS,Drinking WaterOff-base,472017,NA,NA
+,456,PFOA,Drinking WaterOff-base,122017,NA,NA
+,456,PFBS,Drinking WaterOff-base,0.52017,NA,NA
+,456,PFHxS,Drinking WaterOff-base,452017,NA,NA
+,456,PFHpA,Drinking WaterOff-base,112017,NA,NA
+,456,PFOS + PFOA,GroundwaterOff-base,9602017,NA,NA
+,456,PFOS,GroundwaterOff-base,8102017,NA,NA
+,456,PFOA,GroundwaterOff-base,1502017,NA,NA
+,456,PFBS,GroundwaterOff-base,652017,NA,NA
+,456,PFHxS,GroundwaterOff-base,3302017,NA,NA
+,456,PFHpA,GroundwaterOff-base,1902017,NA,NA
+,456,PFNA,GroundwaterOff-base,962017,NA,NA
+,456,PFHxA,GroundwaterOff-base,2.42018,NA,NA
+,456,PFTeA,GroundwaterOff-base,0.32018,NA,NA
+,457,PFOS + PFOA,Drinking waterOff-base,"3,8232016-2017",NA,NA
+,457,PFOS,Drinking waterOff-base,"3,8002016-2017",NA,NA
+,457,PFOA,Drinking waterOff-base,1402016-2017,NA,NA
+,457,PFBS,Drinking waterOff-base,1302016-2017,NA,NA
+,458,PFOS + PFOA,GroundwaterOn-base,"988,6002018",NA,NA
+,458,PFOS,GroundwaterOn-base,"980,0002018",NA,NA
+,458,PFHxS,GroundwaterOn-base,"250,0002018",NA,NA
+,458,PFHxA,GroundwaterOn-base,"53,0002018",NA,NA
+,458,PFBS,GroundwaterOn-base,"32,0002018",NA,NA
+,458,PFOA,GroundwaterOn-base,"29,0002018",NA,NA
+,458,PFHpA,GroundwaterOn-base,"9,0002018",NA,NA
+,458,PFNA,GroundwaterOn-base,"1,2002018",NA,NA
+,458,PFDA,GroundwaterOn-base,1202018,NA,NA
+,458,EtFOSAA,GroundwaterOn-base,112018,NA,NA
+,458,PFUnA,GroundwaterOn-base,9.62018,NA,NA
+,458,MeFOSAA,GroundwaterOn-base,8.72018,NA,NA
+,458,PFOS,Drinking waterOff-base,3.92017,NA,NA
+,459,PFOS + PFOA,Drinking waterOff-base,1512017-2018,NA,NA
+,459,PFOS,Drinking waterOff-base,642017-2018,NA,NA
+,459,PFOA,Drinking waterOff-base,1422017-2018,NA,NA
+,459,PFBS,Drinking waterOff-base,4.72017-2018,NA,NA
+,460,PFOS + PFOA,Drinking waterOff-base,"22,4002018",NA,NA
+,460,PFOS,Drinking waterOff-base,"7,4002018",NA,NA
+,460,PFOA,Drinking waterOff-base,"15,0002018",NA,NA
+,460,PFBS,Drinking waterOff-base,"4,0002018",NA,NA
+,460,PFHxS,Drinking waterOff-base,7302018,NA,NA
+,461,PFOS + PFOA,Drinking waterOff-base,"1,0802017-2018",NA,NA
+,461,PFOS,Drinking waterOff-base,8802017-2018,NA,NA
+,461,PFOA,Drinking waterOff-base,2002017-2018,NA,NA
+,461,PFBS,Drinking waterOff-base,1102017-2018,NA,NA
+,461,PFHxS,Drinking waterOff-base,4102017-2018,NA,NA
+,461,PFHpA,Drinking waterOff-base,362017-2018,NA,NA
+,461,PFNA,Drinking waterOff-base,472017-2018,NA,NA
+,461,PFHxA,Drinking waterOff-base,362018,NA,NA
+,461,PFDA,Drinking waterOff-base,3.22018,NA,NA
+,462,PFOS,GroundwaterOn-base,"2,9002018-2019",NA,NA
+,462,PFOA,GroundwaterOn-base,1302018-2019,NA,NA
+,462,PFOA,Drinking waterOn-base,152018-2019,NA,NA
+,462,PFOS,Drinking waterOn-base,6.52018-2019,NA,NA
+,463,PFHpA,Drinking waterOn-base,2.02016,NA,NA
+,464,C8,Drinking waterOn-base,4.92018,NA,NA
+,464,PFHpA,Drinking waterOn-base,2.12018,NA,NA
+,465,C8,Drinking waterOn-base,1.52018,NA,NA
+,466,PFBS,Drinking waterOn-base,832016,NA,NA
+,466,PFHpA,Drinking waterOn-base,9.32016,NA,NA
+,466,PFHxS,Drinking waterOn-base,282016,NA,NA
+,466,PFNA,Drinking waterOn-base,192016,NA,NA
+,466,PFOS,Drinking waterOn-base,372016,NA,NA
+,466,PFOA,Drinking waterOn-base,192016,NA,NA
+,466,PFOS+PFOA,Drinking waterOn-base,562016,NA,NA
+,467,PFOA,Drinking waterOn-base,1.12016,NA,NA
+,468,PFHxS,Drinking waterOn-base,352016,NA,NA
+,469,PFOA,Drinking waterOn-base,1.42016,NA,NA
+,470,PFOA,Drinking waterOn-base,1.52016,NA,NA
+,471,PFOA,Drinking waterOn-base,1.82016,NA,NA
+,472,PFHxS,Drinking waterOn-base,6.92018,NA,NA
+,472,PFOA,Drinking waterOn-base,1.22018,NA,NA
+,473,PFOA,Drinking waterOn-base,0.82016,NA,NA
+,473,PFBS,GroundwaterOn-base,222017-2019,NA,NA
+,473,PFHxA,GroundwaterOn-base,382017-2019,NA,NA
+,473,PFHpA,GroundwaterOn-base,5.32017-2019,NA,NA
+,473,PFHxS,GroundwaterOn-base,1572017-2019,NA,NA
+,473,PFOA,GroundwaterOn-base,6.72017-2019,NA,NA
+,473,PFOS,GroundwaterOn-base,1322017-2019,NA,NA
+,474,PFBS,GroundwaterOn-base,1102018,NA,NA
+,474,PFHpA,GroundwaterOn-base,202018,NA,NA
+,474,PFHxS,GroundwaterOn-base,8502018,NA,NA
+,474,PFNA,GroundwaterOn-base,"1,7002018",NA,NA
+,474,PFOS,GroundwaterOn-base,5602018,NA,NA
+,474,PFOA,GroundwaterOn-base,4502018,NA,NA
+,474,PFOS+PFOA,GroundwaterOn-base,7202018,NA,NA
+,475,PFBS,GroundwaterOn-base,1302017-2019,NA,NA
+,475,PFDA,GroundwaterOn-base,182017-2019,NA,NA
+,475,PFHpA,GroundwaterOn-base,8002017-2019,NA,NA
+,475,PFHxS,GroundwaterOn-base,"2,0002017-2019",NA,NA
+,475,PFHxA,GroundwaterOn-base,4902017-2019,NA,NA
+,475,PFNA,GroundwaterOn-base,192017-2019,NA,NA
+,475,PFOS,GroundwaterOn-base,"2,7002017-2019",NA,NA
+,475,PFOA,GroundwaterOn-base,1602017-2019,NA,NA
+,475,PFOS+PFOA,GroundwaterOn-base,"2,7492017-2019",NA,NA
+,475,6:2 FTS,GroundwaterOn-base,782017-2019,NA,NA
+,475,8:2 FTS,GroundwaterOn-base,362017-2019,NA,NA
+,476,PFOSA,GroundwaterOn-base,202018,NA,NA
+,476,PFPeA,GroundwaterOn-base,222018,NA,NA
+,477,EtFOSAA,GroundwaterOn-base,4.32018,NA,NA
+,477,PFBA,GroundwaterOn-base,302018,NA,NA
+,477,PFDA,GroundwaterOn-base,1.12018,NA,NA
+,477,PFHpA,GroundwaterOn-base,2.92018,NA,NA
+,477,PFHxS,GroundwaterOn-base,1.72018,NA,NA
+,477,PFHxA,GroundwaterOn-base,5.62018,NA,NA
+,477,PFNA,GroundwaterOn-base,1.12018,NA,NA
+,477,PFOS,GroundwaterOn-base,142018,NA,NA
+,477,PFOA,GroundwaterOn-base,5.52018,NA,NA
+,477,PFPeA,GroundwaterOn-base,242018,NA,NA
+,477,PFOS+PFOA,GroundwaterOn-base,202018,NA,NA
+,478,FTSA 6:2,GroundwaterOn-base,"8,3002019",NA,NA
+,478,FTSA 8:2,GroundwaterOn-base,"8,5002019",NA,NA
+,478,PFBS,GroundwaterOn-base,"3,7102019",NA,NA
+,478,PFBA,GroundwaterOn-base,"11,8002019",NA,NA
+,478,PFDA,GroundwaterOn-base,162019,NA,NA
+,478,PFHpA,GroundwaterOn-base,"10,8002019",NA,NA
+,478,PFHxS,GroundwaterOn-base,"31,1002019",NA,NA
+,478,PFHxA,GroundwaterOn-base,"74,1002019",NA,NA
+,478,PFNA,GroundwaterOn-base,2562019,NA,NA
+,478,PFOS,GroundwaterOn-base,"16,5002019",NA,NA
+,478,PFOA,GroundwaterOn-base,"151,0002019",NA,NA
+,478,PFOS+PFOA,GroundwaterOn-base,"156,0002019",NA,NA
+,478,PFPeA,GroundwaterOn-base,"29,0002019",NA,NA
+,478,PFUdA,GroundwaterOn-base,1562019,NA,NA
+,479,PFOS,GroundwaterOn-base,"80,0002019",NA,NA
+,479,PFOA,GroundwaterOn-base,"200,0002019",NA,NA
+,479,PFOS+PFOA,GroundwaterOn-base,"201,2002019",NA,NA
+,479,PFHxS,GroundwaterOn-base,"330,0002019",NA,NA
+,479,PFHxA,GroundwaterOn-base,"230,0002019",NA,NA
+,479,PFBS,GroundwaterOn-base,"52,0002019",NA,NA
+,479,PFHpA,GroundwaterOn-base,"18,0002019",NA,NA
+,479,PFNA,GroundwaterOn-base,742019,NA,NA
+,479,PFOSA,GroundwaterOn-base,"28,0002019",NA,NA
+,479,PFPeA,GroundwaterOn-base,"31,0002019",NA,NA
+,479,PFTeDA,GroundwaterOn-base,7702019,NA,NA
+,479,PFBA,GroundwaterOn-base,"19,0002019",NA,NA
+,480,PFOA,GroundwaterOn-base,2002018,NA,NA
+,480,PFOS,GroundwaterOn-base,"2,1002018",NA,NA
+,480,PFOS+PFOA,GroundwaterOn-base,"21,0662018",NA,NA
+,480,PFBS,GroundwaterOn-base,"1,7002018",NA,NA
+,480,PFBA,GroundwaterOn-base,9002018,NA,NA
+,480,PFDS,GroundwaterOn-base,582018,NA,NA
+,480,PFDA,GroundwaterOn-base,222018,NA,NA
+,480,PFDoA,GroundwaterOn-base,8.02018,NA,NA
+,480,PFHpA,GroundwaterOn-base,2002018,NA,NA
+,480,PFHxS,GroundwaterOn-base,"1,0002018",NA,NA
+,480,PFHxA,GroundwaterOn-base,"7,4002018",NA,NA
+,480,PFNA,GroundwaterOn-base,952018,NA,NA
+,480,PFOSA,GroundwaterOn-base,2302018,NA,NA
+,480,PFPeA,GroundwaterOn-base,2402018,NA,NA
+,480,PFTrDA,Groundwateron-base,7.52018,NA,NA
+,480,PFUnA,Groundwateron-base,8.62018,NA,NA
+,480,6:2 FTS,Groundwateron-base,3502018,NA,NA
+,480,8:2 FTS,Groundwateron-base,"1,4002018",NA,NA
+,481,PFOS,Groundwateron-base,"5,9002018",NA,NA
+,481,PFOA,Groundwateron-base,8892018,NA,NA
+,481,PFOS+PFOA,Groundwateron-base,"6,0732018",NA,NA
+,481,PFBS,Groundwateron-base,1192018,NA,NA
+,481,PFHpA,Groundwateron-base,8182018,NA,NA
+,481,PFHxS,Groundwateron-base,"3,1802018",NA,NA
+,481,PFNA,Groundwateron-base,4892018,NA,NA
+,482,PFOS+PFOA,Groundwateron-base,"12,8002019",NA,NA
+,482,PFOS,Groundwateron-base,"9,7002019",NA,NA
+,482,PFOA,Groundwateron-base,"3,1002019",NA,NA
+,482,PFBS,Groundwateron-base,1702019,NA,NA
+,483,PFBS,Groundwater/surfacewateron-base,1102018,NA,NA
+,483,PFHpA,Groundwater/surfacewateron-base,832018,NA,NA
+,483,PFHxS,Groundwater/surfacewateron-base,"1,4002018",NA,NA
+,483,PFNA,Groundwater/surfacewateron-base,7.02018,NA,NA
+,483,PFOS,Groundwater/surfacewateron-base,9802018,NA,NA
+,483,PFOA,Groundwater/surfacewateron-base,3602018,NA,NA
+,483,PFOS+PFOA,Groundwater/surfacewateron-base,"1,3402018",NA,NA
+,484,PFBS,GroundwaterOn-base,"14,0002019",NA,NA
+,484,PFOA,GroundwaterOn-base,"62,0002019",NA,NA
+,484,PFOS,GroundwaterOn-base,"81,0002019",NA,NA
+,484,PFOS+PFOA,GroundwaterOn-base,"104,0002019",NA,NA
+,487,PFOS,NA,NA,2013-2019,11
+,488,PFBS,GroundwaterOn-base,"3,1002017-2018",NA,NA
+,488,PFHpA,GroundwaterOn-base,"1,1002017-2018",NA,NA
+,488,PFHxS,GroundwaterOn-base,"4,6002017-2018",NA,NA
+,488,PFNA,GroundwaterOn-base,952017-2018,NA,NA
+,488,PFOS,GroundwaterOn-base,2902017-2018,NA,NA
+,488,PFOA,GroundwaterOn-base,"1,2002017-2018",NA,NA
+,489,PFOA,GroundwaterOn-base,3202019,NA,NA
+,489,PFOS,GroundwaterOn-base,"10,0002019",NA,NA
+,489,PFOA+PFOS,GroundwaterOn-base,"10,3202019",NA,NA
+,490,PFOA+PFOS,Drinking waterOn-base,3.42019,NA,NA
+,491,PFBS,GroundwaterOn-base,3502019,NA,NA
+,491,PFOA,GroundwaterOn-base,"9,8002019",NA,NA
+,491,PFOS,GroundwaterOn-base,"96,0002019",NA,NA
+,491,PFOA+PFOS,GroundwaterOn-base,"96,3402019",NA,NA
+,492,PFOS,GroundwaterOn-base,"74,6002017-2019",NA,NA
+,492,PFOA,GroundwaterOn-base,"285,0002017-2019",NA,NA
+,492,PFOS+PFOA,GroundwaterOn-base,"390,0002017-2019",NA,NA
+,492,PFBS,GroundwaterOn-base,"43,0002017-2019",NA,NA
+,492,6:2 FTS,GroundwaterOn-base,"359,0002017-2019",NA,NA
+,492,8:2 FTS,GroundwaterOn-base,1282017-2019,NA,NA
+,492,PFDA,GroundwaterOn-base,722017-2019,NA,NA
+,492,PFHpA,GroundwaterOn-base,"44,8002017-2019",NA,NA
+,492,PFHxS,GroundwaterOn-base,"803,0002017-2019",NA,NA
+,492,PFHxA,GroundwaterOn-base,"228,0002017-2019",NA,NA
+,492,PFNA,GroundwaterOn-base,"1,0202017-2019",NA,NA
+,493,PFOS,GroundwaterOn-base,7.82018,NA,NA
+,493,PFOA,GroundwaterOn-base,102018,NA,NA
+,493,PFOS+PFOA,GroundwaterOn-base,182018,NA,NA
+,493,PFBS,GroundwaterOn-base,422018,NA,NA
+,493,6:2 FTS,GroundwaterOn-base,212018,NA,NA
+,493,PFDA,GroundwaterOn-base,8.92018,NA,NA
+,493,PFHpA,GroundwaterOn-base,112018,NA,NA
+,493,PFHxA,GroundwaterOn-base,1092018,NA,NA
+,493,PFNA,GroundwaterOn-base,112018,NA,NA
+,493,PFUnA,GroundwaterOn-base,162018,NA,NA
+,494,PFBS,GroundwaterOn-base,"4,5002018",NA,NA
+,494,PFHpA,GroundwaterOn-base,5902018,NA,NA
+,494,PFHxS,GroundwaterOn-base,"1,6002018",NA,NA
+,494,PFNA,GroundwaterOn-base,122018,NA,NA
+,494,PFOS,GroundwaterOn-base,232018,NA,NA
+,494,PFOA,GroundwaterOn-base,1702018,NA,NA
+,495,PFBS,GroundwaterOn-base,8.72018,NA,NA
+,495,PFHpA,GroundwaterOn-base,4602018,NA,NA
+,495,PFHxS,GroundwaterOn-base,492018,NA,NA
+,495,PFNA,GroundwaterOn-base,2502018,NA,NA
+,495,PFOS,GroundwaterOn-base,442018,NA,NA
+,495,PFOA,GroundwaterOn-base,5802018,NA,NA
+,496,PFHxA,GroundwaterOn-base,"2,5802018",NA,NA
+,496,PFHpA,GroundwaterOn-base,"1,1742018",NA,NA
+,496,PFOA,GroundwaterOn-base,"2,3752018",NA,NA
+,496,PFNA,GroundwaterOn-base,282018,NA,NA
+,496,PFDA,GroundwaterOn-base,242018,NA,NA
+,496,PFUnA,GroundwaterOn-base,252018,NA,NA
+,496,PFDoA,GroundwaterOn-base,302018,NA,NA
+,496,PFTrDA,GroundwaterOn-base,352018,NA,NA
+,496,PFTeDA,GroundwaterOn-base,312018,NA,NA
+,496,NMeFOSAA,GroundwaterOn-base,262018,NA,NA
+,496,NEtFOSAA,GroundwaterOn-base,282018,NA,NA
+,496,PFBS,GroundwaterOn-base,3452018,NA,NA
+,496,PFHxS,GroundwaterOn-base,"1,1422018",NA,NA
+,496,PFOS,GroundwaterOn-base,1502018,NA,NA
+,497,PFHxA,GroundwaterOn-base,"6,0662018",NA,NA
+,497,PFHpA,GroundwaterOn-base,"1,3102018",NA,NA
+,497,PFOA,GroundwaterOn-base,"15,8962018",NA,NA
+,497,PFNA,GroundwaterOn-base,622018,NA,NA
+,497,PFDA,GroundwaterOn-base,6.82018,NA,NA
+,497,NMeFOSAA,GroundwaterOn-base,112018,NA,NA
+,497,NEtFOSAA,GroundwaterOn-base,1.22018,NA,NA
+,497,PFBS,GroundwaterOn-base,"1,6142018",NA,NA
+,497,PFHxS,GroundwaterOn-base,"14,6472018",NA,NA
+,497,PFOS,GroundwaterOn-base,"30,4472018",NA,NA
+,498,PFOA,Surface waterOn-base,2.32018,NA,NA
+,498,PFOS,Surface waterOn-base,3.82018,NA,NA
+,498,PFOA+PFOS,Surface waterOn-base,4.82018,NA,NA
+,499,PFBS,Surface waterOn-base,"190,0002018",NA,NA
+,499,PFOA,Surface waterOn-base,"110,0002018",NA,NA
+,499,PFOS,Surface waterOn-base,"760,0002018",NA,NA
+,499,PFOS+PFOS,Surface waterOn-base,"870,0002018",NA,NA
+,500,PFBS,GroundwaterOn-base,"12,0002019",NA,NA
+,500,PFOA,GroundwaterOn-base,"49,0002019",NA,NA
+,500,PFOS,GroundwaterOn-base,"23,0002019",NA,NA
+,500,PFOS+PFOS,GroundwaterOn-base,"72,0002019",NA,NA
+,501,PFOA,GroundwaterOn-base,612016,NA,NA
+,501,PFOS,GroundwaterOn-base,582016,NA,NA
+,501,PFBS,GroundwaterOn-base,132016,NA,NA
+,502,6:2 FTS,GroundwaterOn-base,"185,0002018",NA,NA
+,502,PFOS+PFOA,GroundwaterOn-base,"109,8302018",NA,NA
+,502,PFOS,GroundwaterOn-base,"108,0002018",NA,NA
+,502,PFHxS,GroundwaterOn-base,"65,4002018",NA,NA
+,502,PFHxA,GroundwaterOn-base,"32,4002018",NA,NA
+,502,PFOA,GroundwaterOn-base,"16,0002018",NA,NA
+,502,PFBS,GroundwaterOn-base,"9,2502018",NA,NA
+,502,8:2 FTS,GroundwaterOn-base,"7,0402018",NA,NA
+,502,PFHpA,GroundwaterOn-base,"6,4802018",NA,NA
+,502,PFNA,GroundwaterOn-base,3782018,NA,NA
+,502,PFDA,GroundwaterOn-base,2372018,NA,NA
+,502,PFUnA,GroundwaterOn-base,282018,NA,NA
+,503,PFBS,GroundwaterOn-base,"2,0002017-2018",NA,NA
+,503,PFHpA,GroundwaterOn-base,9702017-2018,NA,NA
+,503,PFHxS,GroundwaterOn-base,"2,1002017-2018",NA,NA
+,503,PFNA,GroundwaterOn-base,2202017-2018,NA,NA
+,503,PFOS,GroundwaterOn-base,"110,0002017-2018",NA,NA
+,503,PFOA,GroundwaterOn-base,"3,9002017-2018",NA,NA
+,504,PFOS,GroundwaterOn-base,"2,620,0002022",NA,NA
+,504,PFUnA,GroundwaterOn-base,"11,2002022",NA,NA
+,504,PFHxA,GroundwaterOn-base,"155,0002022",NA,NA
+,504,PFOA,GroundwaterOn-base,"98,5002022",NA,NA
+,504,PFDA,GroundwaterOn-base,"1,5102022",NA,NA
+,504,PFHxS,GroundwaterOn-base,"1,300,0002022",NA,NA
+,504,PFBS,GroundwaterOn-base,"47,8002022",NA,NA
+,504,PFHpA,GroundwaterOn-base,"27,3002022",NA,NA
+,504,PFNA,GroundwaterOn-base,"274,0002022",NA,NA
+,504,PFTrDA,GroundwaterOn-base,222022,NA,NA
+,505,PFOS,GroundwaterOn-base,"1,5202018-2020",NA,NA
+,505,PFOA,GroundwaterOn-base,"13,6002018-2020",NA,NA
+,505,PFOS+PFOA,GroundwaterOn-base,"13,8002018-2020",NA,NA
+,505,PFBS,GroundwaterOn-base,"2,6002018-2020",NA,NA
+,505,PFHpA,GroundwaterOn-base,"1,4802018-2020",NA,NA
+,505,PFHxS,GroundwaterOn-base,"10,5002018-2020",NA,NA
+,505,PFHxA,GroundwaterOn-base,"14,4002018-2020",NA,NA
+,505,PFNA,GroundwaterOn-base,102018-2020,NA,NA
+,506,PFOS+PFOA,Drinking waterOn-base,7.0202,NA,NA
+,507,PFBS,GroundwaterOn-base,"39,0002018-2019",NA,NA
+,507,PFOA,GroundwaterOn-base,"26,0002018-2019",NA,NA
+,507,PFOS,GroundwaterOn-base,"450,0002018-2019",NA,NA
+,507,PFOS+PFOA,GroundwaterOn-base,"471,0002018-2019",NA,NA
+,508,PFBS,GroundwaterOn-base,5.1,NA,NA
+,508,PFHxS,GroundwaterOn-base,130,NA,NA
+,508,PFHxA,GroundwaterOn-base,7,NA,NA
+,508,PFNA,GroundwaterOn-base,1.6,NA,NA
+,508,PFOS,GroundwaterOn-base,270,NA,NA
+,508,PFOA,GroundwaterOn-base,4.7,NA,NA
+,508,PFOS+PFOA,GroundwaterOn-base,310,NA,NA
+,509,PFOA,Drinking WaterOn-base,252017-2018,NA,NA
+,510,PFOA+PFOS,Drinking WaterOn-base,6.9202,NA,NA
+,511,PFOS,GroundwaterOn-base,"13,7002017",NA,NA
+,511,PFOA,GroundwaterOn-base,"1,6602017",NA,NA
+,511,PFOA+PFOS,GroundwaterOn-base,"14,5722017",NA,NA
+,511,PFBS,GroundwaterOn-base,3372017,NA,NA
+,511,PFHpA,GroundwaterOn-base,4022017,NA,NA
+,511,PFHxS,GroundwaterOn-base,"9,0202017",NA,NA
+,511,PFNA,GroundwaterOn-base,1642017,NA,NA
+,512,PFBS,GroundwaterOn-base,122017,NA,NA
+,512,PFHxA,GroundwaterOn-base,202017,NA,NA
+,512,PFHpA,GroundwaterOn-base,7.92017,NA,NA
+,512,PFHxS,GroundwaterOn-base,1552017,NA,NA
+,512,PFOA,GroundwaterOn-base,192017,NA,NA
+,512,PFOS,GroundwaterOn-base,942017,NA,NA
+,512,PFNA,GroundwaterOn-base,1.02017,NA,NA
+,513,PFBS,GroundwaterOn-base,"4,8052020",NA,NA
+,513,PFOS,GroundwaterOn-base,"84,7572020",NA,NA
+,513,PFOA,GroundwaterOn-base,"1,8362020",NA,NA
+,514,6:2 FTS,GroundwaterOn-base,240,NA,NA
+,514,PFBA,GroundwaterOn-base,360,NA,NA
+,514,PFBS,GroundwaterOn-base,3.2,NA,NA
+,514,PFHpA,GroundwaterOn-base,140,NA,NA
+,514,PFHxA,GroundwaterOn-base,630,NA,NA
+,514,PFHxS,GroundwaterOn-base,1320,NA,NA
+,514,PFOA,GroundwaterOn-base,210,NA,NA
+,514,PFOS,GroundwaterOn-base,4650,NA,NA
+,514,PFPeA,GroundwaterOn-base,940,NA,NA
+,514,PFOS+PFOA,GroundwaterOn-base,4700,NA,NA
+,515,PFOS,GroundwaterOn-base,2572018,NA,NA
+,515,PFOA,GroundwaterOn-base,6912018,NA,NA
+,515,PFOS+PFOA,GroundwaterOn-base,8272018,NA,NA
+,515,PFBS,GroundwaterOn-base,752018,NA,NA
+,515,PFHpA,GroundwaterOn-base,8222018,NA,NA
+,515,PFHxS,GroundwaterOn-base,3282018,NA,NA
+,515,PFNA,GroundwaterOn-base,4.72018,NA,NA
+,516,PFBS,GroundwaterOn-base,"74,0002018-2019",NA,NA
+,516,PFOA,GroundwaterOn-base,"410,0002018-2019",NA,NA
+,516,PFOS,GroundwaterOn-base,"42,0002018-2019",NA,NA
+,516,PFOS+PFOA,GroundwaterOn-base,"410,7802018-2019",NA,NA
+,517,PFOS,GroundwaterOn-base,"42,0002016-2018",NA,NA
+,517,PFOA,GroundwaterOn-base,"5,4002016-2018",NA,NA
+,517,PFOS+PFOA,GroundwaterOn-base,"47,4002016-2018",NA,NA
+,517,PFBS,GroundwaterOn-base,"1,2002016-2018",NA,NA
+,517,6:2 FTS,GroundwaterOn-base,"15,0002016-2018",NA,NA
+,517,8:2 FTS,GroundwaterOn-base,2702016-2018,NA,NA
+,517,PFBA,GroundwaterOn-base,8202016-2018,NA,NA
+,517,PFDS,GroundwaterOn-base,4.82016-2018,NA,NA
+,517,PFDA,GroundwaterOn-base,272016-2018,NA,NA
+,517,PFHpA,GroundwaterOn-base,7502016-2018,NA,NA
+,517,PFHxS,GroundwaterOn-base,"8,2002016-2018",NA,NA
+,517,PFHxA,GroundwaterOn-base,"6,5002016-2018",NA,NA
+,517,PFNA,GroundwaterOn-base,1202016-2018,NA,NA
+,517,PFOSA,GroundwaterOn-base,5802016-2018,NA,NA
+,517,PFPeA,GroundwaterOn-base,"1,8002016-2018",NA,NA
+,517,PFUnA,GroundwaterOn-base,9.22016-2018,NA,NA
+,518,PFOS,GroundwaterOn-base,"87,0002019",NA,NA
+,518,PFBS,GroundwaterOn-base,"41,0002019",NA,NA
+,518,PFHpA,GroundwaterOn-base,2002019,NA,NA
+,518,PFHxS,GroundwaterOn-base,"6,6002019",NA,NA
+,518,PFNA,GroundwaterOn-base,362019,NA,NA
+,518,PFOA,GroundwaterOn-base,2502019,NA,NA
+,519,PFBS,GroundwaterOn-base,8.52017,NA,NA
+,519,PFPeA,GroundwaterOn-base,4.82017,NA,NA
+,519,PFHxA,GroundwaterOn-base,6.02017,NA,NA
+,519,PFHxS,GroundwaterOn-base,4.22017,NA,NA
+,519,PFOS,GroundwaterOn-base,4.42017,NA,NA
+,520,PFOA,GroundwaterOn-base,962018,NA,NA
+,520,PFNA,GroundwaterOn-base,102018,NA,NA
+,520,PFDA,GroundwaterOn-base,3.92018,NA,NA
+,520,PFBS,GroundwaterOn-base,2.42018,NA,NA
+,520,PFBA,GroundwaterOn-base,212018,NA,NA
+,520,PFHXA,GroundwaterOn-base,352018,NA,NA
+,521,PFOA,GroundwaterOn-base,3102019-2020,NA,NA
+,521,PFOS,GroundwaterOn-base,"5,3002019-2020",NA,NA
+,521,PFBS,GroundwaterOn-base,1602019-2020,NA,NA
+,521,PFHpA,GroundwaterOn-base,3002019-2020,NA,NA
+,521,PFHxS,GroundwaterOn-base,"2,1002019-2020",NA,NA
+,521,PFNA,GroundwaterOn-base,162019-2020,NA,NA
+,522,PFOS+PFOA,Drinking waterOn-base,150,NA,NA
+,523,PFBS,GroundwaterOn-base,812018,NA,NA
+,523,PFOA,GroundwaterOn-base,"1,4002018",NA,NA
+,523,PFOS,GroundwaterOn-base,"4,0002018",NA,NA
+,523,PFOS+PFOA,GroundwaterOn-base,"5,4002018",NA,NA
+,524,PFBS,GroundwaterOn-base,"8,5002018",NA,NA
+,524,PFOA,GroundwaterOn-base,"40,0002018",NA,NA
+,524,PFOS,GroundwaterOn-base,"35,0002018",NA,NA
+,524,PFOS+PFOA,GroundwaterOn-base,"75,0002018",NA,NA
+,525,PFOS,GroundwaterOn-base,6400,NA,NA
+,525,PFOA,GroundwaterOn-base,"2,2000",NA,NA
+,525,PFOS+PFOA,GroundwaterOn-base,"2,8400",NA,NA
+,525,PFBS,GroundwaterOn-base,2200,NA,NA
+,525,PFHpA,GroundwaterOn-base,7000,NA,NA
+,525,PFHxS,GroundwaterOn-base,"3,9000",NA,NA
+,525,PFNA,GroundwaterOn-base,510,NA,NA
+,526,PFOS,GroundwaterOn-base,"2,4000",NA,NA
+,526,PFOA,GroundwaterOn-base,"4,8000",NA,NA
+,526,PFOS+PFOA,GroundwaterOn-base,"4,8100",NA,NA
+,526,PFBS,GroundwaterOn-base,4500,NA,NA
+,526,PFHpA,GroundwaterOn-base,5500,NA,NA
+,526,PFHxS,GroundwaterOn-base,"4,2000",NA,NA
+,526,PFNA,GroundwaterOn-base,310,NA,NA
+,527,PFBS,GroundwaterOn-base,"34,0000",NA,NA
+,527,PFOS,GroundwaterOn-base,"54,0000",NA,NA
+,527,PFOA,GroundwaterOn-base,"11,0000",NA,NA
+,527,PFOS+PFOA,GroundwaterOn-base,"65,0000",NA,NA
+,528,6:2 FTS,GroundwaterOn-base,3.72019,NA,NA
+,528,PFBA,GroundwaterOn-base,312019,NA,NA
+,528,PFBS,GroundwaterOn-base,122019,NA,NA
+,528,PFDA,GroundwaterOn-base,1.82019,NA,NA
+,528,PFHpA,GroundwaterOn-base,272019,NA,NA
+,528,PFHxA,GroundwaterOn-base,652019,NA,NA
+,528,PFHxS,GroundwaterOn-base,982019,NA,NA
+,528,PFNA,GroundwaterOn-base,5.82019,NA,NA
+,528,PFOA,GroundwaterOn-base,592019,NA,NA
+,528,PFOS,GroundwaterOn-base,1492019,NA,NA
+,528,PFPeA,GroundwaterOn-base,1222019,NA,NA
+,528,PFTrDA,GroundwaterOn-base,322019,NA,NA
+,528,PFUnDA,GroundwaterOn-base,2.02019,NA,NA
+,529,6:2 FTS,GroundwaterOn-base,552020,NA,NA
+,529,8:2 FTS,GroundwaterOn-base,382020,NA,NA
+,529,PFBA,GroundwaterOn-base,2202020,NA,NA
+,529,PFBS,GroundwaterOn-base,262020,NA,NA
+,529,PFDA,GroundwaterOn-base,142020,NA,NA
+,529,PFDoA,GroundwaterOn-base,2.9202,NA,NA
+,529,PFHpA,GroundwaterOn-base,872020,NA,NA
+,529,PFHxA,GroundwaterOn-base,3702020,NA,NA
+,529,PFHxS,GroundwaterOn-base,1502020,NA,NA
+,529,PFNA,GroundwaterOn-base,9.6202,NA,NA
+,529,PFOA,GroundwaterOn-base,442020,NA,NA
+,529,PFOS,GroundwaterOn-base,2802020,NA,NA
+,529,PFPeA,GroundwaterOn-base,4902020,NA,NA
+,529,PFTeDA,GroundwaterOn-base,0.7202,NA,NA
+,529,PFTrDA,GroundwaterOn-base,0.9202,NA,NA
+,529,PFUnDA,GroundwaterOn-base,2.6,NA,NA
+,530,PFOA,GroundwaterOn-base,8.12011-0,NA,NA
+,530,PFOS,GroundwaterOn-base,152011-0,NA,NA
+,531,PFBS,GroundwaterOn-base,5502017-2018,NA,NA
+,531,PFOS,GroundwaterOn-base,"4,1602017-2018",NA,NA
+,531,PFOA,GroundwaterOn-base,"182,0002017-2018",NA,NA
+,531,PFOS+PFOA,GroundwaterOn-base,"182,0002017-2018",NA,NA
+,532,PFBS,GroundwaterOn-base,1602018,NA,NA
+,532,PFHpA,GroundwaterOn-base,442018,NA,NA
+,532,PFHxS,GroundwaterOn-base,"1,2002018",NA,NA
+,532,PFHxA,GroundwaterOn-base,3002018,NA,NA
+,532,PFNA,GroundwaterOn-base,4.92018,NA,NA
+,532,PFOA,GroundwaterOn-base,4902018,NA,NA
+,532,PFOS,GroundwaterOn-base,2902018,NA,NA
+,533,PFOS,GroundwaterOn-base,782015,NA,NA
+,533,PFOA,GroundwaterOn-base,"11,0002015",NA,NA
+,534,PFOS+PFOA,Drinking waterOn-base,5,NA,NA
+,535,PFBA,GroundwaterOn-base,1162017,NA,NA
+,535,PFPeA,GroundwaterOn-base,2932017,NA,NA
+,535,PFBS,GroundwaterOn-base,662017,NA,NA
+,535,PFHxA,GroundwaterOn-base,8362017,NA,NA
+,535,PFHpA,GroundwaterOn-base,1832017,NA,NA
+,535,PFHxS,GroundwaterOn-base,"1,6002017",NA,NA
+,535,PFOA,GroundwaterOn-base,"9,3302017",NA,NA
+,535,PFOS,GroundwaterOn-base,2212017,NA,NA
+,535,PFNA,GroundwaterOn-base,322017,NA,NA
+,535,PFDA,GroundwaterOn-base,462017,NA,NA
+,536,PFBA,GroundwaterOn-base,9102017-2018,NA,NA
+,536,PFPeA,GroundwaterOn-base,"1,0002017-2018",NA,NA
+,536,PFHxA,GroundwaterOn-base,"1,2002017-2018",NA,NA
+,536,PFHpA,GroundwaterOn-base,8402017-2018,NA,NA
+,536,PFOA,GroundwaterOn-base,"1,5002017-2018",NA,NA
+,536,PFNA,GroundwaterOn-base,542017-2018,NA,NA
+,536,PFDA,GroundwaterOn-base,3.92017-2018,NA,NA
+,536,PFTeA,GroundwaterOn-base,0.62017-2018,NA,NA
+,536,PFHxS,GroundwaterOn-base,"6,6002017-2018",NA,NA
+,536,PFOS,GroundwaterOn-base,"19,0002017-2018",NA,NA
+,536,FOSA,GroundwaterOn-base,2.02017-2018,NA,NA
+,537,PFOS,SoilOn-base,"110,0002017",NA,NA
+,537,PFOA,SoilOn-base,"14,0002017",NA,NA
+,537,PFBS,SoilOn-base,5402017,NA,NA
+,537,PFHxS,SoilOn-base,"38,0002017",NA,NA
+,537,PFOS,GroundwaterOn-base,"28,2002017-2022",NA,NA
+,537,PFOA,GroundwaterOn-base,6282017-2022,NA,NA
+,537,PFBS,GroundwaterOn-base,9862017-2022,NA,NA
+,537,4:2 FTS,GroundwaterOn-base,472017-2022,NA,NA
+,537,6:2 FTS,GroundwaterOn-base,"1,8302017-2022",NA,NA
+,537,8:2 FTS,GroundwaterOn-base,5692017-2022,NA,NA
+,537,PFBA,GroundwaterOn-base,7052017-2022,NA,NA
+,537,PFDA,GroundwaterOn-base,352017-2022,NA,NA
+,537,PFHpA,GroundwaterOn-base,"1,0202017-2022",NA,NA
+,537,PFHpS,GroundwaterOn-base,3432017-2022,NA,NA
+,537,PFHxA,GroundwaterOn-base,"2,4502017-2022",NA,NA
+,537,PFHxS,GroundwaterOn-base,"5,2702017-2022",NA,NA
+,537,PFNA,GroundwaterOn-base,722017-2022,NA,NA
+,537,PFNS,GroundwaterOn-base,902017-2022,NA,NA
+,537,PFPeA,GroundwaterOn-base,"2,0002017-2022",NA,NA
+,537,PFPeS,GroundwaterOn-base,"1,1202017-2022",NA,NA
+,538,PFOS,GroundwaterOn-base,"19,8002020",NA,NA
+,538,PFOA,GroundwaterOn-base,3162020,NA,NA
+,539,PFBS,GroundwaterOn-base,"1,2702017-2019",NA,NA
+,539,PFHxA,GroundwaterOn-base,"4,2702017-2019",NA,NA
+,539,PFHpA,GroundwaterOn-base,9632017-2019,NA,NA
+,539,PFHxS,GroundwaterOn-base,"10,8002017-2019",NA,NA
+,539,PFOA,GroundwaterOn-base,"11,5002017-2019",NA,NA
+,539,PFOS,GroundwaterOn-base,"18,2002017-2019",NA,NA
+,539,PFNA,GroundwaterOn-base,1202017-2019,NA,NA
+,539,PFDA,GroundwaterOn-base,9.32017-2019,NA,NA
+,540,"PFOA, PFOS",Drinking waterOn-Base,1002020-2021,NA,NA
+,541,PFOA+PFOS,GroundwaterOn-base,772020-2021,NA,NA
+,542,PFOA/PFOS,Private wellsOff-base,1782020-2021,NA,NA
+,543,PFOS,GroundwaterOn-base,"6,9302018-2019",NA,NA
+,543,PFOA,GroundwaterOn-base,"1,1702018-2019",NA,NA
+,543,PFOS+PFOA,GroundwaterOn-base,"8,1002018-2019",NA,NA
+,543,PFBS,GroundwaterOn-base,"1,9902018-2019",NA,NA
+,543,PFHpA,GroundwaterOn-base,6892018-2019,NA,NA
+,543,PFHxS,GroundwaterOn-base,"10,1002018-2019",NA,NA
+,543,PFNA,GroundwaterOn-base,7622018-2019,NA,NA
+,544,PFOA+PFOS,Drinking waterOn-base,4.0202,NA,NA
+,545,PFOA+PFOS,Drinking WaterOn-base,102020,NA,NA
+,546,PFOA,GroundwaterOn-base,4.8202,NA,NA
+,546,PFOS,GroundwaterOn-base,582020,NA,NA
+,546,PFBS,GroundwaterOn-base,6.9202,NA,NA
+,546,PFHxS,GroundwaterOn-base,272020,NA,NA
+,546,PFOA,Drinking WaterOn-base,2.8202,NA,NA
+,546,PFOS,Drinking WaterOn-base,592020,NA,NA
+,546,PFBS,Drinking WaterOn-base,4.5202,NA,NA
+,546,PFHxS,Drinking WaterOn-base,372020,NA,NA
+,546,PFHxA,Drinking WaterOn-base,4.6202,NA,NA
+,547,PFOS,GroundwaterOn-base,"11,0002019",NA,NA
+,547,PFOA,GroundwaterOn-base,"2,3002019",NA,NA
+,547,PFBS,GroundwaterOn-base,2302019,NA,NA
+,547,PFHpA,GroundwaterOn-base,"2,6002019",NA,NA
+,547,PFHxS,GroundwaterOn-base,"4,1002019",NA,NA
+,547,PFNA,GroundwaterOn-base,4002019,NA,NA
+,548,PFOA,GroundwaterOn-base,4892018,NA,NA
+,548,PFOS,GroundwaterOn-base,"2,4402018",NA,NA
+,549,PFHpA,GroundwaterOn-base,"4,5002019-2020",NA,NA
+,549,PFHpS,GroundwaterOn-base,"7,0002019-2020",NA,NA
+,549,PFHxA,GroundwaterOn-base,"12,0002019-2020",NA,NA
+,549,PFHxS,GroundwaterOn-base,"47,0002019-2020",NA,NA
+,549,PFNA,GroundwaterOn-base,1402019-2020,NA,NA
+,549,PFNS,GroundwaterOn-base,6.12019-2020,NA,NA
+,549,PFOSA,GroundwaterOn-base,8.92019-2020,NA,NA
+,549,PFPeA,GroundwaterOn-base,"10,0002019-2020",NA,NA
+,549,PFPeS,GroundwaterOn-base,"1,3002019-2020",NA,NA
+,549,PFBS,GroundwaterOn-base,4402019-2020,NA,NA
+,549,PFOA,GroundwaterOn-base,"14,0002019-2020",NA,NA
+,549,PFOS,GroundwaterOn-base,"220,0002019-2020",NA,NA
+,549,PFOA+PFOS,GroundwaterOn-base,"234,0002019-2020",NA,NA
+,549,4:2FTS,GroundwaterOn-base,962019-2020,NA,NA
+,549,6:2FTS,GroundwaterOn-base,"33,0002019-2020",NA,NA
+,549,8:2FTS,GroundwaterOn-base,"3,4002019-2020",NA,NA
+,549,PFBA,GroundwaterOn-base,"2,5002019-2020",NA,NA
+,549,PFDA,GroundwaterOn-base,132019-2020,NA,NA
+,550,PFOA,GroundwaterOn-base,"10,6252017-2020",NA,NA
+,550,PFOS,GroundwaterOn-base,"172,7492017-2020",NA,NA
+,550,PFBS,GroundwaterOn-base,"4,2232017-2020",NA,NA
+,550,PFOA+PFOS,GroundwaterOn-base,"179,3482017-2020",NA,NA
+,550,PFHxS,GroundwaterOn-base,"39,7262017-2020",NA,NA
+,551,PFOA,GroundwaterOn-base,"1,000,0002021",NA,NA
+,551,PFOS,GroundwaterOn-base,"670,0002021",NA,NA
+,551,PFBS,GroundwaterOn-base,"54,0002021",NA,NA
+,551,PFDA,GroundwaterOn-base,3502021,NA,NA
+,551,PFDoA,GroundwaterOn-base,1.62021,NA,NA
+,551,PFHpA,GroundwaterOn-base,"41,0002021",NA,NA
+,551,PFHxA,GroundwaterOn-base,"220,0002021",NA,NA
+,551,PFHxS,GroundwaterOn-base,"180,0002021",NA,NA
+,551,PFNA,GroundwaterOn-base,2402021,NA,NA
+,551,PFUnA,GroundwaterOn-base,2.82021,NA,NA
+,552,PFOS,GroundwaterOn-base,4502021,NA,NA
+,552,PFOA,GroundwaterOn-base,"1,3002021",NA,NA
+,552,PFOS,Drinking waterOn-base,4102021,NA,NA
+,552,PFOA,Drinking waterOn-base,"1,2002021",NA,NA
+,553,PFBA,GroundwaterOn-base,6.42019,NA,NA
+,553,PFBS,GroundwaterOn-base,272019,NA,NA
+,553,PFHxA,GroundwaterOn-base,3.02019,NA,NA
+,553,PFHxS,GroundwaterOn-base,712019,NA,NA
+,553,PFOA,GroundwaterOn-base,5.22019,NA,NA
+,553,PFOS,GroundwaterOn-base,902019,NA,NA
+,553,PFPeA,GroundwaterOn-base,5.02019,NA,NA
+,554,6:2 FTS,GroundwaterOn-base,"3,4102020",NA,NA
+,554,8:2 FTS,GroundwaterOn-base,1002020,NA,NA
+,554,PFBA,GroundwaterOn-base,2852020,NA,NA
+,554,PFBS,GroundwaterOn-base,1652020,NA,NA
+,554,PFDA,GroundwaterOn-base,5.42020,NA,NA
+,554,PFHpA,GroundwaterOn-base,3592020,NA,NA
+,554,PFHxA,GroundwaterOn-base,"1,3102020",NA,NA
+,554,PFHxS,GroundwaterOn-base,9782020,NA,NA
+,554,PFNA,GroundwaterOn-base,222020,NA,NA
+,554,PFOA,GroundwaterOn-base,2402020,NA,NA
+,554,PFOS,GroundwaterOn-base,"1,0702020",NA,NA
+,554,PFPeA,GroundwaterOn-base,"1,2202020",NA,NA
+,555,6:2 FTS,GroundwaterOn-base,"1,1402020",NA,NA
+,555,8:2 FTS,GroundwaterOn-base,9502020,NA,NA
+,555,PFBA,GroundwaterOn-base,2002020,NA,NA
+,555,PFBS,GroundwaterOn-base,362020,NA,NA
+,555,PFDA,GroundwaterOn-base,112020,NA,NA
+,555,PFHpA,GroundwaterOn-base,5362020,NA,NA
+,555,PFHxA,GroundwaterOn-base,4792020,NA,NA
+,555,PFHxS,GroundwaterOn-base,5322020,NA,NA
+,555,PFNA,GroundwaterOn-base,2212020,NA,NA
+,555,PFOA,GroundwaterOn-base,3752020,NA,NA
+,555,PFOS,GroundwaterOn-base,"4,2502020",NA,NA
+,555,PFPeA,GroundwaterOn-base,5892020,NA,NA
+,556,PFBA,GroundwaterOn-base,132020,NA,NA
+,556,PFBS,GroundwaterOn-base,192020,NA,NA
+,556,PFHpA,GroundwaterOn-base,2.2202,NA,NA
+,556,PFHxA,GroundwaterOn-base,5.3202,NA,NA
+,556,PFHxS,GroundwaterOn-base,162020,NA,NA
+,556,PFNA,GroundwaterOn-base,2.8202,NA,NA
+,556,PFOA,GroundwaterOn-base,2312020,NA,NA
+,556,PFOS,GroundwaterOn-base,262020,NA,NA
+,557,PFOA+PFOS,GroundwaterOn-base,5.0202,NA,NA
+,558,PFHxA,GroundwaterOn-base,"4,2002022",NA,NA
+,558,PFHpA,GroundwaterOn-base,5602022,NA,NA
+,558,PFOA,GroundwaterOn-base,"14,0002022",NA,NA
+,558,PFBS,GroundwaterOn-base,9002022,NA,NA
+,558,PFHxS,GroundwaterOn-base,"4,7002022",NA,NA
+,558,PFOS,GroundwaterOn-base,"3,7002022",NA,NA
+,559,PFOA,GroundwaterOn-base,3.52022,NA,NA
+,559,PFOS,GroundwaterOn-base,6.72022,NA,NA
+,560,PFOS+PFOA,Drinking WaterOff-base,"3,8232016",NA,NA
+,560,PFOS+PFOA,GroundwaterOn-base,"58,9222016",NA,NA
+,561,PFOS,GroundwaterOn-base,"93,0002020",NA,NA
+,561,PFOA,GroundwaterOn-base,"11,0002020",NA,NA
+,561,PFBS,GroundwaterOn-base,"2,2002020",NA,NA
+,562,PFOS,GroundwaterOff-base,182020-2021,NA,NA
+,562,PFOA,GroundwaterOn-base,522020-2021,NA,NA
+,562,PFBS,GroundwaterOn-base,762020-2021,NA,NA
+,563,6:2 FTS,GroundwaterOn-base,202021,NA,NA
+,563,PFBA,GroundwaterOn-base,962021,NA,NA
+,563,PFBS,GroundwaterOn-base,2492021,NA,NA
+,563,PFHpA,GroundwaterOn-base,2462021,NA,NA
+,563,PFHxA,GroundwaterOn-base,"1,9002021",NA,NA
+,563,PFHxS,GroundwaterOn-base,"4,4302021",NA,NA
+,563,PFNA,GroundwaterOn-base,1.92021,NA,NA
+,563,PFOA,GroundwaterOn-base,2922021,NA,NA
+,563,PFOS,GroundwaterOn-base,1702021,NA,NA
+,563,PFPeA,GroundwaterOn-base,2862021,NA,NA
+,564,PFOS,GroundwaterOn-base,3302020,NA,NA
+,564,PFOA,GroundwaterOn-base,1202020,NA,NA
+,565,PFOS,GroundwaterOn-base,772021,NA,NA
+,565,PFOA,GroundwaterOn-base,432021,NA,NA
+,565,PFBS,GroundwaterOn-base,9.72021,NA,NA
+,566,PFOS,GroundwaterOn-base,"11,0002020",NA,NA
+,566,PFOA,GroundwaterOn-base,"2,5002020",NA,NA
+,566,PFBS,GroundwaterOn-base,"1,3002020",NA,NA
+,567,PFOA,GroundwaterOn-base,1.12021,NA,NA
+,567,PFHxA,GroundwaterOn-base,1.02021,NA,NA
+,568,6:2 FTS,GroundwaterOn-base,5342021,NA,NA
+,568,8:2 FTS,GroundwaterOn-base,482021,NA,NA
+,568,NMEFOSAA,GroundwaterOn-base,2.72021,NA,NA
+,568,PFBA,GroundwaterOn-base,582021,NA,NA
+,568,PFBS,GroundwaterOn-base,512021,NA,NA
+,568,PFDA,GroundwaterOn-base,7.72021,NA,NA
+,568,PFHpA,GroundwaterOn-base,572021,NA,NA
+,568,PFHxA,GroundwaterOn-base,3452021,NA,NA
+,568,PFHxS,GroundwaterOn-base,"1,8302021",NA,NA
+,568,PFNA,GroundwaterOn-base,2902021,NA,NA
+,568,PFOA,GroundwaterOn-base,2982021,NA,NA
+,568,PFOS,GroundwaterOn-base,5812021,NA,NA
+,568,PFPeA,GroundwaterOn-base,2632021,NA,NA
+,568,PFUnDA,GroundwaterOn-base,2232021,NA,NA
+,569,4:2 FTS,GroundwaterOn-base,552021,NA,NA
+,569,6:2 FTS,GroundwaterOn-base,"1,1002021",NA,NA
+,569,PFBS,GroundwaterOn-base,8.02021,NA,NA
+,569,PFBA,GroundwaterOn-base,1902021,NA,NA
+,569,PFDA,GroundwaterOn-base,7.92021,NA,NA
+,569,PFHpS,GroundwaterOn-base,5.42021,NA,NA
+,569,PFHpA,GroundwaterOn-base,1802021,NA,NA
+,569,PFHxS,GroundwaterOn-base,3202021,NA,NA
+,569,PFHxA,GroundwaterOn-base,4002021,NA,NA
+,569,PFNA,GroundwaterOn-base,352021,NA,NA
+,569,PFOSA,GroundwaterOn-base,2.42021,NA,NA
+,569,PFOS,GroundwaterOn-base,1502021,NA,NA
+,569,PFOA,GroundwaterOn-base,2302021,NA,NA
+,569,PFPS,GroundwaterOn-base,422021,NA,NA
+,569,PFPA,GroundwaterOn-base,5202021,NA,NA
+,570,PFOS,GroundwaterOn-base,"22,0002021",NA,NA
+,570,PFOA,GroundwaterOn-base,9702021,NA,NA
+,570,PFBS,GroundwaterOn-base,2302021,NA,NA
+,571,PFOS,GroundwaterOn-base,"13,0002020",NA,NA
+,571,PFOA,GroundwaterOn-base,"1,2002020",NA,NA
+,571,PFBS,GroundwaterOn-base,"1,5002020",NA,NA
+,572,PFOS,GroundwaterOn-base,3602020,NA,NA
+,572,PFOA,GroundwaterOn-base,1502020,NA,NA
+,572,PFBS,GroundwaterOn-base,4.8202,NA,NA
+,573,PFOS,GroundwaterOn-base,"360,0002020",NA,NA
+,573,PFOA,GroundwaterOn-base,"23,0002020",NA,NA
+,573,PFBS,GroundwaterOn-base,"6,2002020",NA,NA
+,574,PFOS,GroundwaterOn-base,"2,100,0002020",NA,NA
+,574,PFOA,GroundwaterOn-base,"27,0002020",NA,NA
+,574,PFBS,GroundwaterOn-base,"9,7002020",NA,NA
+,575,PFOA,GroundwaterOn-base,8812021,NA,NA
+,575,PFBS,GroundwaterOn-base,1592021,NA,NA
+,575,PFOS,GroundwaterOn-base,"41,6002021",NA,NA
+,575,PFHxS,GroundwaterOn-base,"3,0602021",NA,NA
+,575,PFNA,GroundwaterOn-base,592021,NA,NA
+,576,PFBA,GroundwaterOn-base,472021,NA,NA
+,576,PFBS,GroundwaterOn-base,"2,1602021",NA,NA
+,576,PFHpA,GroundwaterOn-base,112021,NA,NA
+,576,PFHxA,GroundwaterOn-base,472021,NA,NA
+,576,PFHxS,GroundwaterOn-base,342021,NA,NA
+,576,PFOA,GroundwaterOn-base,5.62021,NA,NA
+,576,PFOS,GroundwaterOn-base,1.92021,NA,NA
+,576,PFPeA,GroundwaterOn-base,572021,NA,NA
+,577,PFOS,GroundwaterOn-base,"2,9302019",NA,NA
+,577,PFOA,GroundwaterOn-base,"8,1002019",NA,NA
+,577,PFBS,GroundwaterOn-base,"1,8102019",NA,NA
+,577,PFHpA,GroundwaterOn-base,4942019,NA,NA
+,577,PFHxS,GroundwaterOn-base,"35,6002019",NA,NA
+,577,PFNA,GroundwaterOn-base,332019,NA,NA
+,578,6:2 FTS,GroundwaterOn-base,3132020,NA,NA
+,578,8:2 FTS,GroundwaterOn-base,2.9202,NA,NA
+,578,PFBA,GroundwaterOn-base,382020,NA,NA
+,578,PFBS,GroundwaterOn-base,232020,NA,NA
+,578,PFHpA,GroundwaterOn-base,262020,NA,NA
+,578,PFHxA,GroundwaterOn-base,992020,NA,NA
+,578,PFHxS,GroundwaterOn-base,3252020,NA,NA
+,578,PFNA,GroundwaterOn-base,2.9202,NA,NA
+,578,PFOA,GroundwaterOn-base,312020,NA,NA
+,578,PFOS,GroundwaterOn-base,4752020,NA,NA
+,578,PFPeA,GroundwaterOn-base,692020,NA,NA
+,579,PFOS,GroundwaterOn-base,"2,6002020-2021",NA,NA
+,579,PFOA,GroundwaterOn-base,"1,3002020-2021",NA,NA
+,579,PFBS,GroundwaterOn-base,4102020-2021,NA,NA
+,580,PFOS,GroundwaterOn-base,"3,7002019-2022",NA,NA
+,580,PFOA,GroundwaterOn-base,"2,2002019-2022",NA,NA
+,580,PFBS,GroundwaterOn-base,4602019-2022,NA,NA
+,581,PFOS,GroundwaterOn-base,"5,8002020-2021",NA,NA
+,581,PFOA,GroundwaterOn-base,6002020-2021,NA,NA
+,581,PFBS,GroundwaterOn-base,3502020-2021,NA,NA
+,582,PFOS,GroundwaterOn-base,"6,8002020",NA,NA
+,582,PFOA,GroundwaterOn-base,"1,4002020",NA,NA
+,582,PFBS,GroundwaterOn-base,1602020,NA,NA
+,583,PFOS,GroundwaterOn-base,4.8202,NA,NA
+,583,PFOA,GroundwaterOn-base,6.0202,NA,NA
+,583,PFBS,GroundwaterOn-base,3.1202,NA,NA
+,583,PFHxA,GroundwaterOn-base,502020,NA,NA
+,583,PFHxS,GroundwaterOn-base,4.9202,NA,NA
+,584,PFOS,GroundwaterOn-base,"6,4002020-2022",NA,NA
+,584,PFOA,GroundwaterOn-base,"3,6002020-2022",NA,NA
+,584,PFBS,GroundwaterOn-base,"5,3002020-2022",NA,NA
+,585,6:2 FTS,GroundwaterOn-base,2.62021,NA,NA
+,585,PFBA,GroundwaterOn-base,112021,NA,NA
+,585,PFBS,GroundwaterOn-base,212021,NA,NA
+,585,PFDA,GroundwaterOn-base,2.32021,NA,NA
+,585,PFHpA,GroundwaterOn-base,122021,NA,NA
+,585,PFHxA,GroundwaterOn-base,282021,NA,NA
+,585,PFHxS,GroundwaterOn-base,2882021,NA,NA
+,585,PFNA,GroundwaterOn-base,4.02021,NA,NA
+,585,PFOA,GroundwaterOn-base,802021,NA,NA
+,585,PFOS,GroundwaterOn-base,112021,NA,NA
+,585,PFPeA,GroundwaterOn-base,182021,NA,NA
+,586,6:2 FTS,GroundwaterOn-base,102020-2021,NA,NA
+,586,8:2 FTS,GroundwaterOn-base,7.52020-2021,NA,NA
+,586,PFBA,GroundwaterOn-base,212020-2021,NA,NA
+,586,PFBS,GroundwaterOn-base,4.52020-2021,NA,NA
+,586,PFHpA,GroundwaterOn-base,662020-2021,NA,NA
+,586,PFHxA,GroundwaterOn-base,552020-2021,NA,NA
+,586,PFHxS,GroundwaterOn-base,3152020-2021,NA,NA
+,586,PFNA,GroundwaterOn-base,6.52020-2021,NA,NA
+,586,PFOA,GroundwaterOn-base,382020-2021,NA,NA
+,586,PFOS,GroundwaterOn-base,2042020-2021,NA,NA
+,586,PFPeA,GroundwaterOn-base,502020-2021,NA,NA
+,587,6:2 FTS,GroundwaterOn-base,"1,9802018",NA,NA
+,587,8:2 FTS,GroundwaterOn-base,1392018,NA,NA
+,587,PFBA,GroundwaterOn-base,272018,NA,NA
+,587,PFBS,GroundwaterOn-base,3.02018,NA,NA
+,587,PFHpA,GroundwaterOn-base,472018,NA,NA
+,587,PFHxA,GroundwaterOn-base,992018,NA,NA
+,587,PFHxS,GroundwaterOn-base,1922018,NA,NA
+,587,PFNA,GroundwaterOn-base,9.72018,NA,NA
+,587,PFOA,GroundwaterOn-base,612018,NA,NA
+,587,PFOS,GroundwaterOn-base,"7,8102018",NA,NA
+,587,PFPeA,GroundwaterOn-base,1132018,NA,NA
+,588,6:2 FTS,GroundwaterOn-base,3.22019-2020,NA,NA
+,588,PFBA,GroundwaterOn-base,462019-2020,NA,NA
+,588,PFBS,GroundwaterOn-base,592019-2020,NA,NA
+,588,PFHpA,GroundwaterOn-base,242019-2020,NA,NA
+,588,PFHxA,GroundwaterOn-base,1162019-2020,NA,NA
+,588,PFHxS,GroundwaterOn-base,2132019-2020,NA,NA
+,588,PFNA,GroundwaterOn-base,1.92019-2020,NA,NA
+,588,PFOA,GroundwaterOn-base,152019-2020,NA,NA
+,588,PFOS,GroundwaterOn-base,1182019-2020,NA,NA
+,588,PFPeA,GroundwaterOn-base,1782019-2020,NA,NA
+,589,6:2 FTS,GroundwaterOn-base,172020,NA,NA
+,589,PFBA,GroundwaterOn-base,202020,NA,NA
+,589,PFBS,GroundwaterOn-base,3.6202,NA,NA
+,589,PFHpA,GroundwaterOn-base,122020,NA,NA
+,589,PFHxA,GroundwaterOn-base,312020,NA,NA
+,589,PFHxS,GroundwaterOn-base,742020,NA,NA
+,589,PFNA,GroundwaterOn-base,2.5202,NA,NA
+,589,PFOA,GroundwaterOn-base,112020,NA,NA
+,589,PFOS,GroundwaterOn-base,8142020,NA,NA
+,589,PFPeA,GroundwaterOn-base,222020,NA,NA
+,590,PFBA,GroundwaterOn-base,4.42017,NA,NA
+,590,PFHxA,GroundwaterOn-base,232017,NA,NA
+,590,PFPeA,GroundwaterOn-base,212017,NA,NA
+,590,PFOA+PFOS,GroundwaterOn-base,142017,NA,NA
+,590,PFHxS,GroundwaterOn-base,102017,NA,NA
+,590,PFOA,GroundwaterOn-base,8.22017,NA,NA
+,590,PFOS,GroundwaterOn-base,5.22017,NA,NA
+,591,6:2 FTS,GroundwaterOn-base,"4,0902020",NA,NA
+,591,8:2 FTS,GroundwaterOn-base,7.92020,NA,NA
+,591,PFBA,GroundwaterOn-base,3642020,NA,NA
+,591,PFBS,GroundwaterOn-base,362020,NA,NA
+,591,PFDA,GroundwaterOn-base,5.32020,NA,NA
+,591,PFHpA,GroundwaterOn-base,1792020,NA,NA
+,591,PFHxA,GroundwaterOn-base,"1,1302020",NA,NA
+,591,PFHxS,GroundwaterOn-base,1142020,NA,NA
+,591,PFNA,GroundwaterOn-base,4.02020,NA,NA
+,591,PFOA,GroundwaterOn-base,262020,NA,NA
+,591,PFOS,GroundwaterOn-base,762020,NA,NA
+,591,PFPeA,GroundwaterOn-base,"1,9102020",NA,NA
+,592,PFBS,GroundwaterOn-base,322020,NA,NA
+,593,6:2 FTS,GroundwaterOn-base,362021,NA,NA
+,593,8:2 FTS,GroundwaterOn-base,7.22021,NA,NA
+,593,PFBA,GroundwaterOn-base,1302021,NA,NA
+,593,PFBS,GroundwaterOn-base,3082021,NA,NA
+,593,PFHpA,GroundwaterOn-base,1012021,NA,NA
+,593,PFHxA,GroundwaterOn-base,3132021,NA,NA
+,593,PFHxS,GroundwaterOn-base,7092021,NA,NA
+,593,PFNA,GroundwaterOn-base,272021,NA,NA
+,593,PFOA,GroundwaterOn-base,942021,NA,NA
+,593,PFOS,GroundwaterOn-base,"2,7002021",NA,NA
+,593,PFPeA,GroundwaterOn-base,5732021,NA,NA
+,594,PFOS,GroundwaterOn-base,"160,0002020",NA,NA
+,594,PFOA,GroundwaterOn-base,"200,0002020",NA,NA
+,594,PFBS,GroundwaterOn-base,"6,1002020",NA,NA
+,595,PFOS,GroundwaterOn-base,"170,0002020",NA,NA
+,595,PFOA,GroundwaterOn-base,"3,3002020",NA,NA
+,595,PFBS,GroundwaterOn-base,"4,8002020",NA,NA
+,596,PFOA,GroundwaterOn-base,3882022,NA,NA
+,596,PFOS,GroundwaterOn-base,"2,9902022",NA,NA
+,596,PFBS,GroundwaterOn-base,992022,NA,NA
+,596,PFHxS,GroundwaterOn-base,"1,6202022",NA,NA
+,596,PFNA,GroundwaterOn-base,1982022,NA,NA
+,597,PFHxA,GroundwaterOn-base,"72,2212019",NA,NA
+,597,PFHpA,GroundwaterOn-base,"6,9532019",NA,NA
+,597,PFOA,GroundwaterOn-base,"26,9222019",NA,NA
+,597,PFNA,GroundwaterOn-base,1422019,NA,NA
+,597,PFDA,GroundwaterOn-base,9.92019,NA,NA
+,597,PFUnA,GroundwaterOn-base,2.82019,NA,NA
+,597,PFBS,GroundwaterOn-base,"15,7852019",NA,NA
+,597,PFHxS,GroundwaterOn-base,"48,1722019",NA,NA
+,597,PFOS,GroundwaterOn-base,"1,5142019",NA,NA
+,597,HFPO-DA,GroundwaterOn-base,3.42019,NA,NA
+,598,PFOS,GroundwaterOn-base,162021,NA,NA
+,598,PFOA,GroundwaterOn-base,9.42021,NA,NA
+,598,PFBS,GroundwaterOn-base,3.52021,NA,NA
+,599,PFOS,GroundwaterOn-base,6802020,NA,NA
+,599,PFOA,GroundwaterOn-base,3602020,NA,NA
+,599,PFBS,GroundwaterOn-base,802020,NA,NA
+,600,PFOS,GroundwaterOn-base,"6,7002020",NA,NA
+,600,PFOA,GroundwaterOn-base,5502020,NA,NA
+,600,PFBS,GroundwaterOn-base,2002020,NA,NA
+,601,PFOS,GroundwaterOn-base,3102020-2021,NA,NA
+,601,PFOA,GroundwaterOn-base,1502020-2021,NA,NA
+,601,PFBS,GroundwaterOn-base,1802020-2021,NA,NA
+,601,PFHxS,GroundwaterOn-base,5002020-2021,NA,NA
+,601,PFNA,GroundwaterOn-base,9.12020-2021,NA,NA
+,602,PFOS,GroundwaterOn-base,122020-2021,NA,NA
+,602,PFOA,GroundwaterOn-base,172020-2021,NA,NA
+,602,PFBS,GroundwaterOn-base,3.62020-2021,NA,NA
+,603,PFOS,GroundwaterOn-base,"6,1002020-2021",NA,NA
+,603,PFOA,GroundwaterOn-base,"4,3002020-2021",NA,NA
+,603,PFBS,GroundwaterOn-base,6802020-2021,NA,NA
+,604,PFOS,GroundwaterOn-base,802020,NA,NA
+,604,PFOA,GroundwaterOn-base,1802020,NA,NA
+,604,PFBS,GroundwaterOn-base,2.5202,NA,NA
+,605,PFOA,GroundwaterOn-base,312020,NA,NA
+,606,PFOS,GroundwaterOn-base,3202020-2021,NA,NA
+,606,PFOA,GroundwaterOn-base,4302020-2021,NA,NA
+,606,PFBS,GroundwaterOn-base,1502020-2021,NA,NA
+,607,PFOS,GroundwaterOn-base,"28,0002020",NA,NA
+,607,PFOA,GroundwaterOn-base,"52,0002020",NA,NA
+,607,PFBS,GroundwaterOn-base,"3,1002020",NA,NA
+,608,PFOS,GroundwaterOn-base,"10,0002020-2021",NA,NA
+,608,PFOA,GroundwaterOn-base,"8,5002020-2021",NA,NA
+,608,PFBS,GroundwaterOn-base,9702020-2021,NA,NA
+,609,PFOS,GroundwaterOn-base,5302021,NA,NA
+,609,PFOA,GroundwaterOn-base,1402021,NA,NA
+,609,PFBS,GroundwaterOn-base,3202021,NA,NA
+,610,PFOS,GroundwaterOn-base,362020-2022,NA,NA
+,610,PFOA,GroundwaterOn-base,722020-2022,NA,NA
+,610,PFBS,GroundwaterOn-base,4.22020-2022,NA,NA
+,611,6:2 FTS,GroundwaterOn-base,"871,0002020",NA,NA
+,611,8:2 FTS,GroundwaterOn-base,5082020,NA,NA
+,611,PFBA,GroundwaterOn-base,"8,2002020",NA,NA
+,611,PFBS,GroundwaterOn-base,8.12020,NA,NA
+,611,PFDA,GroundwaterOn-base,212020,NA,NA
+,611,PFHpA,GroundwaterOn-base,"4,9002020",NA,NA
+,611,PFHxA,GroundwaterOn-base,"54,7002020",NA,NA
+,611,PFHxS,GroundwaterOn-base,882020,NA,NA
+,611,PFNA,GroundwaterOn-base,1172020,NA,NA
+,611,PFOA,GroundwaterOn-base,9902020,NA,NA
+,611,PFOS,GroundwaterOn-base,7022020,NA,NA
+,611,PFPeA,GroundwaterOn-base,"49,2002020",NA,NA
+,611,PFTeDA,GroundwaterOn-base,2.12020,NA,NA
+,612,PFOS,GroundwaterOn-base,132017,NA,NA
+,612,PFHxA,GroundwaterOn-base,282017,NA,NA
+,612,PFOA,GroundwaterOn-base,242017,NA,NA
+,612,PFHxS,GroundwaterOn-base,282017,NA,NA
+,612,PFBS,GroundwaterOn-base,6.12017,NA,NA
+,612,PFHpA,GroundwaterOn-base,142017,NA,NA
+,613,PFOS,GroundwaterOn-base,"18,7002018",NA,NA
+,613,PFHxA,GroundwaterOn-base,"2,1102018",NA,NA
+,613,PFOA,GroundwaterOn-base,"1,0202018",NA,NA
+,613,PFHxS,GroundwaterOn-base,"3,4202018",NA,NA
+,613,PFBS,GroundwaterOn-base,1782018,NA,NA
+,613,PFHpA,GroundwaterOn-base,"1,6502018",NA,NA
+,613,PFNA,GroundwaterOn-base,2402018,NA,NA
+,613,PFDA,GroundwaterOn-base,292018,NA,NA
+,614,PFOS,GroundwaterOn-base,"10,1002022",NA,NA
+,614,PFHxA,GroundwaterOn-base,"1,0002022",NA,NA
+,614,PFOA,GroundwaterOn-base,"2,2902022",NA,NA
+,614,PFHxS,GroundwaterOn-base,"3,5802022",NA,NA
+,614,PFBS,GroundwaterOn-base,1762022,NA,NA
+,614,PFHpA,GroundwaterOn-base,4942022,NA,NA
+,614,PFNA,GroundwaterOn-base,1082022,NA,NA
+,615,PFOS,GroundwaterOn-base,"95,0002021",NA,NA
+,615,PFUnA,GroundwaterOn-base,"3,8002021",NA,NA
+,615,PFHxA,GroundwaterOn-base,"56,0002021",NA,NA
+,615,PFOA,GroundwaterOn-base,"13,0002021",NA,NA
+,615,PFDA,GroundwaterOn-base,2202021,NA,NA
+,615,PFHxS,GroundwaterOn-base,"190,0002021",NA,NA
+,615,PFBS,GroundwaterOn-base,"39,0002021",NA,NA
+,615,PFHpA,GroundwaterOn-base,"7,4002021",NA,NA
+,615,PFNA,GroundwaterOn-base,"12,0002021",NA,NA
+,615,PFDoA,GroundwaterOn-base,502021,NA,NA
+,615,PFTrDA,GroundwaterOn-base,2902021,NA,NA
+,616,PFOS,GroundwaterOn-base,7262022,NA,NA
+,616,PFUnA,GroundwaterOn-base,152022,NA,NA
+,616,PFHxA,GroundwaterOn-base,4012022,NA,NA
+,616,PFOA,GroundwaterOn-base,1452022,NA,NA
+,616,PFDA,GroundwaterOn-base,2.52022,NA,NA
+,616,PFHxS,GroundwaterOn-base,4232022,NA,NA
+,616,PFBS,GroundwaterOn-base,372022,NA,NA
+,616,PFHpA,GroundwaterOn-base,2372022,NA,NA
+,616,PFNA,GroundwaterOn-base,702022,NA,NA
+,617,PFOS,GroundwaterOn-base,"130,0002022",NA,NA
+,617,PFHxA,GroundwaterOn-base,"19,3002022",NA,NA
+,617,PFOA,GroundwaterOn-base,"15,5002022",NA,NA
+,617,PFDA,GroundwaterOn-base,412022,NA,NA
+,617,PFHxS,GroundwaterOn-base,"62,4002022",NA,NA
+,617,PFBS,GroundwaterOn-base,"5,7602022",NA,NA
+,617,PFHpA,GroundwaterOn-base,"10,1002022",NA,NA
+,617,PFNA,GroundwaterOn-base,8772022,NA,NA

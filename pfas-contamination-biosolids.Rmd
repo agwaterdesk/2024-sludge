@@ -1,0 +1,63 @@
+---
+title: "PFAS contamination and biosolid spread map"
+output: html_notebook
+---
+
+```{css, echo=FALSE}
+blockquote {
+    font-size: inherit;
+}
+```
+
+
+# Summary from Sara
+
+>
+I would like to see if we can create a map that overlaps risk of PFAS contamination (known and suspected PFAS contamination sites) with locations that spread biosolids (aka municipal wastewater treatment plants). If we knew where there is high PFAS risk AND the city spreads biosolids, this would be very interesting. I’m interested in national data but we could start with one state just to see how it looks.
+>
+> Maps that display known and suspected PFAS contamination sites:
+>
+> - Environmental Working Group: [PFAS Contamination Crisis map ](https://www.ewg.org/interactive-maps/pfas_contamination/map/)
+>     - showing New Data Show 5,021 Sites in 50 States
+- PFAS Working Group: [PFAS Sites and Community Resources](https://experience.arcgis.com/experience/12412ab41b3141598e0bb48523a7c940/)
+>
+Source of municipal wastewater treatment plants that spread biosolids:
+>
+> - EPA’s ECHO database. 
+>     - Background:
+>       - https://echo.epa.gov/help/reports/biosolids-facility-report-help
+>       - https://echo.epa.gov/help/facility-search/biosolids-search-results-help
+>     - Data: https://echo.epa.gov/facilities/facility-search
+>       - Under “Media Program” select “biosolids.” You should get more than 4,000 facilities nationwide. I am not positive all states are represented here. For Missouri, it should return 418 facilities. 
+>       - NOTE: If you search “biosolids annual report” that is a smaller subset of large WWTPs, which is about 100 in Missouri. I figure try the larger data set first.
+
+***
+
+# Data overview
+
+### Environmental Working Group: [PFAS Contamination Crisis map ](https://www.ewg.org/interactive-maps/pfas_contamination/map/)
+#### [<img src="./images/icons/sheets.png" width="20"/> Data](https://docs.google.com/spreadsheets/d/1ZxK1iGJSpqtj6exll48HdJsKvMJszAX6WSUIzWIqqAM/edit#gid=1306244902)
+
+<img src="./images/PFAS Contamination Crisis map.png" width="500"/>
+
+
+
+##### Description from site
+> For all water systems with a detection of PFOS, PFOA or another PFAS, a maximum concentration for each PFAS and a maximum total PFAS concentration is displayed. The maximum levels listed are from a single point in time and do not reflect whether a water system has changed sources or is treating the water to reduce PFAS levels.
+>
+All locations represented on the map are approximate and intended to portray the general area of a contamination site or a community water system. Locations were mapped using the best data available from official records, including data provided by tests of public drinking water systems, the Unregulated Contaminant Monitoring Rule, the Safe Drinking Water Information System, the Department of Defense report “Addressing Perfluorooctane Sulfonate (PFOS) and Perfluorooctanoic Acid (PFOA),” among others.
+>
+Levels listed are for the range of the total of all PFAS detected at the time of the tests and do not reflect whether a water system is treating the water to reduce levels.
+>
+Data on contaminated water system, industrial and military sites was current as of February 2024.
+>
+There are 1,245 sites that reported PFAS via UCMR 5, as of February 2024.
+
+#### Takeaways
+- The data in this map is easily accessible via the Network tab as four individual date stamped geojson files.
+- [A PDF of the underlying site data](https://static.ewg.org/upload/pdf/UCMR5_PFAS-by-Sample-2.1.24.pdf?_gl=1*1r8zd1w*_gcl_au*ODY0MDM5OTY3LjE3MTA2MDE0OTA.*_ga*MTM2MDkxNTE5Mi4xNzEwNjAxNDkw*_ga_CS21GC49KT*MTcxMDYwMzYyNi4yLjEuMTcxMDYwNDgyMS4wLjAuMA..&_ga=2.1562612.455201220.1710601490-1360915192.1710601490) is available online.
+
+<br/>
+
+### PFAS Working Group: [PFAS Sites and Community Resources](https://experience.arcgis.com/experience/12412ab41b3141598e0bb48523a7c940/)
+
