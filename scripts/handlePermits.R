@@ -32,6 +32,10 @@ for (file in files) {
 write_sheet(all_permits, sheet_url, sheet="All permits")
 
 
+# Check what counties points are in
+
+all_permits <- read_sheet(sheet_url, sheet="All permits")
+
 mo <- counties(state="Missouri")
 
 all_permits_sf <- st_as_sf(all_permits,                         
@@ -43,4 +47,15 @@ ggplot() +
   geom_sf(data = mo) +
   geom_sf(data = all_permits_sf) +
   theme_minimal()
+
+
+
+all_permits_sf <- st_transform(all_permits_sf, st_crs(mo))
+
+
+st_join(all_permits_sf, select(mo, NAME), join = st_within) %>% 
+  write_clip()
+
+
+
 
