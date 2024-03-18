@@ -9,22 +9,22 @@ library(sf)
 library(ggplot2)
 
 
-convert_ucm_to_latlong <- function(file, sheet_url) {
+convert_utm_to_latlong <- function(file, sheet_url) {
 
   features_df <- read_csv(paste0("../data/permits/csv_raw/",file,".csv"))
   
   features_df <- features_df %>% 
-    separate(`UTM Coordinates (Centroid)`, into = c("x.ucm", "y.ucm"), sep = ", Y = ") %>%
-    separate(x.ucm, into = c("discard", "x.ucm"), sep = "= ") %>%
+    separate(`UTM Coordinates (Centroid)`, into = c("x.utm", "y.utm"), sep = ", Y = ") %>%
+    separate(x.utm, into = c("discard", "x.utm"), sep = "= ") %>%
     select(-discard) %>% 
     mutate(
-      x.ucm = as.numeric(x.ucm),
-      y.ucm = as.numeric(y.ucm)
+      x.utm = as.numeric(x.utm),
+      y.utm = as.numeric(y.utm)
     )
   
   
   features_sf <- st_as_sf(x = features_df,                         
-                          coords = c("x.ucm", "y.ucm"),
+                          coords = c("x.utm", "y.utm"),
                           crs = "+proj=utm +zone=15")
   
   #Projection transformation
