@@ -88,7 +88,8 @@ scrape_pdf <- function(file) {
       `Vegetation Type` = feature_values["vegetation_type"],
       `Equipment Type` = feature_values["equipment_type"],
       `Field Slope, Maximum` = feature_values["field_slope_max"],
-      `Application Area` = feature_values["application_area"]
+      `Application Area` = feature_values["application_area"],
+      permit = file
     )
     
     # Add row to features dataframe
